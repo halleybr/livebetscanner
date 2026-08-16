@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 393065,
+      "league": "Mexico Liga MX U19",
+      "home": "Santos Laguna U19",
+      "away": "Chivas Guadalajara U19",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 76.0,
+      "lps_at_entry": 70.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T17:02:56.058076+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T17:02:56.058080+00:00"
+    },
+    {
       "id": 391943,
       "league": "Spain La Liga",
       "home": "Racing Santander",
@@ -16,9 +38,9 @@
       "lps_at_entry": 83.1,
       "confidence": "Alta",
       "entered_at": "2026-08-16T16:48:48.435129+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T17:02:56.058191+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T16:48:48.435133+00:00"
     },
@@ -82,9 +104,9 @@
       "lps_at_entry": 75.5,
       "confidence": "Alta",
       "entered_at": "2026-08-16T16:26:45.262936+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T17:02:56.058200+00:00",
+      "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T16:26:45.262940+00:00"
     },
@@ -580,7 +602,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "391930",
-    "391935"
+    "393065"
   ]
 }
