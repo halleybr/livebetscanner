@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 392082,
+      "league": "Brazil Serie B",
+      "home": "CRB",
+      "away": "Gremio Novorizontino",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 37,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.18,
+      "prob": 85.02,
+      "lps_at_entry": 74.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T22:08:57.946562+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T22:08:57.946567+00:00"
+    },
+    {
       "id": 392117,
       "league": "Chile Primera B",
       "home": "Union San Felipe",
@@ -887,5 +909,7 @@
       "note": null
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "392082"
+  ]
 }
