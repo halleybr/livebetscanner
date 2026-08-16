@@ -1,5 +1,26 @@
 [
   {
+    "id": 392219,
+    "league": "Australia WA Premier League Women",
+    "home": "Subiaco AFC (W)",
+    "away": "Perth Redstar FC (W)",
+    "home_score_at_entry": 2,
+    "away_score_at_entry": 2,
+    "minute_at_entry": 85,
+    "market": "Over 0.5 gol",
+    "corner_market": null,
+    "entry_type": "goals",
+    "odd": 1.17,
+    "prob": 75.8,
+    "lps_at_entry": 73.7,
+    "confidence": "Alta",
+    "entered_at": "2026-08-16T09:32:20.564481+00:00",
+    "status": "ativa",
+    "settled_at": null,
+    "final_score": null,
+    "note": null
+  },
+  {
     "id": 391812,
     "league": "Australia Queensland Premier League 2",
     "home": "Virginia United",
