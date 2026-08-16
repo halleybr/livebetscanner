@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 391996,
+      "league": "Estonia Meistriliiga",
+      "home": "FC Flora Tallinn",
+      "away": "FC Kuressaare",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 61,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +8.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T17:17:22.367955+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T17:17:22.367959+00:00"
+    },
+    {
       "id": 393065,
       "league": "Mexico Liga MX U19",
       "home": "Santos Laguna U19",
@@ -16,9 +38,9 @@
       "lps_at_entry": 70.3,
       "confidence": "Alta",
       "entered_at": "2026-08-16T17:02:56.058076+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T17:17:22.368061+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-16T17:02:56.058080+00:00"
     },
@@ -60,10 +82,10 @@
       "lps_at_entry": 71.9,
       "confidence": "Alta",
       "entered_at": "2026-08-16T16:41:21.433835+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-16T17:17:22.368071+00:00",
+      "final_score": "2 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-16T16:59:45.166347+00:00"
     },
     {
@@ -602,6 +624,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "393065"
+    "391996"
   ]
 }
