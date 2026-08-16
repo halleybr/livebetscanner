@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 391935,
+      "league": "Slovakia Super Liga",
+      "home": "FC Spartak Trnava",
+      "away": "MFK Zemplin Michalovce",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 77,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.25,
+      "prob": 82.45,
+      "lps_at_entry": 71.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T16:41:21.433835+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T16:41:21.433840+00:00"
+    },
+    {
       "id": 392920,
       "league": "Scotland Premier League Women",
       "home": "Hearts (W)",
@@ -60,9 +82,9 @@
       "lps_at_entry": 73.5,
       "confidence": "Alta",
       "entered_at": "2026-08-16T16:11:09.393847+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T16:41:21.433927+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T16:11:09.393851+00:00"
     },
@@ -537,7 +559,7 @@
   ],
   "last_opportunity_ids": [
     "391930",
-    "391995",
+    "391935",
     "392920"
   ]
 }
