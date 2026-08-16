@@ -1,5 +1,26 @@
 [
   {
+    "id": 392126,
+    "league": "Norway Eliteserien",
+    "home": "Aalesund",
+    "away": "Valerenga",
+    "home_score_at_entry": 5,
+    "away_score_at_entry": 4,
+    "minute_at_entry": 72,
+    "market": "Over 0.5 gol",
+    "corner_market": "Over de escanteios (total)",
+    "entry_type": "both",
+    "odd": 1.11,
+    "prob": 86.11,
+    "lps_at_entry": 73.3,
+    "confidence": "Alta",
+    "entered_at": "2026-08-16T14:01:45.452291+00:00",
+    "status": "ativa",
+    "settled_at": null,
+    "final_score": null,
+    "note": null
+  },
+  {
     "id": 391896,
     "league": "Denmark Superligaen",
     "home": "Odense BK",
@@ -15,10 +36,10 @@
     "lps_at_entry": 74.7,
     "confidence": "Alta",
     "entered_at": "2026-08-16T13:17:12.340246+00:00",
-    "status": "ativa",
-    "settled_at": null,
-    "final_score": null,
-    "note": null
+    "status": "n_d",
+    "settled_at": "2026-08-16T14:01:45.452352+00:00",
+    "final_score": "1 x 2",
+    "note": "Mercado de escanteios sem dado final disponível (N/D)"
   },
   {
     "id": 391853,
@@ -57,9 +78,9 @@
     "lps_at_entry": 81.5,
     "confidence": "Alta",
     "entered_at": "2026-08-16T13:17:12.340224+00:00",
-    "status": "ativa",
-    "settled_at": null,
-    "final_score": null,
+    "status": "green",
+    "settled_at": "2026-08-16T14:01:45.452362+00:00",
+    "final_score": "3 x 1",
     "note": null
   },
   {
