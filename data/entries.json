@@ -1,5 +1,26 @@
 [
   {
+    "id": 392220,
+    "league": "Australia Queensland Premier League 3",
+    "home": "Moggill",
+    "away": "Newmarket",
+    "home_score_at_entry": 0,
+    "away_score_at_entry": 1,
+    "minute_at_entry": 81,
+    "market": "Over 0.5 gol",
+    "corner_market": null,
+    "entry_type": "goals",
+    "odd": 1.17,
+    "prob": 76.32,
+    "lps_at_entry": 71.7,
+    "confidence": "Alta",
+    "entered_at": "2026-08-16T09:52:59.231582+00:00",
+    "status": "ativa",
+    "settled_at": null,
+    "final_score": null,
+    "note": null
+  },
+  {
     "id": 392219,
     "league": "Australia WA Premier League Women",
     "home": "Subiaco AFC (W)",
@@ -15,9 +36,9 @@
     "lps_at_entry": 73.7,
     "confidence": "Alta",
     "entered_at": "2026-08-16T09:32:20.564481+00:00",
-    "status": "ativa",
-    "settled_at": null,
-    "final_score": null,
+    "status": "green",
+    "settled_at": "2026-08-16T09:52:59.231614+00:00",
+    "final_score": "3 x 2",
     "note": null
   },
   {
