@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 393013,
+      "league": "Faroe Islands Premier League",
+      "home": "Skala IF",
+      "away": "Vikingur Gota",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 78,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 80.45,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T19:09:57.333086+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T19:09:57.333091+00:00"
+    },
+    {
+      "id": 392015,
+      "league": "Iceland Premier League",
+      "home": "KR Reykjavik",
+      "away": "Breidablik",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 52,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 81.46,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T19:09:57.333073+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T19:09:57.333077+00:00"
+    },
+    {
       "id": 392066,
       "league": "Poland I Liga",
       "home": "Unia Skierniewice",
@@ -38,9 +82,9 @@
       "lps_at_entry": 71.0,
       "confidence": "Alta",
       "entered_at": "2026-08-16T18:46:36.186858+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T19:09:57.333211+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T18:46:36.186860+00:00"
     },
@@ -778,6 +822,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "392063"
+    "392015",
+    "392063",
+    "393013"
   ]
 }
