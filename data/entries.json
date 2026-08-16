@@ -1,5 +1,26 @@
 [
   {
+    "id": 391797,
+    "league": "Australia Capital Territory Premier League",
+    "home": "Belconnen United",
+    "away": "Canberra Olympic",
+    "home_score_at_entry": 1,
+    "away_score_at_entry": 3,
+    "minute_at_entry": 72,
+    "market": "Over 0.5 gol",
+    "corner_market": null,
+    "entry_type": "goals",
+    "odd": 1.17,
+    "prob": 77.57,
+    "lps_at_entry": 70.6,
+    "confidence": "Alta",
+    "entered_at": "2026-08-16T06:03:58.471003+00:00",
+    "status": "ativa",
+    "settled_at": null,
+    "final_score": null,
+    "note": null
+  },
+  {
     "id": 391792,
     "league": "Australia Northern NSW Premier League",
     "home": "Lambton Jaffas",
