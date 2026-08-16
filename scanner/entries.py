@@ -16,6 +16,11 @@ final é usado para avaliar a dica:
 O ledger é persistido em JSON: no servidor local em `data/entries.json`; no
 GitHub Pages o workflow commita esse arquivo de volta ao repositório para o
 histórico sobreviver entre os builds (a cada ~2-3 min).
+
+Além da entrada nova, um evento "new" também é gerado quando uma partida que
+já está no histórico (status ATIVA) **reaparece** na lista de oportunidades —
+assim o Telegram avisa quando uma dica volta a ficar quente, não só quando
+nasce. Para não spammar, re-aparições respeitam um cooldown por partida.
 """
 
 from __future__ import annotations
@@ -30,6 +35,10 @@ log = logging.getLogger("scanner.entries")
 
 # Entradas mais antigas que isso são podadas do ledger (o frontend mostra 24h).
 ENTRY_TTL_HOURS = 48
+
+# Re-alerta de uma partida que volta a aparecer como oportunidade: só dispara
+# de novo depois desse intervalo (evita spam com o LPS oscilando no limiar).
+REAPPEAR_COOLDOWN_MINUTES = 15
 
 
 def _now_iso() -> str:
@@ -93,6 +102,7 @@ class EntryTracker:
         self.path = Path(path) if path else None
         self.min_lps = min_lps
         self._entries: dict[str, dict] = {}
+        self._last_opportunity_ids: set[str] = set()
         self._load()
 
     # ------------------------------------------------------------------ IO
@@ -101,7 +111,14 @@ class EntryTracker:
             return
         try:
             raw = json.loads(self.path.read_text(encoding="utf-8"))
-            for e in raw if isinstance(raw, list) else []:
+            if isinstance(raw, dict):
+                entries = raw.get("entries") or []
+                self._last_opportunity_ids = {
+                    str(i) for i in raw.get("last_opportunity_ids") or []
+                }
+            else:
+                entries = raw if isinstance(raw, list) else []
+            for e in entries:
                 if e.get("id") is not None:
                     self._entries[str(e["id"])] = e
         except Exception as exc:  # noqa: BLE001
@@ -112,8 +129,12 @@ class EntryTracker:
             return
         try:
             self.path.parent.mkdir(parents=True, exist_ok=True)
+            payload = {
+                "entries": self.snapshot(),
+                "last_opportunity_ids": sorted(self._last_opportunity_ids),
+            }
             self.path.write_text(
-                json.dumps(self.snapshot(), ensure_ascii=False, indent=2),
+                json.dumps(payload, ensure_ascii=False, indent=2),
                 encoding="utf-8",
             )
         except Exception as exc:  # noqa: BLE001
@@ -139,8 +160,21 @@ class EntryTracker:
         gera 1 evento.
         """
         events: list[dict] = []
+        now_ts = _iso_ts(_now_iso())
 
-        # 1) Novas entradas: só o que o radar recomendou agora.
+        # 1) Oportunidades atuais (mesmos critérios de filtro em todo lugar).
+        current_ids: set[str] = set()
+        for m in opportunities:
+            key = m.get("id")
+            if key is None or str(key) in ("", "None"):
+                continue
+            if m.get("entry_type", "none") == "none":
+                continue
+            if (m.get("lps") or 0) < self.min_lps:
+                continue
+            current_ids.add(str(key))
+
+        # 2) Novas entradas: só o que o radar recomendou agora.
         for m in opportunities:
             key = m.get("id")
             if key is None or str(key) in ("", "None"):
@@ -153,9 +187,26 @@ class EntryTracker:
             if key in self._entries:
                 continue
             self._entries[key] = entry_from_match(m)
+            self._entries[key]["last_alerted_at"] = _now_iso()
             events.append({"kind": "new", "entry": self._entries[key]})
 
-        # 2) Liquidação: partidas que acabaram (placar final do RoboBet).
+        # 2b) Re-aparição: partida que JÁ está no histórico (ATIVA) e voltou a
+        #     aparecer como oportunidade. Alerta de novo, respeitando cooldown.
+        appeared = current_ids - self._last_opportunity_ids
+        for key in appeared:
+            entry = self._entries.get(key)
+            if entry is None or entry.get("status") != "ativa":
+                continue
+            last_alerted = _iso_ts(entry.get("last_alerted_at"))
+            if last_alerted and (
+                now_ts - last_alerted < REAPPEAR_COOLDOWN_MINUTES * 60
+            ):
+                continue
+            entry["last_alerted_at"] = _now_iso()
+            events.append({"kind": "new", "entry": entry})
+        self._last_opportunity_ids = current_ids
+
+        # 3) Liquidação: partidas que acabaram (placar final do RoboBet).
         finished_by_id = {
             str(m.get("id")): m for m in finished_matches if m.get("id") is not None
         }
@@ -167,8 +218,8 @@ class EntryTracker:
                 self._settle(entry, ended)
                 events.append({"kind": "settled", "entry": entry})
 
-        # 3) Podas: entradas muito antigas saem do ledger.
-        cutoff = datetime.now(timezone.utc).timestamp() - ENTRY_TTL_HOURS * 3600
+        # 4) Podas: entradas muito antigas saem do ledger.
+        cutoff = now_ts - ENTRY_TTL_HOURS * 3600
         self._entries = {
             k: v
             for k, v in self._entries.items()

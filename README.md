@@ -82,6 +82,9 @@ nada é enviado e nada quebra):
 
 1. **🎯 Nova entrada** — quando o radar recomenda uma dica (LPS ≥ mínimo, com
    mercado ativo): mercado, partida, liga, LPS, minuto, odd e probabilidade.
+   Dispara tanto quando a partida **entra na lista** pela primeira vez quanto
+   quando ela **reaparece** depois de ter saído (com cooldown de 15 min por
+   partida para não repetir o mesmo aviso a cada ciclo).
 2. **✅/❌ Liquidação** — quando a partida termina e a dica fecha em **GREEN**,
    **RED** ou **SEM DADO** (escanteios), com o placar final.
 
