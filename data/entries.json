@@ -1,5 +1,26 @@
 [
   {
+    "id": 391792,
+    "league": "Australia Northern NSW Premier League",
+    "home": "Lambton Jaffas",
+    "away": "Newcastle Olympic FC",
+    "home_score_at_entry": 1,
+    "away_score_at_entry": 0,
+    "minute_at_entry": 34,
+    "market": "Over 0.5 gol",
+    "corner_market": "Over de escanteios (total)",
+    "entry_type": "both",
+    "odd": 1.18,
+    "prob": 75.36,
+    "lps_at_entry": 80.0,
+    "confidence": "Alta",
+    "entered_at": "2026-08-16T04:38:58.735728+00:00",
+    "status": "ativa",
+    "settled_at": null,
+    "final_score": null,
+    "note": null
+  },
+  {
     "id": 391789,
     "league": "Mexico Liga MX",
     "home": "Atlas",
