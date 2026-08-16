@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 392920,
+      "league": "Scotland Premier League Women",
+      "home": "Hearts (W)",
+      "away": "Aberdeen (W)",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 65,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T16:26:45.262949+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T16:26:45.262952+00:00"
+    },
+    {
+      "id": 391930,
+      "league": "Norway Division 1",
+      "home": "Kongsvinger",
+      "away": "Haugesund",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 63,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 79.56,
+      "lps_at_entry": 75.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T16:26:45.262936+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T16:26:45.262940+00:00"
+    },
+    {
       "id": 391995,
       "league": "Netherlands Eredivisie",
       "home": "Ajax",
@@ -492,6 +536,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "391995"
+    "391930",
+    "391995",
+    "392920"
   ]
 }
