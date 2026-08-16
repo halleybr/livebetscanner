@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 391995,
+      "league": "Netherlands Eredivisie",
+      "home": "Ajax",
+      "away": "Heerenveen",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.11,
+      "prob": 86.03,
+      "lps_at_entry": 73.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T16:11:09.393847+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T16:11:09.393851+00:00"
+    },
+    {
       "id": 392074,
       "league": "Brazil Serie A1 Women",
       "home": "Palmeiras (W)",
@@ -469,5 +491,7 @@
       "note": null
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "391995"
+  ]
 }
