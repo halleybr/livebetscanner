@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 393010,
+      "league": "Faroe Islands Premier League",
+      "home": "07 Vestur",
+      "away": "B36 Torshavn",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 81,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 82.15,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T17:55:09.521455+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T17:55:09.521459+00:00"
+    },
+    {
       "id": 392008,
       "league": "Bulgaria First League",
       "home": "CSKA Sofia",
@@ -60,9 +82,9 @@
       "lps_at_entry": 73.8,
       "confidence": "Alta",
       "entered_at": "2026-08-16T17:17:22.367955+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T17:55:09.521564+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-16T17:17:22.367959+00:00"
     },
@@ -668,7 +690,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "391996",
-    "392008"
+    "393010"
   ]
 }
