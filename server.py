@@ -34,7 +34,7 @@ from datetime import datetime, timezone
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
-from scanner import robobet, sokkerpro
+from scanner import robobet, sokkerpro, telegram
 from scanner.entries import EntryTracker
 from scanner.scorer import classify
 
@@ -153,8 +153,9 @@ def _robobet_poll_loop() -> None:
                     m for m in scored if m["lps"] >= MIN_LPS
                 ][:TOP_N]
                 finished = robobet.extract_finished_matches(payload)
-                _tracker.observe(opportunities, finished)
+                events = _tracker.observe(opportunities, finished)
                 _tracker.save()
+                telegram.notify_events(events)
                 _set_state(
                     live_matches=scored,
                     opportunities=opportunities,

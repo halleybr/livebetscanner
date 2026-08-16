@@ -37,6 +37,10 @@ jobs:
         run: python build.py
         env:
           MIN_LPS: "70"
+          # Alertas Telegram (opcionais): sem secrets o build roda normal,
+          # apenas não envia nada. Veja o README para criar o bot e os secrets.
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
       - name: Persist entry ledger
         # Commita o histórico green/red de volta ao repositório para o próximo

@@ -15,6 +15,7 @@ Uso:
 Configuração (variáveis de ambiente):
     MIN_LPS=70                filtro mínimo do Live Pressure Score
     TOP_N=10                  máximo de jogos exibidos
+    TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID   alertas no Telegram (opcional)
 """
 
 from __future__ import annotations
@@ -24,7 +25,7 @@ import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-from scanner import robobet, sokkerpro
+from scanner import robobet, sokkerpro, telegram
 from scanner.entries import EntryTracker
 from scanner.scorer import classify
 from server import _enrich_one  # reutiliza o casamento/enriquecimento do servidor
@@ -87,8 +88,9 @@ def main() -> None:
     #     histórico sobrevive entre os builds do GitHub Pages.
     finished = robobet.extract_finished_matches(payload) if payload is not None else []
     tracker = EntryTracker(ENTRIES_FILE, MIN_LPS)
-    tracker.observe(opportunities, finished)
+    events = tracker.observe(opportunities, finished)
     tracker.save()
+    telegram.notify_events(events)
 
     data = {
         "summary": {

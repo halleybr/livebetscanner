@@ -25,6 +25,8 @@ Abra **http://localhost:8765**. Pronto.
 | `STATS_ENABLED`  | `1`    | `0` desliga a busca de estatísticas         |
 | `TOP_N`          | `10`   | Máximo de jogos exibidos                    |
 | `MIN_LPS`        | `70`   | Filtro mínimo do Live Pressure Score        |
+| `TELEGRAM_BOT_TOKEN` | — | Token do bot para alertas (opcional)    |
+| `TELEGRAM_CHAT_ID`   | — | Chat/grupo que recebe os alertas (opcional) |
 
 Exemplo: `MIN_LPS=60 python server.py` (mostra também jogos "OBSERVAR").
 
@@ -72,6 +74,39 @@ Avaliação com o placar final do RoboBet (`status == finished`): **Over 0.5 gol
 
 > Obs.: o Pages é configurado com a fonte **GitHub Actions** (em *Settings* →
 > *Pages* → *Build and deployment* → *Source* → *GitHub Actions*).
+
+## 🤖 Alertas no Telegram
+
+O scanner envia **2 tipos de alerta** no Telegram (opcional — sem configuração
+nada é enviado e nada quebra):
+
+1. **🎯 Nova entrada** — quando o radar recomenda uma dica (LPS ≥ mínimo, com
+   mercado ativo): mercado, partida, liga, LPS, minuto, odd e probabilidade.
+2. **✅/❌ Liquidação** — quando a partida termina e a dica fecha em **GREEN**,
+   **RED** ou **SEM DADO** (escanteios), com o placar final.
+
+### Criar o bot (uma vez)
+
+1. No Telegram, abra o **@BotFather** → `/newbot` → escolha um nome e um
+   username. Copie o **token** (formato `123456:ABC...`).
+2. Abra uma conversa com o seu bot (ou crie um grupo e adicione-o) e mande
+   qualquer mensagem para ele.
+3. Descubra o **chat id**: abra no navegador
+   `https://api.telegram.org/bot<TOKEN>/getUpdates` → procure o número em
+   `message.chat.id` (grupos usam ids negativos).
+
+### Ativar
+
+* **Local:** `export TELEGRAM_BOT_TOKEN=<token> TELEGRAM_CHAT_ID=<chat_id>`
+  antes de `python server.py` (ou `build.py`).
+* **GitHub Pages:** em *Settings* → *Secrets and variables* → *Actions*, crie
+  os secrets **`TELEGRAM_BOT_TOKEN`** e **`TELEGRAM_CHAT_ID`** com os mesmos
+  valores. O workflow `pages.yml` já os repassa ao `build.py` — a cada execução
+  (~2 min), novas entradas e liquidações são avisadas automaticamente.
+* Opcional: `TELEGRAM_SITE_URL` para trocar o link incluído nas mensagens.
+
+Dica: para testar sem esperar um jogo, rode `python build.py` com as variáveis
+setadas — se houver entrada nova ou liquidação pendente, o alerta sai na hora.
 
 ## Arquitetura e fluxo dos dados
 

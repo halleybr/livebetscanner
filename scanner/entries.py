@@ -128,8 +128,18 @@ class EntryTracker:
             reverse=True,
         )
 
-    def observe(self, opportunities: list[dict], finished_matches: list[dict]) -> None:
-        """Adiciona entradas novas (recomendações atuais) e liquida as encerradas."""
+    def observe(
+        self, opportunities: list[dict], finished_matches: list[dict]
+    ) -> list[dict]:
+        """Adiciona entradas novas (recomendações atuais) e liquida as encerradas.
+
+        Retorna a lista de eventos da rodada — ``{"kind": "new"|"settled",
+        "entry": {...}}`` — para quem chama disparar alertas (ex.: Telegram).
+        Só eventos de transição: uma entrada nova gera 1 evento, uma liquidação
+        gera 1 evento.
+        """
+        events: list[dict] = []
+
         # 1) Novas entradas: só o que o radar recomendou agora.
         for m in opportunities:
             key = m.get("id")
@@ -143,6 +153,7 @@ class EntryTracker:
             if key in self._entries:
                 continue
             self._entries[key] = entry_from_match(m)
+            events.append({"kind": "new", "entry": self._entries[key]})
 
         # 2) Liquidação: partidas que acabaram (placar final do RoboBet).
         finished_by_id = {
@@ -154,6 +165,7 @@ class EntryTracker:
             ended = finished_by_id.get(key)
             if ended is not None:
                 self._settle(entry, ended)
+                events.append({"kind": "settled", "entry": entry})
 
         # 3) Podas: entradas muito antigas saem do ledger.
         cutoff = datetime.now(timezone.utc).timestamp() - ENTRY_TTL_HOURS * 3600
@@ -162,6 +174,8 @@ class EntryTracker:
             for k, v in self._entries.items()
             if _iso_ts(v.get("entered_at")) >= cutoff
         }
+
+        return events
 
     # ------------------------------------------------------------ interno
     def _settle(self, entry: dict, ended: dict) -> None:
