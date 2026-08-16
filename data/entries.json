@@ -86,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-16T18:46:36.186842+00:00"
+      "last_alerted_at": "2026-08-16T19:04:36.428322+00:00"
     },
     {
       "id": 393010,
@@ -148,9 +148,9 @@
       "lps_at_entry": 70.9,
       "confidence": "Alta",
       "entered_at": "2026-08-16T17:23:06.956158+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-16T19:04:36.428428+00:00",
+      "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-08-16T17:23:06.956162+00:00"
     },
@@ -778,6 +778,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "392019"
+    "392063"
   ]
 }
