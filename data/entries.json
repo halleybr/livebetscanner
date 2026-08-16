@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 392816,
+      "league": "Saudi Arabia Cup",
+      "home": "Al Wehda Mecca",
+      "away": "Al Shabab Riyadh",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 65,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 82.06,
+      "lps_at_entry": 72.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-16T19:28:08.693458+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-16T19:28:08.693462+00:00"
+    },
+    {
       "id": 393013,
       "league": "Faroe Islands Premier League",
       "home": "Skala IF",
@@ -60,10 +82,10 @@
       "lps_at_entry": 70.7,
       "confidence": "Alta",
       "entered_at": "2026-08-16T18:46:36.186864+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-16T19:28:08.693617+00:00",
+      "final_score": "0 x 3",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-16T18:46:36.186866+00:00"
     },
     {
@@ -108,7 +130,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-16T18:46:36.186852+00:00"
+      "last_alerted_at": "2026-08-16T19:28:08.693473+00:00"
     },
     {
       "id": 392063,
@@ -126,10 +148,10 @@
       "lps_at_entry": 74.7,
       "confidence": "Alta",
       "entered_at": "2026-08-16T18:46:36.186838+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-16T19:28:08.693626+00:00",
+      "final_score": "0 x 1",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-16T19:04:36.428322+00:00"
     },
     {
@@ -823,7 +845,7 @@
   ],
   "last_opportunity_ids": [
     "392015",
-    "392063",
-    "393013"
+    "392019",
+    "392816"
   ]
 }
