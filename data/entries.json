@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 394531,
+      "league": "El Salvador Apertura",
+      "home": "CD Platense Zacatecoluca",
+      "away": "CD FAS",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-17T01:59:22.341434+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-17T01:59:22.341437+00:00"
+    },
+    {
+      "id": 394530,
+      "league": "Chile Primera B",
+      "home": "Deportes Iquique",
+      "away": "CD Antofagasta",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 96,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 72.34,
+      "lps_at_entry": 76.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-17T01:59:22.341422+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-17T01:59:22.341426+00:00"
+    },
+    {
       "id": 392097,
       "league": "Mexico Liga MX Femenil",
       "home": "Chivas Guadalajara (W)",
@@ -953,5 +997,8 @@
       "note": null
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "394530",
+    "394531"
+  ]
 }
