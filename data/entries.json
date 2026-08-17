@@ -1151,51 +1151,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null
-    },
-    {
-      "id": 391033,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Club America (W)",
-      "away": "Puebla (W)",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 86,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-15T23:35:12.276954+00:00",
-      "status": "green",
-      "settled_at": "2026-08-15T23:47:25.922655+00:00",
-      "final_score": "5 x 1",
-      "note": null
-    },
-    {
-      "id": 391037,
-      "league": "USA MLS Next Pro League",
-      "home": "Columbus Crew II",
-      "away": "New York City FC II",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 66,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.22,
-      "prob": 74.99,
-      "lps_at_entry": 76.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-15T23:35:12.276937+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null
     }
   ],
-  "last_opportunity_ids": [
-    "394528"
-  ]
+  "last_opportunity_ids": []
 }
