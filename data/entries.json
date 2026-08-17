@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 394540,
+      "league": "Australia Victoria Premier League 1",
+      "home": "Melbourne Victory NPL",
+      "away": "Northcote City",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 66,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 74.96,
+      "lps_at_entry": 71.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-17T11:40:44.878290+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-17T11:40:44.878296+00:00"
+    },
+    {
       "id": 394531,
       "league": "El Salvador Apertura",
       "home": "CD Platense Zacatecoluca",
@@ -997,5 +1019,7 @@
       "note": null
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "394540"
+  ]
 }
