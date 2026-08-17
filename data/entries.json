@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 394596,
+      "league": "Iceland 1 Deild",
+      "home": "Afturelding",
+      "away": "HK Kopavogur",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 57,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 80.65,
+      "lps_at_entry": 72.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-17T20:36:00.539303+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-17T20:36:00.539307+00:00"
+    },
+    {
       "id": 394576,
       "league": "England Championship",
       "home": "Cardiff",
@@ -1151,5 +1173,7 @@
       "note": null
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "394596"
+  ]
 }
