@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 395971,
+      "league": "USA MLS Next Pro League",
+      "home": "Atlanta United II",
+      "away": "Chicago Fire II",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.18,
+      "prob": 76.72,
+      "lps_at_entry": 70.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-18T17:03:33.671754+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-18T17:03:33.671758+00:00"
+    },
+    {
       "id": 395942,
       "league": "Finland Kolmonen",
       "home": "Nykarleby IK",
@@ -38,9 +60,9 @@
       "lps_at_entry": 73.2,
       "confidence": "Alta",
       "entered_at": "2026-08-18T16:41:24.637965+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-18T17:03:33.671781+00:00",
+      "final_score": "0 x 5",
       "note": null,
       "last_alerted_at": "2026-08-18T16:41:24.637969+00:00"
     },
@@ -703,53 +725,9 @@
       "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-16T17:17:22.367959+00:00"
-    },
-    {
-      "id": 393065,
-      "league": "Mexico Liga MX U19",
-      "home": "Santos Laguna U19",
-      "away": "Chivas Guadalajara U19",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 93,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.18,
-      "prob": 76.0,
-      "lps_at_entry": 70.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T17:02:56.058076+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T17:17:22.368061+00:00",
-      "final_score": "2 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-16T17:02:56.058080+00:00"
-    },
-    {
-      "id": 391943,
-      "league": "Spain La Liga",
-      "home": "Racing Santander",
-      "away": "Villarreal",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 83,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 83.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T16:48:48.435129+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T17:02:56.058191+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-16T16:48:48.435133+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "395926"
+    "395971"
   ]
 }
