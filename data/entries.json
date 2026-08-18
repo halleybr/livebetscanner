@@ -659,28 +659,6 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T17:55:09.521459+00:00"
-    },
-    {
-      "id": 392008,
-      "league": "Bulgaria First League",
-      "home": "CSKA Sofia",
-      "away": "Botev Vratsa",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 79,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T17:40:36.414296+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T18:13:55.894024+00:00",
-      "final_score": "5 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-16T17:40:36.414300+00:00"
     }
   ],
   "last_opportunity_ids": []
