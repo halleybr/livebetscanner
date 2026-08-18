@@ -923,27 +923,6 @@
       "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-08-16T14:42:51.904118+00:00"
-    },
-    {
-      "id": 392128,
-      "league": "Netherlands Eredivisie",
-      "home": "Feyenoord",
-      "away": "Go Ahead Eagles",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 91,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 88.14,
-      "lps_at_entry": 71.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T14:20:39.746705+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T14:26:53.102316+00:00",
-      "final_score": "2 x 2",
-      "note": null
     }
   ],
   "last_opportunity_ids": []
