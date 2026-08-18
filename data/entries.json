@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 395961,
+      "league": "Iceland 1 Deild Women",
+      "home": "Keflavik (W)",
+      "away": "KR Reykjavik (W)",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 40,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 77.32,
+      "lps_at_entry": 75.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-18T18:42:06.187064+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-18T18:42:06.187068+00:00"
+    },
+    {
       "id": 395327,
       "league": "England EFL Trophy",
       "home": "Reading",
@@ -662,6 +684,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "395327"
+    "395961"
   ]
 }
