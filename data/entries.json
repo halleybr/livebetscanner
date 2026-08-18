@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 395327,
+      "league": "England EFL Trophy",
+      "home": "Reading",
+      "away": "Wycombe",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 39,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-18T18:39:28.182755+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-18T18:39:28.182759+00:00"
+    },
+    {
       "id": 395971,
       "league": "USA MLS Next Pro League",
       "home": "Atlanta United II",
@@ -639,5 +661,7 @@
       "last_alerted_at": "2026-08-16T19:04:36.428322+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "395327"
+  ]
 }
