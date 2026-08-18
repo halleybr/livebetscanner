@@ -527,28 +527,6 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-17T01:59:22.341426+00:00"
-    },
-    {
-      "id": 392097,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Chivas Guadalajara (W)",
-      "away": "Atletico San Luis (W)",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 37,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.11,
-      "prob": 86.31,
-      "lps_at_entry": 75.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T23:37:44.153652+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-08-16T23:37:44.153654+00:00"
     }
   ],
   "last_opportunity_ids": []
