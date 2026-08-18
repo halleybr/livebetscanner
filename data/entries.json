@@ -791,28 +791,6 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T16:11:09.393851+00:00"
-    },
-    {
-      "id": 392074,
-      "league": "Brazil Serie A1 Women",
-      "home": "Palmeiras (W)",
-      "away": "EC Juventude (W)",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 91,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 74.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T15:53:25.950534+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T15:59:53.091273+00:00",
-      "final_score": "3 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-16T15:53:25.950539+00:00"
     }
   ],
   "last_opportunity_ids": []
