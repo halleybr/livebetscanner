@@ -549,54 +549,9 @@
       "final_score": "0 x 1",
       "note": null,
       "last_alerted_at": "2026-08-16T20:34:09.016084+00:00"
-    },
-    {
-      "id": 395147,
-      "league": "Mexico Liga MX U19",
-      "home": "Club America U19",
-      "away": "Atletico San Luis U19",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 91,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.17,
-      "prob": 77.77,
-      "lps_at_entry": 70.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T19:31:26.832132+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T19:43:35.489483+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-16T19:31:26.832136+00:00"
-    },
-    {
-      "id": 392816,
-      "league": "Saudi Arabia Cup",
-      "home": "Al Wehda Mecca",
-      "away": "Al Shabab Riyadh",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 65,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 82.06,
-      "lps_at_entry": 72.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T19:28:08.693458+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T20:51:36.476894+00:00",
-      "final_score": "1 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-16T19:58:54.635158+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "395936",
     "395961"
   ]
 }
