@@ -38,9 +38,9 @@
       "lps_at_entry": 70.8,
       "confidence": "Alta",
       "entered_at": "2026-08-18T16:41:24.637977+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-18T17:58:59.561883+00:00",
+      "final_score": "3 x 4",
       "note": null,
       "last_alerted_at": "2026-08-18T16:41:24.637980+00:00"
     },
@@ -637,28 +637,6 @@
       "final_score": "0 x 1",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-16T19:04:36.428322+00:00"
-    },
-    {
-      "id": 393010,
-      "league": "Faroe Islands Premier League",
-      "home": "07 Vestur",
-      "away": "B36 Torshavn",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 81,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 82.15,
-      "lps_at_entry": 70.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T17:55:09.521455+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T18:13:55.894007+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-16T17:55:09.521459+00:00"
     }
   ],
   "last_opportunity_ids": []
