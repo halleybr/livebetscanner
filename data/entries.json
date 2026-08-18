@@ -901,28 +901,6 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-16T15:46:56.103815+00:00"
-    },
-    {
-      "id": 395052,
-      "league": "Latvia Cup",
-      "home": "Riga FC",
-      "away": "Metta/LU",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 85,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.18,
-      "prob": 78.46,
-      "lps_at_entry": 73.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-16T14:42:51.904114+00:00",
-      "status": "green",
-      "settled_at": "2026-08-16T14:54:13.191492+00:00",
-      "final_score": "4 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-16T14:42:51.904118+00:00"
     }
   ],
   "last_opportunity_ids": []
