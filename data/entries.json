@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397066,
+      "league": "Poland III Liga",
+      "home": "Elana Torun",
+      "away": "Unia Swarzedz",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 44,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.2,
+      "prob": 73.94,
+      "lps_at_entry": 71.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T16:46:14.919134+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T16:46:14.919137+00:00"
+    },
+    {
       "id": 396963,
       "league": "Romania Cup",
       "home": "Corona Brasov",
@@ -639,5 +661,7 @@
       "last_alerted_at": "2026-08-17T16:59:11.822735+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397066"
+  ]
 }
