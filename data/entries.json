@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398595,
+      "league": "Finland Kolmonen",
+      "home": "Virkia",
+      "away": "FC Ylivieska",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 76.96,
+      "lps_at_entry": 74.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T17:34:19.530503+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T17:34:19.530507+00:00"
+    },
+    {
       "id": 396991,
       "league": "Slovenia U19 League",
       "home": "ND Ilirija U19",
@@ -16,9 +38,9 @@
       "lps_at_entry": 74.5,
       "confidence": "Alta",
       "entered_at": "2026-08-19T17:01:57.589423+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T17:34:19.530553+00:00",
+      "final_score": "9 x 1",
       "note": null,
       "last_alerted_at": "2026-08-19T17:01:57.589427+00:00"
     },
@@ -42,7 +64,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-19T16:46:14.919137+00:00"
+      "last_alerted_at": "2026-08-19T17:34:19.530517+00:00"
     },
     {
       "id": 396963,
@@ -662,6 +684,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "396991"
+    "397066",
+    "398595"
   ]
 }
