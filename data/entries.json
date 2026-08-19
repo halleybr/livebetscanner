@@ -835,28 +835,6 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-18T01:43:23.389482+00:00"
-    },
-    {
-      "id": 394528,
-      "league": "Brazil Serie C",
-      "home": "Guarani",
-      "away": "Ypiranga RS",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 32,
-      "market": null,
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.2,
-      "prob": 85.29,
-      "lps_at_entry": 71.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T23:33:52.182438+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-08-17T23:33:52.182442+00:00"
     }
   ],
   "last_opportunity_ids": []
