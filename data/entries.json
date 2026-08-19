@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 396991,
+      "league": "Slovenia U19 League",
+      "home": "ND Ilirija U19",
+      "away": "NK Rudar Velenje U19",
+      "home_score_at_entry": 7,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 70,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 83.45,
+      "lps_at_entry": 74.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T17:01:57.589423+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T17:01:57.589427+00:00"
+    },
+    {
       "id": 397066,
       "league": "Poland III Liga",
       "home": "Elana Torun",
@@ -60,9 +82,9 @@
       "lps_at_entry": 73.1,
       "confidence": "Alta",
       "entered_at": "2026-08-19T15:21:08.939431+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T17:01:57.589465+00:00",
+      "final_score": "0 x 5",
       "note": null,
       "last_alerted_at": "2026-08-19T15:21:08.939434+00:00"
     },
@@ -637,31 +659,9 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-17T19:15:42.960555+00:00"
-    },
-    {
-      "id": 394584,
-      "league": "Finland Kansallinen Liiga Women",
-      "home": "HJK (W)",
-      "away": "KuPS (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 73,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 83.9,
-      "lps_at_entry": 70.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T16:59:11.822732+00:00",
-      "status": "green",
-      "settled_at": "2026-08-17T17:26:15.737134+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-17T16:59:11.822735+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "397066"
+    "396991"
   ]
 }
