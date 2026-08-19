@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 397178,
+      "league": "Slovakia Cup",
+      "home": "Ofk-Sim Raslavice",
+      "away": "FC Kosice",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 23,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T15:21:08.939431+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T15:21:08.939434+00:00"
+    },
+    {
+      "id": 397135,
+      "league": "Poland III Liga",
+      "home": "Miedz Legnica II",
+      "away": "Odra Bytom Odrzanski",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 64,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T15:21:08.939418+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T15:21:08.939423+00:00"
+    },
+    {
       "id": 397134,
       "league": "Poland III Liga",
       "home": "Rakow Czestochowa II",
@@ -595,5 +639,8 @@
       "last_alerted_at": "2026-08-17T16:37:08.858896+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397135",
+    "397178"
+  ]
 }
