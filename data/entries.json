@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 396159,
+      "league": "Japan FA Cup",
+      "home": "Nara Club",
+      "away": "FC Osaka",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T11:29:18.333883+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T11:29:18.333889+00:00"
+    },
+    {
       "id": 397070,
       "league": "Poland III Liga",
       "home": "Lech Poznan II",
@@ -529,5 +551,7 @@
       "last_alerted_at": "2026-08-17T11:40:44.878296+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "396159"
+  ]
 }
