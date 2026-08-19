@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398597,
+      "league": "Denmark Cup",
+      "home": "ASA Aarhus",
+      "away": "Randers FC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 4,
+      "minute_at_entry": 88,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 84.85,
+      "lps_at_entry": 72.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T17:54:08.338408+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T17:54:08.338412+00:00"
+    },
+    {
       "id": 398595,
       "league": "Finland Kolmonen",
       "home": "Virkia",
@@ -684,6 +706,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "397066"
+    "398597"
   ]
 }
