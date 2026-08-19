@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 396993,
+      "league": "Scotland Highland League",
+      "home": "Forres Mechanics",
+      "away": "Clachnacuddin",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 82,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 75.39,
+      "lps_at_entry": 72.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T20:38:12.179298+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T20:38:12.179302+00:00"
+    },
+    {
       "id": 397273,
       "league": "Republic of Ireland Leinster Senior League",
       "home": "Inchicore Athletic FC",
@@ -38,9 +60,9 @@
       "lps_at_entry": 71.2,
       "confidence": "Alta",
       "entered_at": "2026-08-19T19:56:53.799862+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T20:38:12.179380+00:00",
+      "final_score": "0 x 5",
       "note": null,
       "last_alerted_at": "2026-08-19T19:56:53.799866+00:00"
     },
@@ -64,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-19T19:56:53.799857+00:00"
+      "last_alerted_at": "2026-08-19T20:38:12.179313+00:00"
     },
     {
       "id": 396078,
@@ -104,9 +126,9 @@
       "lps_at_entry": 72.3,
       "confidence": "Alta",
       "entered_at": "2026-08-19T19:47:52.323905+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T20:38:12.179388+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-08-19T19:47:52.323907+00:00"
     },
@@ -813,32 +835,11 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-08-17T23:33:52.182442+00:00"
-    },
-    {
-      "id": 394596,
-      "league": "Iceland 1 Deild",
-      "home": "Afturelding",
-      "away": "HK Kopavogur",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 57,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.14,
-      "prob": 80.65,
-      "lps_at_entry": 72.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T20:36:00.539303+00:00",
-      "status": "green",
-      "settled_at": "2026-08-17T21:27:43.413503+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-17T20:36:00.539307+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "397273",
-    "398663"
+    "396154",
+    "396993",
+    "397273"
   ]
 }
