@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397134,
+      "league": "Poland III Liga",
+      "home": "Rakow Czestochowa II",
+      "away": "KS Stilon Gorzow",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 72.12,
+      "lps_at_entry": 76.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T13:57:41.838786+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T13:57:41.838791+00:00"
+    },
+    {
       "id": 397582,
       "league": "Australia WA State League 1 Reserves",
       "home": "Kingsley Westside Reserves",
@@ -573,5 +595,7 @@
       "last_alerted_at": "2026-08-17T16:37:08.858896+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397134"
+  ]
 }
