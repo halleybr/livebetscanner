@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 396161,
+      "league": "Japan FA Cup",
+      "home": "Parceiro Nagano",
+      "away": "Fukui United",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.4,
+      "prob": 62.87,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T11:46:53.369778+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T11:46:53.369782+00:00"
+    },
+    {
       "id": 396159,
       "league": "Japan FA Cup",
       "home": "Nara Club",
@@ -527,31 +549,9 @@
       "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-08-17T16:37:08.858896+00:00"
-    },
-    {
-      "id": 394540,
-      "league": "Australia Victoria Premier League 1",
-      "home": "Melbourne Victory NPL",
-      "away": "Northcote City",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 66,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 74.96,
-      "lps_at_entry": 71.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T11:40:44.878290+00:00",
-      "status": "green",
-      "settled_at": "2026-08-17T12:14:05.886421+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-17T11:40:44.878296+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "396159"
+    "396161"
   ]
 }
