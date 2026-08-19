@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398652,
+      "league": "Iceland 3 Deild",
+      "home": "Reynir Sandgerdi",
+      "away": "KH Hlidarendi",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 20,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T18:20:51.287501+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T18:20:51.287505+00:00"
+    },
+    {
       "id": 398647,
       "league": "Iceland 2 Deild",
       "home": "UMF Selfoss",
@@ -703,31 +725,9 @@
       "final_score": "4 x 4",
       "note": null,
       "last_alerted_at": "2026-08-17T19:15:42.960536+00:00"
-    },
-    {
-      "id": 395871,
-      "league": "Mexico Liga MX U19",
-      "home": "Pachuca U19",
-      "away": "Puebla U19",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 23,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.29,
-      "prob": 72.97,
-      "lps_at_entry": 71.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T18:16:39.897947+00:00",
-      "status": "green",
-      "settled_at": "2026-08-17T20:01:55.750282+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-17T19:15:42.960555+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "398647"
+    "398652"
   ]
 }
