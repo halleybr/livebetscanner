@@ -20,7 +20,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-19T18:20:51.287505+00:00"
+      "last_alerted_at": "2026-08-19T19:14:44.681015+00:00"
     },
     {
       "id": 398647,
@@ -42,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-19T18:13:44.515179+00:00"
+      "last_alerted_at": "2026-08-19T19:14:44.681009+00:00"
     },
     {
       "id": 398597,
@@ -727,5 +727,8 @@
       "last_alerted_at": "2026-08-17T19:15:42.960536+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "398647",
+    "398652"
+  ]
 }
