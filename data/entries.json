@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397143,
+      "league": "Poland III Liga",
+      "home": "Wislanie Jaskowice",
+      "away": "KSZO Ostrowiec",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 82,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T19:25:22.645906+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T19:25:22.645910+00:00"
+    },
+    {
       "id": 398652,
       "league": "Iceland 3 Deild",
       "home": "Reynir Sandgerdi",
@@ -681,54 +703,10 @@
       "final_score": "1 x 1",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-17T19:44:34.749940+00:00"
-    },
-    {
-      "id": 394594,
-      "league": "Iceland 1 Deild",
-      "home": "IR Reykjavik",
-      "away": "Njardvik",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 57,
-      "market": null,
-      "corner_market": "Over +8.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.17,
-      "prob": 85.69,
-      "lps_at_entry": 70.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T19:15:42.960544+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-17T20:01:55.750267+00:00",
-      "final_score": "3 x 1",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-17T19:15:42.960546+00:00"
-    },
-    {
-      "id": 394571,
-      "league": "Iceland Premier League",
-      "home": "Valur Reykjavik",
-      "away": "KA Akureyri",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 58,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +8.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-17T19:15:42.960532+00:00",
-      "status": "green",
-      "settled_at": "2026-08-17T20:01:55.750277+00:00",
-      "final_score": "4 x 4",
-      "note": null,
-      "last_alerted_at": "2026-08-17T19:15:42.960536+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "398647",
+    "397143",
     "398652"
   ]
 }
