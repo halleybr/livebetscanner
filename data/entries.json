@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397273,
+      "league": "Republic of Ireland Leinster Senior League",
+      "home": "Inchicore Athletic FC",
+      "away": "Wayside Celtic",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 59,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 77.18,
+      "lps_at_entry": 71.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T20:19:24.062368+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T20:19:24.062373+00:00"
+    },
+    {
       "id": 398648,
       "league": "Iceland 2 Deild",
       "home": "Hviti Riddarinn",
@@ -130,7 +152,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-19T19:47:52.323892+00:00"
+      "last_alerted_at": "2026-08-19T20:19:24.062382+00:00"
     },
     {
       "id": 397143,
@@ -815,5 +837,8 @@
       "last_alerted_at": "2026-08-17T20:36:00.539307+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397273",
+    "398663"
+  ]
 }
