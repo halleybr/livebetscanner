@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398647,
+      "league": "Iceland 2 Deild",
+      "home": "UMF Selfoss",
+      "away": "Kari",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 14,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-19T18:13:44.515174+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-19T18:13:44.515179+00:00"
+    },
+    {
       "id": 398597,
       "league": "Denmark Cup",
       "home": "ASA Aarhus",
@@ -16,9 +38,9 @@
       "lps_at_entry": 72.9,
       "confidence": "Alta",
       "entered_at": "2026-08-19T17:54:08.338408+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T18:13:44.515224+00:00",
+      "final_score": "0 x 4",
       "note": null,
       "last_alerted_at": "2026-08-19T17:54:08.338412+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 74.0,
       "confidence": "Alta",
       "entered_at": "2026-08-19T17:34:19.530503+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-19T18:13:44.515232+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-19T17:34:19.530507+00:00"
     },
@@ -706,6 +728,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "398597"
+    "398647"
   ]
 }
