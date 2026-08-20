@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397521,
+      "league": "Finland Kolmonen",
+      "home": "Kultsu FC",
+      "away": "MP II",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 42,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 74.83,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T15:44:16.703045+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T15:44:16.703048+00:00"
+    },
+    {
       "id": 397442,
       "league": "Estonia Esiliiga B",
       "home": "Tabasalu FC Charma",
@@ -815,5 +837,7 @@
       "last_alerted_at": "2026-08-18T16:41:24.637969+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397521"
+  ]
 }
