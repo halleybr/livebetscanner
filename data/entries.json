@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 397457,
+      "league": "UEFA Conference League Qualifying",
+      "home": "Hajduk Split",
+      "away": "Rakow Czestochowa",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 73.89,
+      "lps_at_entry": 70.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T20:49:23.131199+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T20:49:23.131203+00:00"
+    },
+    {
+      "id": 397463,
+      "league": "Iceland 4 Deild",
+      "home": "IH Hafnarfjordur",
+      "away": "Ellidi",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 33,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 82.66,
+      "lps_at_entry": 70.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T20:49:23.131188+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T20:49:23.131192+00:00"
+    },
+    {
       "id": 397572,
       "league": "Iceland Premier League Women",
       "home": "Stjarnan (W)",
@@ -108,7 +152,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-20T19:37:35.311217+00:00"
+      "last_alerted_at": "2026-08-20T20:49:23.131209+00:00"
     },
     {
       "id": 397455,
@@ -904,6 +948,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "397572"
+    "397457",
+    "397463",
+    "400263"
   ]
 }
