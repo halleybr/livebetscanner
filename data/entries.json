@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397486,
+      "league": "Denmark Division 1",
+      "home": "Vendsyssel FF",
+      "away": "Hillerød",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 58,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 80.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T18:13:42.612216+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T18:13:42.612220+00:00"
+    },
+    {
       "id": 398672,
       "league": "Norway Toppserien Women",
       "home": "Rosenborg (W)",
@@ -16,9 +38,9 @@
       "lps_at_entry": 72.6,
       "confidence": "Alta",
       "entered_at": "2026-08-20T17:47:35.981070+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-20T18:13:42.612255+00:00",
+      "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-08-20T17:47:35.981073+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 72.7,
       "confidence": "Alta",
       "entered_at": "2026-08-20T17:47:35.981057+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-20T18:13:42.612264+00:00",
+      "final_score": "0 x 1",
       "note": null,
       "last_alerted_at": "2026-08-20T17:47:35.981062+00:00"
     },
@@ -838,7 +860,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "397478",
-    "398672"
+    "397486"
   ]
 }
