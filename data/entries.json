@@ -813,28 +813,6 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-18T13:54:35.021709+00:00"
-    },
-    {
-      "id": 395929,
-      "league": "Australia Cup",
-      "home": "SD Raiders",
-      "away": "Sydney FC",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 69,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-18T10:58:37.152632+00:00",
-      "status": "green",
-      "settled_at": "2026-08-18T11:27:18.077461+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-18T10:58:37.152636+00:00"
     }
   ],
   "last_opportunity_ids": []
