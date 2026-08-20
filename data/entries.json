@@ -38,9 +38,9 @@
       "lps_at_entry": 70.5,
       "confidence": "Alta",
       "entered_at": "2026-08-20T15:44:16.703045+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-20T17:15:28.282194+00:00",
+      "final_score": "5 x 4",
       "note": null,
       "last_alerted_at": "2026-08-20T16:50:57.439748+00:00"
     },
@@ -791,31 +791,7 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-18T18:39:28.182759+00:00"
-    },
-    {
-      "id": 395971,
-      "league": "USA MLS Next Pro League",
-      "home": "Atlanta United II",
-      "away": "Chicago Fire II",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 90,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.18,
-      "prob": 76.72,
-      "lps_at_entry": 70.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-18T17:03:33.671754+00:00",
-      "status": "green",
-      "settled_at": "2026-08-18T17:11:53.340973+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-18T17:03:33.671758+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "397521"
-  ]
+  "last_opportunity_ids": []
 }
