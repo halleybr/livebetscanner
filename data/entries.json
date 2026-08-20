@@ -813,28 +813,6 @@
       "final_score": "0 x 5",
       "note": null,
       "last_alerted_at": "2026-08-18T16:41:24.637969+00:00"
-    },
-    {
-      "id": 395874,
-      "league": "England Development League 2",
-      "home": "Bristol City U21",
-      "away": "Wigan U21",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 90,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.14,
-      "prob": 77.98,
-      "lps_at_entry": 78.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-18T13:54:35.021705+00:00",
-      "status": "green",
-      "settled_at": "2026-08-18T14:20:12.590642+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-18T13:54:35.021709+00:00"
     }
   ],
   "last_opportunity_ids": []
