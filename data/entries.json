@@ -16,9 +16,9 @@
       "lps_at_entry": 80.7,
       "confidence": "Alta",
       "entered_at": "2026-08-20T18:13:42.612216+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-20T18:58:53.973962+00:00",
+      "final_score": "1 x 0",
       "note": null,
       "last_alerted_at": "2026-08-20T18:13:42.612220+00:00"
     },
@@ -813,53 +813,7 @@
       "final_score": "10 x 11",
       "note": null,
       "last_alerted_at": "2026-08-18T19:14:45.002149+00:00"
-    },
-    {
-      "id": 395961,
-      "league": "Iceland 1 Deild Women",
-      "home": "Keflavik (W)",
-      "away": "KR Reykjavik (W)",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 40,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 77.32,
-      "lps_at_entry": 75.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-18T18:42:06.187064+00:00",
-      "status": "green",
-      "settled_at": "2026-08-18T19:57:50.335855+00:00",
-      "final_score": "1 x 5",
-      "note": null,
-      "last_alerted_at": "2026-08-18T18:42:06.187068+00:00"
-    },
-    {
-      "id": 395327,
-      "league": "England EFL Trophy",
-      "home": "Reading",
-      "away": "Wycombe",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 39,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 70.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-18T18:39:28.182755+00:00",
-      "status": "green",
-      "settled_at": "2026-08-18T20:14:06.064691+00:00",
-      "final_score": "1 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-18T18:39:28.182759+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "397486"
-  ]
+  "last_opportunity_ids": []
 }
