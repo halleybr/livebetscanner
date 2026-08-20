@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 398672,
+      "league": "Norway Toppserien Women",
+      "home": "Rosenborg (W)",
+      "away": "Lyn (W)",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 79.32,
+      "lps_at_entry": 72.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T17:47:35.981070+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T17:47:35.981073+00:00"
+    },
+    {
+      "id": 397478,
+      "league": "UEFA Europa League Qualifying",
+      "home": "Mjällby AIF",
+      "away": "FC Salzburg",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 91,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T17:47:35.981057+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T17:47:35.981062+00:00"
+    },
+    {
       "id": 397583,
       "league": "Qatar Stars League",
       "home": "Al-Wakrah SC",
@@ -793,5 +837,8 @@
       "last_alerted_at": "2026-08-18T18:39:28.182759+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397478",
+    "398672"
+  ]
 }
