@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397442,
+      "league": "Estonia Esiliiga B",
+      "home": "Tabasalu FC Charma",
+      "away": "Johvi FC Phoenix",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 49,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.3,
+      "prob": 71.37,
+      "lps_at_entry": 72.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T13:03:59.773201+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
+    },
+    {
       "id": 397436,
       "league": "CONCACAF Central American Cup",
       "home": "CD FAS",
@@ -815,5 +837,7 @@
       "last_alerted_at": "2026-08-18T13:54:35.021709+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397442"
+  ]
 }
