@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397436,
+      "league": "CONCACAF Central American Cup",
+      "home": "CD FAS",
+      "away": "CSD Municipal",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 85,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T04:50:14.115930+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T04:50:14.115934+00:00"
+    },
+    {
       "id": 397312,
       "league": "USA MLS Next Pro League",
       "home": "New York City FC II",
@@ -815,5 +837,7 @@
       "last_alerted_at": "2026-08-18T10:58:37.152636+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397436"
+  ]
 }
