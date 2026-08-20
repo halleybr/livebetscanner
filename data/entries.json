@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 397583,
+      "league": "Qatar Stars League",
+      "home": "Al-Wakrah SC",
+      "away": "Qatar SC Doha",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-20T16:12:58.736356+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-20T16:12:58.736360+00:00"
+    },
+    {
       "id": 397521,
       "league": "Finland Kolmonen",
       "home": "Kultsu FC",
@@ -20,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-20T15:44:16.703048+00:00"
+      "last_alerted_at": "2026-08-20T16:12:58.736368+00:00"
     },
     {
       "id": 397442,
@@ -837,5 +859,8 @@
       "last_alerted_at": "2026-08-18T16:41:24.637969+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "397521",
+    "397583"
+  ]
 }
