@@ -813,28 +813,6 @@
       "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-19T17:34:19.530507+00:00"
-    },
-    {
-      "id": 396991,
-      "league": "Slovenia U19 League",
-      "home": "ND Ilirija U19",
-      "away": "NK Rudar Velenje U19",
-      "home_score_at_entry": 7,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 70,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.11,
-      "prob": 83.45,
-      "lps_at_entry": 74.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T17:01:57.589423+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T17:34:19.530553+00:00",
-      "final_score": "9 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-19T17:01:57.589427+00:00"
     }
   ],
   "last_opportunity_ids": [
