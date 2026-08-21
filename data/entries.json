@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 398906,
+      "league": "Republic of Ireland Premier Division",
+      "home": "Sligo Rovers",
+      "away": "Waterford FC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 79,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T20:37:40.830894+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T20:37:40.830897+00:00"
+    },
+    {
+      "id": 398887,
+      "league": "Republic of Ireland First Division",
+      "home": "Treaty United FC",
+      "away": "Cork City",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 95,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 84.83,
+      "lps_at_entry": 74.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T20:37:40.830880+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T20:37:40.830884+00:00"
+    },
+    {
       "id": 398888,
       "league": "Republic of Ireland Premier Division",
       "home": "Dundalk",
@@ -904,7 +948,8 @@
     }
   ],
   "last_opportunity_ids": [
+    "398887",
     "398888",
-    "400462"
+    "398906"
   ]
 }
