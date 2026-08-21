@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398925,
+      "league": "Finland Kolmonen",
+      "home": "JPS",
+      "away": "SaPa",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 87,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T17:46:24.845164+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T17:46:24.845168+00:00"
+    },
+    {
       "id": 398929,
       "league": "Finland Kolmonen",
       "home": "FC Kontu",
@@ -882,9 +904,9 @@
     }
   ],
   "last_opportunity_ids": [
+    "398925",
     "398927",
     "398928",
-    "398929",
     "398937",
     "400325"
   ]
