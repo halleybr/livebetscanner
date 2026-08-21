@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 400417,
+      "league": "Northern Ireland Championship Women",
+      "home": "Mid Ulster (W)",
+      "away": "Bangor FC (W)",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 42,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.5,
+      "prob": 60.73,
+      "lps_at_entry": 71.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T19:16:11.466853+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T19:16:11.466856+00:00"
+    },
+    {
+      "id": 398795,
+      "league": "Iceland Premier League Women",
+      "home": "FH Hafnarfjordur (W)",
+      "away": "Vikingur Reykjavik (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 55,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 83.18,
+      "lps_at_entry": 73.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T19:16:11.466840+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T19:16:11.466844+00:00"
+    },
+    {
       "id": 398872,
       "league": "Denmark Division 1",
       "home": "FC Fredericia",
@@ -881,5 +925,8 @@
       "last_alerted_at": "2026-08-19T19:25:22.645910+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "398795",
+    "400417"
+  ]
 }
