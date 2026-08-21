@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 398872,
+      "league": "Denmark Division 1",
+      "home": "FC Fredericia",
+      "away": "Aarhus Fremad",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T18:50:43.475995+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T18:50:43.475998+00:00"
+    },
+    {
+      "id": 400458,
+      "league": "Austria Regionalliga South",
+      "home": "FC Gleisdorf 09",
+      "away": "SC Kalsdorf",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 74.61,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T18:50:43.475984+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T18:50:43.475988+00:00"
+    },
+    {
       "id": 398925,
       "league": "Finland Kolmonen",
       "home": "JPS",
@@ -835,29 +879,10 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-19T19:25:22.645910+00:00"
-    },
-    {
-      "id": 398652,
-      "league": "Iceland 3 Deild",
-      "home": "Reynir Sandgerdi",
-      "away": "KH Hlidarendi",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 20,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 73.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T18:20:51.287501+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T20:02:37.561516+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-19T19:14:44.681015+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "398872",
+    "400458"
+  ]
 }
