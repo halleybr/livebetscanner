@@ -901,28 +901,6 @@
       "final_score": "1 x 1",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-20T04:50:14.115934+00:00"
-    },
-    {
-      "id": 397312,
-      "league": "USA MLS Next Pro League",
-      "home": "New York City FC II",
-      "away": "FC Cincinnati II",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 71,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.18,
-      "prob": 79.91,
-      "lps_at_entry": 72.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T22:39:31.837677+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T23:25:40.155412+00:00",
-      "final_score": "5 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-19T22:39:31.837680+00:00"
     }
   ],
   "last_opportunity_ids": []
