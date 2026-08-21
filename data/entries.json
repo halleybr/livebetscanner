@@ -16,10 +16,10 @@
       "lps_at_entry": 71.7,
       "confidence": "Alta",
       "entered_at": "2026-08-21T20:37:40.830894+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-21T20:56:13.462771+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-21T20:37:40.830897+00:00"
     },
     {
