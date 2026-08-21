@@ -38,9 +38,9 @@
       "lps_at_entry": 74.4,
       "confidence": "Alta",
       "entered_at": "2026-08-21T20:37:40.830880+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-21T20:51:43.065469+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-21T20:37:40.830884+00:00"
     },
@@ -60,9 +60,9 @@
       "lps_at_entry": 83.6,
       "confidence": "Alta",
       "entered_at": "2026-08-21T20:29:42.033500+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-21T20:51:43.065478+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-21T20:29:42.033503+00:00"
     },
@@ -82,9 +82,9 @@
       "lps_at_entry": 70.0,
       "confidence": "Alta",
       "entered_at": "2026-08-21T19:53:39.551825+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-21T20:51:43.065483+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-08-21T20:09:59.377333+00:00"
     },
@@ -923,33 +923,7 @@
       "final_score": "5 x 0",
       "note": null,
       "last_alerted_at": "2026-08-19T22:39:31.837680+00:00"
-    },
-    {
-      "id": 396993,
-      "league": "Scotland Highland League",
-      "home": "Forres Mechanics",
-      "away": "Clachnacuddin",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 82,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.18,
-      "prob": 75.39,
-      "lps_at_entry": 72.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T20:38:12.179298+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T20:59:34.515424+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-19T20:38:12.179302+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "398887",
-    "398888",
-    "398906"
-  ]
+  "last_opportunity_ids": []
 }
