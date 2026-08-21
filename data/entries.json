@@ -857,28 +857,6 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-19T19:14:44.681015+00:00"
-    },
-    {
-      "id": 398647,
-      "league": "Iceland 2 Deild",
-      "home": "UMF Selfoss",
-      "away": "Kari",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 14,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 70.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T18:13:44.515174+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T19:56:53.799933+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-19T19:14:44.681009+00:00"
     }
   ],
   "last_opportunity_ids": []
