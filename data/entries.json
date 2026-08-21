@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398937,
+      "league": "Estonia Esiliiga B",
+      "home": "JK Tallinna Kalev II",
+      "away": "Tallinna JK Legion",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 87.01,
+      "lps_at_entry": 71.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T16:45:18.293101+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T16:45:18.293104+00:00"
+    },
+    {
       "id": 398821,
       "league": "Finland Ykkosliiga",
       "home": "FC Haka",
@@ -815,5 +837,7 @@
       "last_alerted_at": "2026-08-19T17:34:19.530517+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "398937"
+  ]
 }
