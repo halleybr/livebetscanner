@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398888,
+      "league": "Republic of Ireland Premier Division",
+      "home": "Dundalk",
+      "away": "Galway United",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 86,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 83.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T20:29:42.033500+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T20:29:42.033503+00:00"
+    },
+    {
       "id": 400462,
       "league": "Republic of Ireland Leinster Senior League",
       "home": "Tolka Rovers",
@@ -60,9 +82,9 @@
       "lps_at_entry": 72.7,
       "confidence": "Alta",
       "entered_at": "2026-08-21T19:44:31.788585+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-21T20:29:42.033567+00:00",
+      "final_score": "1 x 0",
       "note": null,
       "last_alerted_at": "2026-08-21T19:44:31.788587+00:00"
     },
@@ -148,9 +170,9 @@
       "lps_at_entry": 71.8,
       "confidence": "Alta",
       "entered_at": "2026-08-21T19:16:11.466853+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-21T20:29:42.033574+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-21T19:59:11.539268+00:00"
     },
@@ -879,31 +901,10 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-19T20:38:12.179302+00:00"
-    },
-    {
-      "id": 397273,
-      "league": "Republic of Ireland Leinster Senior League",
-      "home": "Inchicore Athletic FC",
-      "away": "Wayside Celtic",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 59,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.17,
-      "prob": 77.18,
-      "lps_at_entry": 71.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T20:19:24.062368+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T20:59:34.515432+00:00",
-      "final_score": "3 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-19T20:19:24.062373+00:00"
     }
   ],
   "last_opportunity_ids": [
+    "398888",
     "400462"
   ]
 }
