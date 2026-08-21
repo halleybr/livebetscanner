@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 398918,
+      "league": "Finland Kolmonen",
+      "home": "VIFK",
+      "away": "VPV Pallo-Veikot",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.29,
+      "prob": 73.78,
+      "lps_at_entry": 75.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T16:52:07.327963+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T16:52:07.327966+00:00"
+    },
+    {
       "id": 398937,
       "league": "Estonia Esiliiga B",
       "home": "JK Tallinna Kalev II",
@@ -813,31 +835,10 @@
       "final_score": "9 x 1",
       "note": null,
       "last_alerted_at": "2026-08-19T17:01:57.589427+00:00"
-    },
-    {
-      "id": 397066,
-      "league": "Poland III Liga",
-      "home": "Elana Torun",
-      "away": "Unia Swarzedz",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 44,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.2,
-      "prob": 73.94,
-      "lps_at_entry": 71.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-19T16:46:14.919134+00:00",
-      "status": "green",
-      "settled_at": "2026-08-19T17:54:37.558936+00:00",
-      "final_score": "2 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-19T17:34:19.530517+00:00"
     }
   ],
   "last_opportunity_ids": [
+    "398918",
     "398937"
   ]
 }
