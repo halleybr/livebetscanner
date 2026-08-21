@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 399012,
+      "league": "Australia NSW League 1 U20",
+      "home": "Blacktown Spartans U20",
+      "away": "Hurstville FC U20",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 79.11,
+      "lps_at_entry": 71.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-21T08:52:00.604117+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-21T08:52:00.604121+00:00"
+    },
+    {
       "id": 397457,
       "league": "UEFA Conference League Qualifying",
       "home": "Hajduk Split",
@@ -925,5 +947,7 @@
       "last_alerted_at": "2026-08-19T10:37:27.468779+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "399012"
+  ]
 }
