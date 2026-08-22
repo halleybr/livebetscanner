@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400745,
+      "league": "Australia Capital Territory Premier League",
+      "home": "Canberra Croatia FC",
+      "away": "Belconnen United",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 67,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 81.97,
+      "lps_at_entry": 75.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T06:29:01.771817+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T06:29:01.771820+00:00"
+    },
+    {
       "id": 400727,
       "league": "Australia Capital Territory Premier League",
       "home": "Canberra Olympic",
@@ -1014,6 +1036,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "400727"
+    "400745"
   ]
 }
