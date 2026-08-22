@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400644,
+      "league": "Wales Championship North",
+      "home": "Guilsfield",
+      "away": "Ruthin Town FC",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 83,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 80.32,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T15:13:39.064392+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T15:13:39.064396+00:00"
+    },
+    {
       "id": 400811,
       "league": "Netherlands Eredivisie",
       "home": "Fortuna Sittard",
@@ -1696,8 +1718,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "400620",
-    "400811",
-    "400818"
+    "400644"
   ]
 }
