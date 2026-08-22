@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403402,
+      "league": "Hungary NBI Women",
+      "home": "Ujpest (W)",
+      "away": "Diosgyori VTK (W)",
+      "home_score_at_entry": 7,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 84.94,
+      "lps_at_entry": 72.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T14:56:39.914671+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T14:56:39.914674+00:00"
+    },
+    {
       "id": 400601,
       "league": "Sweden Allsvenskan",
       "home": "Orgryte IS",
@@ -16,9 +38,9 @@
       "lps_at_entry": 81.2,
       "confidence": "Alta",
       "entered_at": "2026-08-22T14:40:29.257635+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T14:56:39.914778+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T14:40:29.257641+00:00"
     },
@@ -1608,7 +1630,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "400601",
-    "403093"
+    "403093",
+    "403402"
   ]
 }
