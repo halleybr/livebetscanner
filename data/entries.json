@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403180,
+      "league": "USA MLS Next Pro League",
+      "home": "New York City FC II",
+      "away": "New England Revolution II",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.2,
+      "prob": 75.83,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T22:45:08.863502+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T22:45:08.863506+00:00"
+    },
+    {
       "id": 402971,
       "league": "Serbia U19 League",
       "home": "Cukaricki U19",
@@ -1805,5 +1827,7 @@
       "last_alerted_at": "2026-08-21T09:47:44.679211+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403180"
+  ]
 }
