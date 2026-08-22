@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400549,
+      "league": "Australia Western Australia Premier League",
+      "home": "Bayswater City",
+      "away": "Perth Glory NPL",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 44,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 79.26,
+      "lps_at_entry": 74.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T07:50:39.682054+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T07:50:39.682059+00:00"
+    },
+    {
       "id": 399011,
       "league": "Australia New South Wales League 2",
       "home": "South Coast Flame FC",
@@ -1058,6 +1080,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "399011"
+    "399011",
+    "400549"
   ]
 }
