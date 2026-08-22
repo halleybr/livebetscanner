@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400514,
+      "league": "Australia Capital Territory U23 League",
+      "home": "Canberra Olympic U23",
+      "away": "Brindabella Blues FC U23",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 70,
+      "market": "Próximo gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 81.3,
+      "confidence": "Média",
+      "entered_at": "2026-08-22T03:24:10.488155+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T03:24:10.488159+00:00"
+    },
+    {
       "id": 400501,
       "league": "Chile Tercera",
       "home": "Puente Alto",
@@ -925,5 +947,7 @@
       "last_alerted_at": "2026-08-20T04:50:14.115934+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "400514"
+  ]
 }
