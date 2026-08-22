@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 400794,
+      "league": "Sweden 1.div Södra",
+      "home": "BK Olympic",
+      "away": "Tvååkers IF",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 31,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T11:31:56.672443+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T11:31:56.672445+00:00"
+    },
+    {
+      "id": 400765,
+      "league": "Japan J-League",
+      "home": "Cerezo Osaka",
+      "away": "Shimizu S-Pulse",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 71,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T11:31:56.672430+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T11:31:56.672435+00:00"
+    },
+    {
       "id": 400793,
       "league": "Australia Darwin Premier League",
       "home": "Port Darwin FC",
@@ -1299,5 +1343,8 @@
       "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "400765",
+    "400794"
+  ]
 }
