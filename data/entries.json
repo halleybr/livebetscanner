@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403445,
+      "league": "Sweden 2.div Västra Götaland",
+      "home": "Qviding FIF",
+      "away": "Torslanda IK",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 30,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 87.37,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T10:29:00.311443+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T10:29:00.311446+00:00"
+    },
+    {
+      "id": 400767,
+      "league": "Japan J-League",
+      "home": "Nagoya Grampus",
+      "away": "Gamba Osaka",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 25,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T10:29:00.311431+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T10:29:00.311435+00:00"
+    },
+    {
       "id": 401163,
       "league": "Australia NSW League 1 U20",
       "home": "Hills United FC U20",
@@ -60,9 +104,9 @@
       "lps_at_entry": 70.6,
       "confidence": "Alta",
       "entered_at": "2026-08-22T09:12:07.680434+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T10:29:00.311491+00:00",
+      "final_score": "0 x 3",
       "note": null,
       "last_alerted_at": "2026-08-22T09:12:07.680438+00:00"
     },
@@ -82,9 +126,9 @@
       "lps_at_entry": 73.4,
       "confidence": "Alta",
       "entered_at": "2026-08-22T08:47:41.879936+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T10:29:00.311500+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T09:42:26.264189+00:00"
     },
@@ -1212,6 +1256,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "401159"
+    "400767",
+    "403445"
   ]
 }
