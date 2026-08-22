@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403093,
+      "league": "Netherlands Tweede Divisie",
+      "home": "Kloetinge",
+      "away": "Kozakken Boys",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 71,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 73.98,
+      "lps_at_entry": 70.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T14:32:47.746239+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T14:32:47.746244+00:00"
+    },
+    {
       "id": 403228,
       "league": "Finland Kakkonen Group A",
       "home": "PEPO",
@@ -1563,5 +1585,7 @@
       "last_alerted_at": "2026-08-20T16:50:57.439748+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403093"
+  ]
 }
