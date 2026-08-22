@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400848,
+      "league": "Finland Ykkosliiga",
+      "home": "Klubi-04",
+      "away": "MP",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 80,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.29,
+      "prob": 73.77,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T17:35:16.761234+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T17:35:16.761238+00:00"
+    },
+    {
       "id": 400858,
       "league": "Estonia Meistriliiga",
       "home": "Harju JK Laagri",
@@ -170,9 +192,9 @@
       "lps_at_entry": 80.3,
       "confidence": "Alta",
       "entered_at": "2026-08-22T16:50:39.623625+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T17:35:16.761431+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T16:50:39.623629+00:00"
     },
@@ -2048,8 +2070,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "400819",
-    "400820",
+    "400848",
     "400858"
   ]
 }
