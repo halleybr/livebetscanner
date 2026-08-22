@@ -16,9 +16,9 @@
       "lps_at_entry": 70.5,
       "confidence": "Alta",
       "entered_at": "2026-08-22T17:35:16.761234+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T17:58:51.828196+00:00",
+      "final_score": "4 x 3",
       "note": null,
       "last_alerted_at": "2026-08-22T17:53:39.604949+00:00"
     },
@@ -38,10 +38,10 @@
       "lps_at_entry": 71.3,
       "confidence": "Alta",
       "entered_at": "2026-08-22T17:28:50.558865+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-22T17:58:51.828206+00:00",
+      "final_score": "1 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-22T17:28:50.558867+00:00"
     },
     {
@@ -2025,7 +2025,5 @@
       "last_alerted_at": "2026-08-20T18:13:42.612220+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "400848"
-  ]
+  "last_opportunity_ids": []
 }
