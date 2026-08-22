@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400797,
+      "league": "China Super League",
+      "home": "Wuhan Three Towns",
+      "away": "Tianjin Jinmen Tigers",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 70,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.33,
+      "prob": 76.15,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T12:31:59.067779+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T12:31:59.067783+00:00"
+    },
+    {
       "id": 400577,
       "league": "England National League",
       "home": "Carlisle",
@@ -42,7 +64,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-22T11:31:56.672445+00:00"
+      "last_alerted_at": "2026-08-22T12:31:59.067797+00:00"
     },
     {
       "id": 400765,
@@ -148,9 +170,9 @@
       "lps_at_entry": 74.1,
       "confidence": "Alta",
       "entered_at": "2026-08-22T10:29:00.311431+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T12:31:59.067869+00:00",
+      "final_score": "3 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T11:58:06.708007+00:00"
     },
@@ -1365,5 +1387,8 @@
       "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "400794",
+    "400797"
+  ]
 }
