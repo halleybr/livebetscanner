@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403973,
+      "league": "Slovenia 3. SNL",
+      "home": "NK Odranci",
+      "away": "NK Ljutomer",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.25,
+      "prob": 81.79,
+      "lps_at_entry": 71.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T16:54:20.869399+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T16:54:20.869402+00:00"
+    },
+    {
+      "id": 401098,
+      "league": "Czechia 3. Liga",
+      "home": "Kraluv Dvur",
+      "away": "FC Pisek",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 73.49,
+      "lps_at_entry": 74.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T16:54:20.869387+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T16:54:20.869391+00:00"
+    },
+    {
       "id": 402764,
       "league": "Poland III Liga",
       "home": "Lipno Steszew",
@@ -38,9 +82,9 @@
       "lps_at_entry": 74.5,
       "confidence": "Alta",
       "entered_at": "2026-08-22T16:50:39.623635+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T16:54:20.869582+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T16:50:39.623636+00:00"
     },
@@ -1938,8 +1982,9 @@
     }
   ],
   "last_opportunity_ids": [
+    "401098",
     "402764",
-    "402841",
-    "403242"
+    "403242",
+    "403973"
   ]
 }
