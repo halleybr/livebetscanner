@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400793,
+      "league": "Australia Darwin Premier League",
+      "home": "Port Darwin FC",
+      "away": "Hellenic AC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 23,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 80.25,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T11:02:15.173760+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T11:02:15.173764+00:00"
+    },
+    {
       "id": 401162,
       "league": "Australia NSW League 1 U20",
       "home": "Dulwich Hill U20",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.9,
       "confidence": "Alta",
       "entered_at": "2026-08-22T10:50:39.896389+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T11:02:15.173820+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T10:50:39.896394+00:00"
     },
@@ -82,9 +104,9 @@
       "lps_at_entry": 76.8,
       "confidence": "Alta",
       "entered_at": "2026-08-22T09:46:52.804184+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T11:02:15.173829+00:00",
+      "final_score": "6 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T10:50:39.896401+00:00"
     },
@@ -1278,8 +1300,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "400767",
-    "401162",
-    "401163"
+    "400793"
   ]
 }
