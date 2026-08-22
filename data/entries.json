@@ -2001,28 +2001,6 @@
       "final_score": "2 x 4",
       "note": null,
       "last_alerted_at": "2026-08-20T19:29:53.100094+00:00"
-    },
-    {
-      "id": 397486,
-      "league": "Denmark Division 1",
-      "home": "Vendsyssel FF",
-      "away": "Hillerød",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 58,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 80.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-20T18:13:42.612216+00:00",
-      "status": "green",
-      "settled_at": "2026-08-20T18:58:53.973962+00:00",
-      "final_score": "1 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-20T18:13:42.612220+00:00"
     }
   ],
   "last_opportunity_ids": []
