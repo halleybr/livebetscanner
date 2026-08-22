@@ -2069,8 +2069,5 @@
       "last_alerted_at": "2026-08-20T17:47:35.981062+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "400848",
-    "400858"
-  ]
+  "last_opportunity_ids": []
 }
