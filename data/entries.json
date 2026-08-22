@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 401162,
+      "league": "Australia NSW League 1 U20",
+      "home": "Dulwich Hill U20",
+      "away": "Inter Lions U20",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 84,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 82.07,
+      "lps_at_entry": 71.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T10:50:39.896389+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T10:50:39.896394+00:00"
+    },
+    {
       "id": 403445,
       "league": "Sweden 2.div Västra Götaland",
       "home": "Qviding FIF",
@@ -64,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-22T09:46:52.804189+00:00"
+      "last_alerted_at": "2026-08-22T10:50:39.896401+00:00"
     },
     {
       "id": 403083,
@@ -1256,6 +1278,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "400767"
+    "400767",
+    "401162",
+    "401163"
   ]
 }
