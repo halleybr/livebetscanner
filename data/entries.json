@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400721,
+      "league": "Mexico Liga MX",
+      "home": "Queretaro",
+      "away": "Toluca",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 87,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.2,
+      "prob": 84.92,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T05:03:12.955998+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T05:03:12.956002+00:00"
+    },
+    {
       "id": 400723,
       "league": "Australia Victoria Premier League 1",
       "home": "Port Melbourne SC",
@@ -967,31 +989,9 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
-    },
-    {
-      "id": 397436,
-      "league": "CONCACAF Central American Cup",
-      "home": "CD FAS",
-      "away": "CSD Municipal",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 85,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 75.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-20T04:50:14.115930+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-20T05:06:21.544339+00:00",
-      "final_score": "1 x 1",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-20T04:50:14.115934+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "400723"
+    "400721"
   ]
 }
