@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403228,
+      "league": "Finland Kakkonen Group A",
+      "home": "PEPO",
+      "away": "HIFK 2",
+      "home_score_at_entry": 5,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 86.92,
+      "lps_at_entry": 70.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T13:50:29.655432+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T13:50:29.655434+00:00"
+    },
+    {
+      "id": 403231,
+      "league": "Finland Kakkonen Group B",
+      "home": "NJS",
+      "away": "MuSa",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 86.92,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T13:50:29.655419+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T13:50:29.655423+00:00"
+    },
+    {
       "id": 402952,
       "league": "Finland Kakkonen Group A",
       "home": "Atlantis",
@@ -1521,6 +1565,7 @@
   ],
   "last_opportunity_ids": [
     "402952",
-    "403488"
+    "403228",
+    "403231"
   ]
 }
