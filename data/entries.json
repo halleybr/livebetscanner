@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 401159,
+      "league": "Australia New South Wales U20 League",
+      "home": "Sutherland Sharks U20",
+      "away": "St George City FA U20",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 23,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 77.96,
+      "lps_at_entry": 73.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T08:47:41.879936+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T08:47:41.879940+00:00"
+    },
+    {
       "id": 400551,
       "league": "Australia Western Australia Premier League",
       "home": "Olympic Kingsway",
@@ -1124,8 +1146,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "400549",
     "400551",
-    "400554"
+    "400554",
+    "401159"
   ]
 }
