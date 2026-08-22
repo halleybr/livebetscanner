@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403341,
+      "league": "Iceland 1 Deild Women",
+      "home": "KR Reykjavik (W)",
+      "away": "Fjardabyggd/Leiknir/Hottur (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 76,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 85.17,
+      "lps_at_entry": 76.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T15:34:38.532897+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T15:34:38.532902+00:00"
+    },
+    {
       "id": 400633,
       "league": "Scotland League Two",
       "home": "Stirling",
@@ -1784,9 +1806,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "400620",
-    "400633",
     "400670",
-    "403006"
+    "403006",
+    "403341"
   ]
 }
