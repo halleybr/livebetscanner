@@ -1847,28 +1847,6 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-20T21:33:03.366794+00:00"
-    },
-    {
-      "id": 397572,
-      "league": "Iceland Premier League Women",
-      "home": "Stjarnan (W)",
-      "away": "Breidablik (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 61,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 78.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-20T20:34:15.595837+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-20T21:13:01.416787+00:00",
-      "final_score": "2 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-20T20:34:15.595840+00:00"
     }
   ],
   "last_opportunity_ids": []
