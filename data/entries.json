@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 402764,
+      "league": "Poland III Liga",
+      "home": "Lipno Steszew",
+      "away": "Polonia Sroda Wlkp",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 91,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 84.37,
+      "lps_at_entry": 71.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T16:50:39.623642+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T16:50:39.623643+00:00"
+    },
+    {
+      "id": 402841,
+      "league": "Switzerland 1.Liga Promotion",
+      "home": "FC Paradiso",
+      "away": "FC Kreuzlingen",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.18,
+      "prob": 77.77,
+      "lps_at_entry": 74.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T16:50:39.623635+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T16:50:39.623636+00:00"
+    },
+    {
+      "id": 403242,
+      "league": "Mexico U21 League",
+      "home": "Puebla U21",
+      "away": "Santos Laguna U21",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 86,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.29,
+      "prob": 72.12,
+      "lps_at_entry": 80.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T16:50:39.623625+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T16:50:39.623629+00:00"
+    },
+    {
       "id": 400625,
       "league": "Scotland League One",
       "home": "East Fife",
@@ -192,9 +258,9 @@
       "lps_at_entry": 87.2,
       "confidence": "Alta",
       "entered_at": "2026-08-22T15:32:31.362531+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T16:50:39.623791+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-08-22T15:32:31.362535+00:00"
     },
@@ -1871,5 +1937,9 @@
       "last_alerted_at": "2026-08-20T17:47:35.981062+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "402764",
+    "402841",
+    "403242"
+  ]
 }
