@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 400633,
+      "league": "Scotland League Two",
+      "home": "Stirling",
+      "away": "Stranraer",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 75,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T15:32:31.362553+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T15:32:31.362555+00:00"
+    },
+    {
+      "id": 400670,
+      "league": "England League 1",
+      "home": "AFC Wimbledon",
+      "away": "Reading",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 72,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.25,
+      "prob": 79.18,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T15:32:31.362544+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T15:32:31.362547+00:00"
+    },
+    {
+      "id": 403006,
+      "league": "Norway Cup",
+      "home": "Vard Haugesund",
+      "away": "Haugesund",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 72,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 87.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T15:32:31.362531+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T15:32:31.362535+00:00"
+    },
+    {
       "id": 400644,
       "league": "Wales Championship North",
       "home": "Guilsfield",
@@ -16,9 +82,9 @@
       "lps_at_entry": 70.5,
       "confidence": "Alta",
       "entered_at": "2026-08-22T15:13:39.064392+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T15:32:31.362692+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-22T15:13:39.064396+00:00"
     },
@@ -64,7 +130,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-22T15:06:44.524663+00:00"
+      "last_alerted_at": "2026-08-22T15:32:31.362566+00:00"
     },
     {
       "id": 400818,
@@ -1718,6 +1784,9 @@
     }
   ],
   "last_opportunity_ids": [
-    "400644"
+    "400620",
+    "400633",
+    "400670",
+    "403006"
   ]
 }
