@@ -16,9 +16,9 @@
       "lps_at_entry": 81.3,
       "confidence": "Média",
       "entered_at": "2026-08-22T03:24:10.488155+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "red",
+      "settled_at": "2026-08-22T04:01:16.327678+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-22T03:24:10.488159+00:00"
     },
