@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400568,
+      "league": "England League 2",
+      "home": "Walsall",
+      "away": "Grimsby",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 81,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.22,
+      "prob": 83.58,
+      "lps_at_entry": 74.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T13:10:43.644418+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T13:10:43.644422+00:00"
+    },
+    {
       "id": 403452,
       "league": "Republic of Ireland U20 League",
       "home": "Dundalk U20",
@@ -16,9 +38,9 @@
       "lps_at_entry": 70.4,
       "confidence": "Alta",
       "entered_at": "2026-08-22T12:54:44.902952+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T13:10:43.644493+00:00",
+      "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-08-22T12:54:44.902954+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 77.3,
       "confidence": "Alta",
       "entered_at": "2026-08-22T12:54:44.902932+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T13:10:43.644503+00:00",
+      "final_score": "5 x 0",
       "note": null,
       "last_alerted_at": "2026-08-22T12:54:44.902937+00:00"
     },
@@ -82,10 +104,10 @@
       "lps_at_entry": 70.9,
       "confidence": "Alta",
       "entered_at": "2026-08-22T12:31:59.067779+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-22T13:10:43.644508+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-22T12:31:59.067783+00:00"
     },
     {
@@ -126,9 +148,9 @@
       "lps_at_entry": 72.4,
       "confidence": "Alta",
       "entered_at": "2026-08-22T11:31:56.672443+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T13:10:43.644513+00:00",
+      "final_score": "3 x 4",
       "note": null,
       "last_alerted_at": "2026-08-22T12:31:59.067797+00:00"
     },
@@ -1429,34 +1451,9 @@
       "final_score": "5 x 4",
       "note": null,
       "last_alerted_at": "2026-08-20T16:50:57.439748+00:00"
-    },
-    {
-      "id": 397442,
-      "league": "Estonia Esiliiga B",
-      "home": "Tabasalu FC Charma",
-      "away": "Johvi FC Phoenix",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 49,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.3,
-      "prob": 71.37,
-      "lps_at_entry": 72.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-20T13:03:59.773201+00:00",
-      "status": "green",
-      "settled_at": "2026-08-20T13:54:32.745042+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "400572",
-    "400797",
-    "403330",
-    "403452"
+    "400568"
   ]
 }
