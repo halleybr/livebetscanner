@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 399011,
+      "league": "Australia New South Wales League 2",
+      "home": "South Coast Flame FC",
+      "away": "Gladesville Ryde Magic",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 76.45,
+      "lps_at_entry": 71.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T07:41:52.554735+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T07:41:52.554739+00:00"
+    },
+    {
       "id": 400745,
       "league": "Australia Capital Territory Premier League",
       "home": "Canberra Croatia FC",
@@ -1035,5 +1057,7 @@
       "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "399011"
+  ]
 }
