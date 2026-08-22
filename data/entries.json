@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 402952,
+      "league": "Finland Kakkonen Group A",
+      "home": "Atlantis",
+      "away": "PPJ",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 79,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T13:42:22.519544+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T13:42:22.519546+00:00"
+    },
+    {
+      "id": 403488,
+      "league": "Finland Kakkonen Group C",
+      "home": "Huima/Urho",
+      "away": "Narpes Kraft",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 84,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 84.53,
+      "lps_at_entry": 72.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T13:42:22.519531+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T13:42:22.519535+00:00"
+    },
+    {
       "id": 403095,
       "league": "Finland Kakkonen Group A",
       "home": "Kiffen",
@@ -38,10 +82,10 @@
       "lps_at_entry": 74.9,
       "confidence": "Alta",
       "entered_at": "2026-08-22T13:10:43.644418+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-22T13:42:22.519650+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-22T13:10:43.644422+00:00"
     },
     {
@@ -82,9 +126,9 @@
       "lps_at_entry": 71.0,
       "confidence": "Alta",
       "entered_at": "2026-08-22T12:54:44.902944+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T13:42:22.519658+00:00",
+      "final_score": "1 x 3",
       "note": null,
       "last_alerted_at": "2026-08-22T12:54:44.902946+00:00"
     },
@@ -148,9 +192,9 @@
       "lps_at_entry": 71.7,
       "confidence": "Alta",
       "entered_at": "2026-08-22T11:58:06.707994+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T13:42:22.519664+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T11:58:06.707998+00:00"
     },
@@ -1476,6 +1520,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "403095"
+    "402952",
+    "403488"
   ]
 }
