@@ -42,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-22T04:45:04.395012+00:00"
+      "last_alerted_at": "2026-08-22T05:11:16.539986+00:00"
     },
     {
       "id": 400515,
@@ -992,6 +992,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "400721"
+    "400723"
   ]
 }
