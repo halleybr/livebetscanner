@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 400727,
+      "league": "Australia Capital Territory Premier League",
+      "home": "Canberra Olympic",
+      "away": "Brindabella Blues FC",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 70,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.25,
+      "prob": 74.44,
+      "lps_at_entry": 77.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T05:57:07.889445+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T05:57:07.889449+00:00"
+    },
+    {
       "id": 400721,
       "league": "Mexico Liga MX",
       "home": "Queretaro",
@@ -38,10 +60,10 @@
       "lps_at_entry": 71.7,
       "confidence": "Alta",
       "entered_at": "2026-08-22T04:45:04.395008+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-22T05:57:07.889476+00:00",
+      "final_score": "0 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-22T05:11:16.539986+00:00"
     },
     {
@@ -991,5 +1013,7 @@
       "last_alerted_at": "2026-08-20T13:03:59.773206+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "400727"
+  ]
 }
