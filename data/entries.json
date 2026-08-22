@@ -42,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-22T11:31:56.672435+00:00"
+      "last_alerted_at": "2026-08-22T11:50:23.220932+00:00"
     },
     {
       "id": 400793,
@@ -104,9 +104,9 @@
       "lps_at_entry": 71.1,
       "confidence": "Alta",
       "entered_at": "2026-08-22T10:29:00.311443+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T11:50:23.221010+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T10:29:00.311446+00:00"
     },
@@ -1344,6 +1344,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "400794"
+    "400765"
   ]
 }
