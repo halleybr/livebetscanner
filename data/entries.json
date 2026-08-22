@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 401163,
+      "league": "Australia NSW League 1 U20",
+      "home": "Hills United FC U20",
+      "away": "Rydalmere Lions FC U20",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 36,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 85.54,
+      "lps_at_entry": 76.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T09:46:52.804184+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T09:46:52.804189+00:00"
+    },
+    {
       "id": 403083,
       "league": "Poland IV Liga",
       "home": "Piast Gliwice II",
@@ -1190,6 +1212,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "401159"
+    "401159",
+    "401163"
   ]
 }
