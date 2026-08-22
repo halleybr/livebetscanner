@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 403452,
+      "league": "Republic of Ireland U20 League",
+      "home": "Dundalk U20",
+      "away": "Derry City U20",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 81.18,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T12:54:44.902952+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T12:54:44.902954+00:00"
+    },
+    {
+      "id": 400572,
+      "league": "England Championship",
+      "home": "Lincoln City",
+      "away": "Portsmouth",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 66,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T12:54:44.902944+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T12:54:44.902946+00:00"
+    },
+    {
+      "id": 403330,
+      "league": "Finland Kolmonen",
+      "home": "LPS Helsinki",
+      "away": "MPS/Atletico Malmi",
+      "home_score_at_entry": 5,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 77.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-22T12:54:44.902932+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-22T12:54:44.902937+00:00"
+    },
+    {
       "id": 400797,
       "league": "China Super League",
       "home": "Wuhan Three Towns",
@@ -104,9 +170,9 @@
       "lps_at_entry": 70.1,
       "confidence": "Alta",
       "entered_at": "2026-08-22T11:02:15.173760+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-22T12:54:44.903028+00:00",
+      "final_score": "0 x 2",
       "note": null,
       "last_alerted_at": "2026-08-22T11:02:15.173764+00:00"
     },
@@ -1388,7 +1454,9 @@
     }
   ],
   "last_opportunity_ids": [
-    "400794",
-    "400797"
+    "400572",
+    "400797",
+    "403330",
+    "403452"
   ]
 }
