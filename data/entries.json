@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403617,
+      "league": "Germany DFB Pokal",
+      "home": "Carl Zeiss Jena",
+      "away": "Darmstadt",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 67,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T14:56:46.668786+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T14:56:46.668791+00:00"
+    },
+    {
       "id": 403613,
       "league": "Paraguay Division Intermedia",
       "home": "Club Dr Benjamin Aceval",
@@ -16,9 +38,9 @@
       "lps_at_entry": 73.1,
       "confidence": "Alta",
       "entered_at": "2026-08-23T14:44:19.259523+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T14:56:46.668870+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-08-23T14:44:19.259526+00:00"
     },
@@ -86,7 +108,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T13:58:12.817656+00:00"
+      "last_alerted_at": "2026-08-23T14:56:46.668803+00:00"
     },
     {
       "id": 403581,
@@ -170,9 +192,9 @@
       "lps_at_entry": 71.9,
       "confidence": "Alta",
       "entered_at": "2026-08-23T13:22:01.151231+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T14:56:46.668879+00:00",
+      "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-08-23T13:22:01.151233+00:00"
     },
@@ -2356,7 +2378,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "403613",
+    "403615",
+    "403617",
     "403909"
   ]
 }
