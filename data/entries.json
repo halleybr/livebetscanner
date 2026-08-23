@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403615,
+      "league": "Germany DFB Pokal",
+      "home": "Eintracht Braunschweig",
+      "away": "Union Berlin",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 28,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T13:58:12.817650+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T13:58:12.817656+00:00"
+    },
+    {
       "id": 403581,
       "league": "Czechia 2. Liga",
       "home": "Banik Ostrava B",
@@ -38,9 +60,9 @@
       "lps_at_entry": 75.0,
       "confidence": "Alta",
       "entered_at": "2026-08-23T13:40:28.835674+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T13:58:12.817718+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T13:40:28.835676+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 76.1,
       "confidence": "Alta",
       "entered_at": "2026-08-23T13:40:28.835662+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T13:58:12.817726+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-08-23T13:40:28.835667+00:00"
     },
@@ -126,9 +148,9 @@
       "lps_at_entry": 76.8,
       "confidence": "Alta",
       "entered_at": "2026-08-23T13:22:01.151205+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T13:58:12.817732+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-23T13:22:01.151210+00:00"
     },
@@ -2268,11 +2290,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "403556",
-    "403577",
-    "403579",
-    "403581",
-    "403824",
-    "404572"
+    "403615"
   ]
 }
