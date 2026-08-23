@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403730,
+      "league": "Iceland Premier League",
+      "home": "IA Akranes",
+      "away": "FH Hafnarfjordur",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 76,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 87.14,
+      "lps_at_entry": 79.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T18:40:34.138889+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T18:40:34.138893+00:00"
+    },
+    {
       "id": 403731,
       "league": "Iceland Premier League",
       "home": "Keflavik",
@@ -2466,6 +2488,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "403731"
+    "403730"
   ]
 }
