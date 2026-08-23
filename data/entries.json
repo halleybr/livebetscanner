@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403677,
+      "league": "Brazil Serie A",
+      "home": "Vitoria",
+      "away": "EC Bahia",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 31,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T19:32:02.772162+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T19:32:02.772166+00:00"
+    },
+    {
       "id": 404684,
       "league": "USA NWSL Women",
       "home": "Chicago Stars (W)",
@@ -2400,7 +2422,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "404684",
+    "403677",
     "404928"
   ]
 }
