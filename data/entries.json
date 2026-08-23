@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 404509,
+      "league": "Scotland Premier League Women",
+      "home": "Motherwell (W)",
+      "away": "Hearts (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 5,
+      "minute_at_entry": 88,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T16:45:25.891959+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T16:45:25.891961+00:00"
+    },
+    {
+      "id": 403722,
+      "league": "Finland Veikkausliiga",
+      "home": "TPS",
+      "away": "FC Inter",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 85,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.25,
+      "prob": 82.45,
+      "lps_at_entry": 75.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T16:45:25.891949+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T16:45:25.891952+00:00"
+    },
+    {
       "id": 403598,
       "league": "Spain La Liga",
       "home": "Atletico Madrid",
@@ -38,9 +82,9 @@
       "lps_at_entry": 70.0,
       "confidence": "Alta",
       "entered_at": "2026-08-23T16:18:33.457611+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T16:45:25.892061+00:00",
+      "final_score": "1 x 7",
       "note": null,
       "last_alerted_at": "2026-08-23T16:18:33.457616+00:00"
     },
@@ -2419,32 +2463,10 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-21T16:52:07.327966+00:00"
-    },
-    {
-      "id": 398937,
-      "league": "Estonia Esiliiga B",
-      "home": "JK Tallinna Kalev II",
-      "away": "Tallinna JK Legion",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 45,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 87.01,
-      "lps_at_entry": 71.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T16:45:18.293101+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T18:04:51.647346+00:00",
-      "final_score": "3 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-21T16:45:18.293104+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "403598",
-    "404111"
+    "403722",
+    "404509"
   ]
 }
