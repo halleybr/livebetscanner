@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 404671,
+      "league": "England Development League 2",
+      "home": "Barnsley U21",
+      "away": "Charlton U21",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 82,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.17,
+      "prob": 75.42,
+      "lps_at_entry": 75.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T13:40:28.835674+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T13:40:28.835676+00:00"
+    },
+    {
+      "id": 403824,
+      "league": "Estonia Esiliiga B",
+      "home": "JK Viljandi Tulevik",
+      "away": "JK Trans Narva II",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 84,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 78.63,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T13:40:28.835662+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T13:40:28.835667+00:00"
+    },
+    {
       "id": 403994,
       "league": "France U19 League",
       "home": "Stade Briochin U19",
@@ -2204,7 +2248,8 @@
   "last_opportunity_ids": [
     "403556",
     "403577",
-    "403994",
-    "404572"
+    "403824",
+    "404572",
+    "404671"
   ]
 }
