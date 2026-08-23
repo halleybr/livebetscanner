@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403576,
+      "league": "USA MLS",
+      "home": "Los Angeles FC",
+      "away": "Portland Timbers",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 86.34,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T04:35:52.437020+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T04:35:52.437024+00:00"
+    },
+    {
       "id": 403528,
       "league": "USA USL Championship",
       "home": "Birmingham Legion FC",
@@ -1893,5 +1915,7 @@
       "last_alerted_at": "2026-08-21T09:47:44.679211+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403576"
+  ]
 }
