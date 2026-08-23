@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403508,
+      "league": "Australia Queensland Premier League 3",
+      "home": "Logan Roos FC",
+      "away": "Mount Gravatt Hawks",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 75,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 77.18,
+      "lps_at_entry": 75.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T06:38:51.400779+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T06:38:51.400783+00:00"
+    },
+    {
       "id": 403492,
       "league": "USA USL League One",
       "home": "Antelope Valley Alta",
@@ -1959,5 +1981,7 @@
       "last_alerted_at": "2026-08-21T09:47:44.679211+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403508"
+  ]
 }
