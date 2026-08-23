@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403729,
+      "league": "Iceland Premier League",
+      "home": "KA Akureyri",
+      "away": "KR Reykjavik",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 23,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 81.67,
+      "lps_at_entry": 74.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T17:26:45.800943+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T17:26:45.800946+00:00"
+    },
+    {
+      "id": 403837,
+      "league": "Austria Regionalliga West",
+      "home": "FC Kitzbuhel",
+      "away": "FC Lauterach",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 80.98,
+      "lps_at_entry": 81.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T17:26:45.800930+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T17:26:45.800935+00:00"
+    },
+    {
       "id": 403705,
       "league": "Chile Liga de Primera",
       "home": "La Serena",
@@ -82,10 +126,10 @@
       "lps_at_entry": 70.5,
       "confidence": "Alta",
       "entered_at": "2026-08-23T16:24:03.153122+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-23T17:26:45.801052+00:00",
+      "final_score": "2 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-23T16:24:03.153127+00:00"
     },
     {
@@ -2466,6 +2510,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "403705"
+    "403705",
+    "403729",
+    "403837"
   ]
 }
