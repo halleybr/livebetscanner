@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403613,
+      "league": "Paraguay Division Intermedia",
+      "home": "Club Dr Benjamin Aceval",
+      "away": "Deportivo Santaní",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 68.98,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T14:44:19.259523+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T14:44:19.259526+00:00"
+    },
+    {
+      "id": 403909,
+      "league": "Iceland 2 Deild",
+      "home": "Throttur Vogar",
+      "away": "UMF Selfoss",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 43,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T14:44:19.259510+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T14:44:19.259514+00:00"
+    },
+    {
       "id": 406402,
       "league": "Iceland 3 Deild",
       "home": "KH Hlidarendi",
@@ -2311,5 +2355,8 @@
       "last_alerted_at": "2026-08-21T16:02:19.887838+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403613",
+    "403909"
+  ]
 }
