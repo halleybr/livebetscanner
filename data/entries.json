@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403510,
+      "league": "Australia Victoria Premier League 1",
+      "home": "Manningham United Blues",
+      "away": "Melbourne Victory NPL",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 88,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 79.51,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T07:03:08.217881+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T07:03:08.217885+00:00"
+    },
+    {
       "id": 403508,
       "league": "Australia Queensland Premier League 3",
       "home": "Logan Roos FC",
@@ -16,9 +38,9 @@
       "lps_at_entry": 75.3,
       "confidence": "Alta",
       "entered_at": "2026-08-23T06:38:51.400779+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T07:03:08.217906+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-23T06:38:51.400783+00:00"
     },
@@ -1982,6 +2004,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "403508"
+    "403510"
   ]
 }
