@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 403492,
+      "league": "USA USL League One",
+      "home": "Antelope Valley Alta",
+      "away": "FC Naples",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 73.5,
+      "lps_at_entry": 76.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T04:46:37.672670+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T04:46:37.672673+00:00"
+    },
+    {
+      "id": 403495,
+      "league": "Australia Northern NSW Premier League",
+      "home": "Edgeworth Eagles",
+      "away": "Belmont Swansea United SC",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 84,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 76.94,
+      "lps_at_entry": 77.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T04:46:37.672658+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T04:46:37.672663+00:00"
+    },
+    {
       "id": 403576,
       "league": "USA MLS",
       "home": "Los Angeles FC",
@@ -16,9 +60,9 @@
       "lps_at_entry": 70.9,
       "confidence": "Alta",
       "entered_at": "2026-08-23T04:35:52.437020+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T04:46:37.672696+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-23T04:35:52.437024+00:00"
     },
@@ -1916,6 +1960,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "403576"
+    "403492",
+    "403495"
   ]
 }
