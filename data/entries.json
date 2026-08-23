@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403577,
+      "league": "Denmark Superligaen",
+      "home": "AGF Aarhus",
+      "away": "Odense BK",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 77.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T13:06:21.631382+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T13:06:21.631386+00:00"
+    },
+    {
       "id": 403647,
       "league": "Sweden 1.div Norra",
       "home": "Umeå FC",
@@ -16,10 +38,10 @@
       "lps_at_entry": 73.6,
       "confidence": "Alta",
       "entered_at": "2026-08-23T12:51:35.337115+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-23T13:06:21.631443+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-23T12:51:35.337117+00:00"
     },
     {
@@ -60,10 +82,10 @@
       "lps_at_entry": 75.3,
       "confidence": "Alta",
       "entered_at": "2026-08-23T12:51:35.337103+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-23T13:06:21.631453+00:00",
+      "final_score": "1 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-23T12:51:35.337105+00:00"
     },
     {
@@ -82,9 +104,9 @@
       "lps_at_entry": 75.9,
       "confidence": "Alta",
       "entered_at": "2026-08-23T12:51:35.337093+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T13:06:21.631458+00:00",
+      "final_score": "5 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T12:51:35.337097+00:00"
     },
@@ -2114,9 +2136,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "403579",
-    "403647",
-    "403649",
-    "403650"
+    "403577",
+    "403579"
   ]
 }
