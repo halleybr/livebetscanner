@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 404928,
+      "league": "Mexico Liga MX U19",
+      "home": "Atletico San Luis U19",
+      "away": "Pachuca U19",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 24,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 73.49,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T18:01:12.329974+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T18:01:12.329978+00:00"
+    },
+    {
       "id": 404937,
       "league": "Italy Serie A Cup Women",
       "home": "Fiorentina (W)",
@@ -82,9 +104,9 @@
       "lps_at_entry": 73.2,
       "confidence": "Alta",
       "entered_at": "2026-08-23T17:06:36.540221+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T18:01:12.330103+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-08-23T17:56:24.708315+00:00"
     },
@@ -2422,7 +2444,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "403705",
-    "404937"
+    "404928"
   ]
 }
