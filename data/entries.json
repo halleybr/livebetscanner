@@ -16,9 +16,9 @@
       "lps_at_entry": 74.1,
       "confidence": "Alta",
       "entered_at": "2026-08-23T19:46:12.228252+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T19:59:26.862180+00:00",
+      "final_score": "3 x 4",
       "note": null,
       "last_alerted_at": "2026-08-23T19:46:12.228254+00:00"
     },
@@ -2353,54 +2353,9 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-21T20:29:42.033503+00:00"
-    },
-    {
-      "id": 400462,
-      "league": "Republic of Ireland Leinster Senior League",
-      "home": "Tolka Rovers",
-      "away": "Bangor Celtic FC",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 52,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.18,
-      "prob": 75.21,
-      "lps_at_entry": 70.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T19:53:39.551825+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T20:51:43.065483+00:00",
-      "final_score": "3 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-21T20:09:59.377333+00:00"
-    },
-    {
-      "id": 403031,
-      "league": "Iraq Stars League",
-      "home": "Al Karma",
-      "away": "Al Shorta SC",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 93,
-      "market": "Próximo gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T19:53:39.551816+00:00",
-      "status": "red",
-      "settled_at": "2026-08-21T19:59:11.539337+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-21T19:53:39.551819+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "403660",
     "404684"
   ]
 }
