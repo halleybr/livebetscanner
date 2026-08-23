@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 404441,
+      "league": "Romania Liga 2",
+      "home": "CSA Steaua Bucuresti",
+      "away": "CSC Dumbravita",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 80,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 79.64,
+      "lps_at_entry": 76.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T09:40:04.515761+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T09:40:04.515766+00:00"
+    },
+    {
       "id": 403510,
       "league": "Australia Victoria Premier League 1",
       "home": "Manningham United Blues",
@@ -1981,5 +2003,7 @@
       "last_alerted_at": "2026-08-21T10:48:47.112024+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "404441"
+  ]
 }
