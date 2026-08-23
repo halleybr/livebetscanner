@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 404437,
+      "league": "Iceland Premier League",
+      "home": "Vikingur Reykjavik",
+      "away": "Valur Reykjavik",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 69,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 83.41,
+      "lps_at_entry": 72.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T20:44:34.801972+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T20:44:34.801979+00:00"
+    },
+    {
       "id": 406416,
       "league": "Iceland 3 Deild",
       "home": "FC Arbaer",
@@ -64,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T19:32:02.772166+00:00"
+      "last_alerted_at": "2026-08-23T20:44:34.801988+00:00"
     },
     {
       "id": 404684,
@@ -2287,73 +2309,10 @@
       "final_score": "4 x 3",
       "note": null,
       "last_alerted_at": "2026-08-22T01:55:52.142343+00:00"
-    },
-    {
-      "id": 398906,
-      "league": "Republic of Ireland Premier Division",
-      "home": "Sligo Rovers",
-      "away": "Waterford FC",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 79,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T20:37:40.830894+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-21T20:56:13.462771+00:00",
-      "final_score": "0 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-21T20:37:40.830897+00:00"
-    },
-    {
-      "id": 398887,
-      "league": "Republic of Ireland First Division",
-      "home": "Treaty United FC",
-      "away": "Cork City",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 95,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.1,
-      "prob": 84.83,
-      "lps_at_entry": 74.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T20:37:40.830880+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T20:51:43.065469+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-21T20:37:40.830884+00:00"
-    },
-    {
-      "id": 398888,
-      "league": "Republic of Ireland Premier Division",
-      "home": "Dundalk",
-      "away": "Galway United",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 86,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 83.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T20:29:42.033500+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T20:51:43.065478+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-21T20:29:42.033503+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403677",
+    "404437"
+  ]
 }
