@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406402,
+      "league": "Iceland 3 Deild",
+      "home": "KH Hlidarendi",
+      "away": "KV Vesturbaer",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 18,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T14:19:40.228497+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T14:19:40.228501+00:00"
+    },
+    {
       "id": 403615,
       "league": "Germany DFB Pokal",
       "home": "Eintracht Braunschweig",
@@ -218,7 +240,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T13:49:54.476083+00:00"
+      "last_alerted_at": "2026-08-23T14:19:40.228509+00:00"
     },
     {
       "id": 403649,
@@ -2290,6 +2312,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "403615"
+    "403579",
+    "406402"
   ]
 }
