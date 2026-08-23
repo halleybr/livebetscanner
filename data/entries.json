@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403544,
+      "league": "USA MLS Next Pro League",
+      "home": "North Texas SC",
+      "away": "Minnesota United FC II",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 53,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.2,
+      "prob": 74.8,
+      "lps_at_entry": 71.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T02:07:31.368868+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T02:07:31.368873+00:00"
+    },
+    {
       "id": 403183,
       "league": "Paraguay Women League",
       "home": "Nacional-Humaita (W)",
@@ -1849,5 +1871,7 @@
       "last_alerted_at": "2026-08-21T09:47:44.679211+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403544"
+  ]
 }
