@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403761,
+      "league": "Chile Primera B",
+      "home": "CD Antofagasta",
+      "away": "Deportes Temuco",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.18,
+      "prob": 76.82,
+      "lps_at_entry": 70.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T22:50:58.635261+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T22:50:58.635265+00:00"
+    },
+    {
       "id": 403773,
       "league": "Brazil Serie B",
       "home": "Criciuma",
@@ -20,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T22:09:18.789987+00:00"
+      "last_alerted_at": "2026-08-23T22:50:58.635273+00:00"
     },
     {
       "id": 403771,
@@ -2399,5 +2421,8 @@
       "last_alerted_at": "2026-08-22T01:55:52.142343+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "403761",
+    "403773"
+  ]
 }
