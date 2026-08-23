@@ -16,9 +16,9 @@
       "lps_at_entry": 74.2,
       "confidence": "Alta",
       "entered_at": "2026-08-23T10:44:08.934260+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T10:59:55.110609+00:00",
+      "final_score": "4 x 3",
       "note": null,
       "last_alerted_at": "2026-08-23T10:44:08.934264+00:00"
     },
@@ -38,9 +38,9 @@
       "lps_at_entry": 72.4,
       "confidence": "Alta",
       "entered_at": "2026-08-23T10:18:09.231019+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T10:59:55.110618+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T10:18:09.231024+00:00"
     },
@@ -2023,31 +2023,7 @@
       "final_score": "2 x 0",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-21T16:02:19.887838+00:00"
-    },
-    {
-      "id": 398776,
-      "league": "Australia Victoria Premier League 1",
-      "home": "Northcote City",
-      "away": "Brunswick Juventus",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 16,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.2,
-      "prob": 74.25,
-      "lps_at_entry": 70.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T10:48:47.112019+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T12:49:11.954269+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-21T10:48:47.112024+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "404603"
-  ]
+  "last_opportunity_ids": []
 }
