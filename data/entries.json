@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 404937,
+      "league": "Italy Serie A Cup Women",
+      "home": "Fiorentina (W)",
+      "away": "Sassuolo (W)",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 85.86,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T17:56:24.708301+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T17:56:24.708306+00:00"
+    },
+    {
       "id": 403729,
       "league": "Iceland Premier League",
       "home": "KA Akureyri",
@@ -38,9 +60,9 @@
       "lps_at_entry": 81.6,
       "confidence": "Alta",
       "entered_at": "2026-08-23T17:26:45.800930+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-23T17:56:24.708435+00:00",
+      "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T17:26:45.800935+00:00"
     },
@@ -64,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T17:06:36.540226+00:00"
+      "last_alerted_at": "2026-08-23T17:56:24.708315+00:00"
     },
     {
       "id": 404509,
@@ -2400,6 +2422,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "403837"
+    "403705",
+    "404937"
   ]
 }
