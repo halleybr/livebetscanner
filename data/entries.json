@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 403528,
+      "league": "USA USL Championship",
+      "home": "Birmingham Legion FC",
+      "away": "Sporting JAX",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 102,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 79.08,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T02:08:24.720598+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T02:08:24.720603+00:00"
+    },
+    {
       "id": 403544,
       "league": "USA MLS Next Pro League",
       "home": "North Texas SC",
@@ -1872,6 +1894,7 @@
     }
   ],
   "last_opportunity_ids": [
+    "403528",
     "403544"
   ]
 }
