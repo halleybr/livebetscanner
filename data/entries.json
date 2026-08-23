@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 404684,
+      "league": "USA NWSL Women",
+      "home": "Chicago Stars (W)",
+      "away": "Racing Louisville FC (W)",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 64,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T19:28:49.937414+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T19:28:49.937418+00:00"
+    },
+    {
       "id": 403730,
       "league": "Iceland Premier League",
       "home": "IA Akranes",
@@ -64,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T18:01:12.329978+00:00"
+      "last_alerted_at": "2026-08-23T19:28:49.937428+00:00"
     },
     {
       "id": 404937,
@@ -2375,73 +2397,10 @@
       "final_score": "4 x 3",
       "note": null,
       "last_alerted_at": "2026-08-21T19:39:10.993929+00:00"
-    },
-    {
-      "id": 400353,
-      "league": "Brazil Campeonato Paulista U20",
-      "home": "Bragantino U20",
-      "away": "Maua FC U20",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 63,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 70.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T19:23:47.208918+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T19:59:11.539352+00:00",
-      "final_score": "4 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-21T19:23:47.208923+00:00"
-    },
-    {
-      "id": 400417,
-      "league": "Northern Ireland Championship Women",
-      "home": "Mid Ulster (W)",
-      "away": "Bangor FC (W)",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 42,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.5,
-      "prob": 60.73,
-      "lps_at_entry": 71.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T19:16:11.466853+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T20:29:42.033574+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-21T19:59:11.539268+00:00"
-    },
-    {
-      "id": 398795,
-      "league": "Iceland Premier League Women",
-      "home": "FH Hafnarfjordur (W)",
-      "away": "Vikingur Reykjavik (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 55,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.11,
-      "prob": 83.18,
-      "lps_at_entry": 73.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-21T19:16:11.466840+00:00",
-      "status": "green",
-      "settled_at": "2026-08-21T19:59:11.539356+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-21T19:39:10.993936+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "404684",
+    "404928"
+  ]
 }
