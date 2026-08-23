@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 404577,
+      "league": "Finland Ykkonen",
+      "home": "VJS Vantaa",
+      "away": "FC Jazz",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 54,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 87.58,
+      "lps_at_entry": 71.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T15:19:22.992151+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T15:19:22.992154+00:00"
+    },
+    {
+      "id": 403621,
+      "league": "Estonia Meistriliiga",
+      "home": "Paide Linnameeskond",
+      "away": "JK Nomme United",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 60,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.11,
+      "prob": 85.28,
+      "lps_at_entry": 77.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-23T15:19:22.992138+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-23T15:19:22.992143+00:00"
+    },
+    {
       "id": 403617,
       "league": "Germany DFB Pokal",
       "home": "Carl Zeiss Jena",
@@ -108,7 +152,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-23T14:56:46.668803+00:00"
+      "last_alerted_at": "2026-08-23T15:19:22.992160+00:00"
     },
     {
       "id": 403581,
@@ -2378,7 +2422,9 @@
     }
   ],
   "last_opportunity_ids": [
-    "403617",
-    "403909"
+    "403615",
+    "403621",
+    "403909",
+    "404577"
   ]
 }
