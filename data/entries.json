@@ -1671,28 +1671,6 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T16:01:00.089074+00:00"
-    },
-    {
-      "id": 403402,
-      "league": "Hungary NBI Women",
-      "home": "Ujpest (W)",
-      "away": "Diosgyori VTK (W)",
-      "home_score_at_entry": 7,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 90,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.11,
-      "prob": 84.94,
-      "lps_at_entry": 72.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T14:56:39.914671+00:00",
-      "status": "green",
-      "settled_at": "2026-08-22T15:06:44.524796+00:00",
-      "final_score": "7 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-22T14:56:39.914674+00:00"
     }
   ],
   "last_opportunity_ids": []
