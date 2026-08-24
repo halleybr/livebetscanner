@@ -2397,28 +2397,6 @@
       "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-08-22T04:06:25.838102+00:00"
-    },
-    {
-      "id": 400514,
-      "league": "Australia Capital Territory U23 League",
-      "home": "Canberra Olympic U23",
-      "away": "Brindabella Blues FC U23",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 70,
-      "market": "Próximo gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 81.3,
-      "confidence": "Média",
-      "entered_at": "2026-08-22T03:24:10.488155+00:00",
-      "status": "red",
-      "settled_at": "2026-08-22T04:01:16.327678+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-22T03:24:10.488159+00:00"
     }
   ],
   "last_opportunity_ids": []
