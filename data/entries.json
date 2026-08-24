@@ -2309,28 +2309,6 @@
       "final_score": "4 x 0",
       "note": null,
       "last_alerted_at": "2026-08-22T06:29:01.771820+00:00"
-    },
-    {
-      "id": 400727,
-      "league": "Australia Capital Territory Premier League",
-      "home": "Canberra Olympic",
-      "away": "Brindabella Blues FC",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 70,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.25,
-      "prob": 74.44,
-      "lps_at_entry": 77.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T05:57:07.889445+00:00",
-      "status": "green",
-      "settled_at": "2026-08-22T06:52:59.172007+00:00",
-      "final_score": "5 x 4",
-      "note": null,
-      "last_alerted_at": "2026-08-22T05:57:07.889449+00:00"
     }
   ],
   "last_opportunity_ids": []
