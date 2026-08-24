@@ -1297,28 +1297,6 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T22:45:08.863506+00:00"
-    },
-    {
-      "id": 402971,
-      "league": "Serbia U19 League",
-      "home": "Cukaricki U19",
-      "away": "Crvena Zvezda U19",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 77,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.11,
-      "prob": 82.08,
-      "lps_at_entry": 70.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T20:07:27.267942+00:00",
-      "status": "green",
-      "settled_at": "2026-08-22T20:32:40.824657+00:00",
-      "final_score": "1 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-22T20:07:27.267946+00:00"
     }
   ],
   "last_opportunity_ids": [
