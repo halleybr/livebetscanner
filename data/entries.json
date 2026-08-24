@@ -1935,28 +1935,6 @@
       "final_score": "5 x 0",
       "note": null,
       "last_alerted_at": "2026-08-22T12:54:44.902937+00:00"
-    },
-    {
-      "id": 400797,
-      "league": "China Super League",
-      "home": "Wuhan Three Towns",
-      "away": "Tianjin Jinmen Tigers",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 70,
-      "market": null,
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.33,
-      "prob": 76.15,
-      "lps_at_entry": 70.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T12:31:59.067779+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-22T13:10:43.644508+00:00",
-      "final_score": "0 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-22T12:31:59.067783+00:00"
     }
   ],
   "last_opportunity_ids": []
