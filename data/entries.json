@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 405137,
+      "league": "Iceland Premier League",
+      "home": "Breidablik",
+      "away": "Fram Reykjavik",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 22,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +8.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-24T19:37:54.240604+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-24T19:37:54.240608+00:00"
+    },
+    {
       "id": 406361,
       "league": "Israel Leumit Liga",
       "home": "Maccabi Kiryat Gat",
@@ -1297,29 +1319,9 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-22T20:07:27.267946+00:00"
-    },
-    {
-      "id": 400950,
-      "league": "Saudi Arabia Pro League",
-      "home": "Al Khaleej Saihat",
-      "away": "Al Shabab Riyadh",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 61,
-      "market": null,
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.2,
-      "prob": 85.29,
-      "lps_at_entry": 71.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T19:19:20.103243+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-22T20:01:50.874853+00:00",
-      "final_score": "0 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-22T19:19:20.103246+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "405137"
+  ]
 }
