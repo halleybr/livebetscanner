@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 405128,
+      "league": "Germany DFB Pokal",
+      "home": "Hallescher FC",
+      "away": "Schalke",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 85.38,
+      "lps_at_entry": 70.7,
+      "confidence": "Alta",
+      "entered_at": "2026-08-24T20:37:01.816825+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-24T20:37:01.816828+00:00"
+    },
+    {
       "id": 405137,
       "league": "Iceland Premier League",
       "home": "Breidablik",
@@ -1300,6 +1322,7 @@
     }
   ],
   "last_opportunity_ids": [
+    "405128",
     "405137"
   ]
 }
