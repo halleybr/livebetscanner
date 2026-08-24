@@ -16,10 +16,10 @@
       "lps_at_entry": 73.1,
       "confidence": "Alta",
       "entered_at": "2026-08-24T23:02:54.859142+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-24T23:28:49.726352+00:00",
+      "final_score": "1 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-24T23:02:54.859145+00:00"
     },
     {
@@ -1297,28 +1297,6 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-08-23T02:07:31.368873+00:00"
-    },
-    {
-      "id": 403183,
-      "league": "Paraguay Women League",
-      "home": "Nacional-Humaita (W)",
-      "away": "Deportivo Recoleta (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 16,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 82.08,
-      "lps_at_entry": 70.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-22T23:19:40.294975+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-08-22T23:19:40.294979+00:00"
     }
   ],
   "last_opportunity_ids": []
