@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 405097,
+      "league": "Estonia Esiliiga",
+      "home": "JK Tallinna Kalev",
+      "away": "Maardu Linnameeskond",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 62,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 78.63,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-24T17:18:20.956054+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-24T17:18:20.956058+00:00"
+    },
+    {
       "id": 406328,
       "league": "Slovenia U19 League",
       "home": "NK Celje U19",
@@ -42,7 +64,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-24T16:48:53.336230+00:00"
+      "last_alerted_at": "2026-08-24T17:18:20.956066+00:00"
     },
     {
       "id": 405099,
@@ -1365,5 +1387,8 @@
       "last_alerted_at": "2026-08-22T17:28:50.558850+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "405097",
+    "405104"
+  ]
 }
