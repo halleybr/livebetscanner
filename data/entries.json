@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407521,
+      "league": "Czechia Cup",
+      "home": "Motorlet Praha",
+      "away": "Vysocina Jihlava",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 63,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 84.41,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T16:50:26.629554+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T16:50:26.629559+00:00"
+    },
+    {
       "id": 407434,
       "league": "Czechia Cup",
       "home": "Varnsdorf",
@@ -659,53 +681,10 @@
       "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-08-23T17:56:24.708315+00:00"
-    },
-    {
-      "id": 404509,
-      "league": "Scotland Premier League Women",
-      "home": "Motherwell (W)",
-      "away": "Hearts (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 5,
-      "minute_at_entry": 88,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 74.9,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T16:45:25.891959+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T17:02:09.929753+00:00",
-      "final_score": "0 x 5",
-      "note": null,
-      "last_alerted_at": "2026-08-23T16:45:25.891961+00:00"
-    },
-    {
-      "id": 403722,
-      "league": "Finland Veikkausliiga",
-      "home": "TPS",
-      "away": "FC Inter",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 85,
-      "market": null,
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.25,
-      "prob": 82.45,
-      "lps_at_entry": 75.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T16:45:25.891949+00:00",
-      "status": "n_d",
-      "settled_at": "2026-08-23T17:02:09.929763+00:00",
-      "final_score": "0 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-08-23T16:45:25.891952+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "407434"
+    "407434",
+    "407521"
   ]
 }
