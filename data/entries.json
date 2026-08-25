@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407313,
+      "league": "England Development League 2",
+      "home": "Swansea U21",
+      "away": "Peterborough U21",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 71,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 79.41,
+      "lps_at_entry": 73.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T12:31:40.170376+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T12:31:40.170380+00:00"
+    },
+    {
       "id": 406511,
       "league": "Australia Cup",
       "home": "Lions FC",
@@ -1101,5 +1123,7 @@
       "last_alerted_at": "2026-08-23T12:51:35.337097+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "407313"
+  ]
 }
