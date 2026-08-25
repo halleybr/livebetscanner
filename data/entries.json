@@ -38,9 +38,9 @@
       "lps_at_entry": 71.6,
       "confidence": "Alta",
       "entered_at": "2026-08-25T16:38:34.709044+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "red",
+      "settled_at": "2026-08-25T17:13:15.570788+00:00",
+      "final_score": "0 x 0",
       "note": null,
       "last_alerted_at": "2026-08-25T16:38:34.709047+00:00"
     },
@@ -659,32 +659,7 @@
       "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T17:26:45.800935+00:00"
-    },
-    {
-      "id": 403705,
-      "league": "Chile Liga de Primera",
-      "home": "La Serena",
-      "away": "Cobresal",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 45,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 73.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T17:06:36.540221+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T18:01:12.330103+00:00",
-      "final_score": "3 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-23T17:56:24.708315+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "407434",
-    "407521"
-  ]
+  "last_opportunity_ids": []
 }
