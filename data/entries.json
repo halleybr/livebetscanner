@@ -16,10 +16,10 @@
       "lps_at_entry": 71.2,
       "confidence": "Alta",
       "entered_at": "2026-08-25T22:53:25.058638+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-25T23:35:12.551451+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-25T22:53:25.058640+00:00"
     },
     {
@@ -417,28 +417,6 @@
       "final_score": "6 x 1",
       "note": null,
       "last_alerted_at": "2026-08-24T15:23:35.432936+00:00"
-    },
-    {
-      "id": 404751,
-      "league": "USA MLS Next Pro League",
-      "home": "New York Red Bulls II",
-      "away": "Toronto FC II",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 28,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.14,
-      "prob": 80.3,
-      "lps_at_entry": 74.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T23:31:56.208181+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-08-23T23:31:56.208186+00:00"
     }
   ],
   "last_opportunity_ids": []
