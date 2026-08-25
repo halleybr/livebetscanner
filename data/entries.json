@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406566,
+      "league": "Scotland League Challenge Cup",
+      "home": "Stranraer",
+      "away": "Gala Fairydean",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 87,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 84.97,
+      "lps_at_entry": 71.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T20:31:13.376672+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T20:31:13.376676+00:00"
+    },
+    {
       "id": 406571,
       "league": "Scotland League Challenge Cup",
       "home": "Kelty Hearts",
@@ -508,6 +530,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "406571"
+    "406566"
   ]
 }
