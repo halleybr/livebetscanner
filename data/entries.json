@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406523,
+      "league": "Saudi Arabia Pro League",
+      "home": "Al Shabab Riyadh",
+      "away": "Al Riyadh",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T19:29:52.038708+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T19:29:52.038713+00:00"
+    },
+    {
       "id": 407521,
       "league": "Czechia Cup",
       "home": "Motorlet Praha",
@@ -505,29 +527,9 @@
       "final_score": "0 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T20:44:34.801988+00:00"
-    },
-    {
-      "id": 404684,
-      "league": "USA NWSL Women",
-      "home": "Chicago Stars (W)",
-      "away": "Racing Louisville FC (W)",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 64,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T19:28:49.937414+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T20:23:52.082522+00:00",
-      "final_score": "3 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-23T19:46:12.228264+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "406523"
+  ]
 }
