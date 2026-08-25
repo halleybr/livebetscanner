@@ -42,7 +42,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-25T19:29:52.038713+00:00"
+      "last_alerted_at": "2026-08-25T19:55:56.252495+00:00"
     },
     {
       "id": 407521,
@@ -483,53 +483,10 @@
       "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-08-23T20:44:34.801979+00:00"
-    },
-    {
-      "id": 406416,
-      "league": "Iceland 3 Deild",
-      "home": "FC Arbaer",
-      "away": "Ymir Kopavogur",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 4,
-      "minute_at_entry": 89,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 78.14,
-      "lps_at_entry": 74.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T19:46:12.228252+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T19:59:26.862180+00:00",
-      "final_score": "3 x 4",
-      "note": null,
-      "last_alerted_at": "2026-08-23T19:46:12.228254+00:00"
-    },
-    {
-      "id": 403660,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Puebla (W)",
-      "away": "Atletico San Luis (W)",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 84,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.11,
-      "prob": 81.67,
-      "lps_at_entry": 80.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T19:46:12.228240+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T20:23:52.082512+00:00",
-      "final_score": "2 x 5",
-      "note": null,
-      "last_alerted_at": "2026-08-23T19:46:12.228245+00:00"
     }
   ],
   "last_opportunity_ids": [
+    "406523",
     "406533"
   ]
 }
