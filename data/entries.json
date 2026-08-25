@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406533,
+      "league": "England EFL Trophy",
+      "home": "Bristol Rovers",
+      "away": "Chelsea U21",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 77,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 77.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T19:35:15.557896+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T19:35:15.557900+00:00"
+    },
+    {
       "id": 406523,
       "league": "Saudi Arabia Pro League",
       "home": "Al Shabab Riyadh",
@@ -505,31 +527,9 @@
       "final_score": "2 x 5",
       "note": null,
       "last_alerted_at": "2026-08-23T19:46:12.228245+00:00"
-    },
-    {
-      "id": 403677,
-      "league": "Brazil Serie A",
-      "home": "Vitoria",
-      "away": "EC Bahia",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 31,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 76.8,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T19:32:02.772162+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T21:20:07.508644+00:00",
-      "final_score": "0 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-23T20:44:34.801988+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "406523"
+    "406533"
   ]
 }
