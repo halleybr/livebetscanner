@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407474,
+      "league": "Bolivia Primera Division",
+      "home": "GV San Jose",
+      "away": "Oriente Petrolero",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T20:49:19.723444+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T20:49:19.723449+00:00"
+    },
+    {
       "id": 406566,
       "league": "Scotland League Challenge Cup",
       "home": "Stranraer",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.5,
       "confidence": "Alta",
       "entered_at": "2026-08-25T20:31:13.376672+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-25T20:49:19.723501+00:00",
+      "final_score": "3 x 0",
       "note": null,
       "last_alerted_at": "2026-08-25T20:31:13.376676+00:00"
     },
@@ -505,31 +527,9 @@
       "final_score": "1 x 0",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-23T20:58:53.934246+00:00"
-    },
-    {
-      "id": 404437,
-      "league": "Iceland Premier League",
-      "home": "Vikingur Reykjavik",
-      "away": "Valur Reykjavik",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 69,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.1,
-      "prob": 83.41,
-      "lps_at_entry": 72.5,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T20:44:34.801972+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T21:20:07.508635+00:00",
-      "final_score": "2 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-23T20:44:34.801979+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "406566"
+    "407474"
   ]
 }
