@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406555,
+      "league": "Uruguay Cup",
+      "home": "Defensor Sporting",
+      "away": "Rentistas",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 74,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T22:53:25.058638+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T22:53:25.058640+00:00"
+    },
+    {
       "id": 407474,
       "league": "Bolivia Primera Division",
       "home": "GV San Jose",
@@ -417,29 +439,9 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-08-23T23:31:56.208186+00:00"
-    },
-    {
-      "id": 403761,
-      "league": "Chile Primera B",
-      "home": "CD Antofagasta",
-      "away": "Deportes Temuco",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 89,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.18,
-      "prob": 76.82,
-      "lps_at_entry": 70.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T22:50:58.635261+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T23:05:47.821494+00:00",
-      "final_score": "3 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-23T22:50:58.635265+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "406555"
+  ]
 }
