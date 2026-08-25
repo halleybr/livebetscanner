@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 406511,
+      "league": "Australia Cup",
+      "home": "Lions FC",
+      "away": "North Sunshine Eagles",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 62,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-25T10:50:46.055068+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-25T10:50:46.055073+00:00"
+    },
+    {
       "id": 405142,
       "league": "Paraguay Division Profesional",
       "home": "Libertad Asuncion",
@@ -1077,29 +1099,9 @@
       "final_score": "5 x 2",
       "note": null,
       "last_alerted_at": "2026-08-23T12:51:35.337097+00:00"
-    },
-    {
-      "id": 403857,
-      "league": "Austria Landesliga",
-      "home": "FC Hard",
-      "away": "SV Ludesch",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 88,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.17,
-      "prob": 74.77,
-      "lps_at_entry": 74.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-23T10:44:08.934260+00:00",
-      "status": "green",
-      "settled_at": "2026-08-23T10:59:55.110609+00:00",
-      "final_score": "4 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-23T10:44:08.934264+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "406511"
+  ]
 }
