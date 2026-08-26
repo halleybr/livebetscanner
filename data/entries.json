@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 409014,
+      "league": "UEFA Women's Europa Cup Qualifying",
+      "home": "ZNK Radomlje (W)",
+      "away": "Valerenga (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 79,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T16:40:14.266204+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T16:40:14.266207+00:00"
+    },
+    {
       "id": 409040,
       "league": "Czechia Cup",
       "home": "FK Prepere",
@@ -615,31 +637,10 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-24T17:18:20.956066+00:00"
-    },
-    {
-      "id": 405099,
-      "league": "Estonia Esiliiga B",
-      "home": "Parnu JK Vaprus II",
-      "away": "Tabasalu FC Charma",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 17,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 86.1,
-      "lps_at_entry": 70.2,
-      "confidence": "Alta",
-      "entered_at": "2026-08-24T16:18:12.408066+00:00",
-      "status": "green",
-      "settled_at": "2026-08-24T17:56:03.392711+00:00",
-      "final_score": "6 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-24T16:18:12.408070+00:00"
     }
   ],
   "last_opportunity_ids": [
+    "409014",
     "409040"
   ]
 }
