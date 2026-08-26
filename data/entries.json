@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407536,
+      "league": "Leagues Cup",
+      "home": "Leon",
+      "away": "Real Salt Lake",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 63,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T04:04:22.743093+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T04:04:22.743097+00:00"
+    },
+    {
       "id": 406555,
       "league": "Uruguay Cup",
       "home": "Defensor Sporting",
@@ -419,5 +441,7 @@
       "last_alerted_at": "2026-08-24T15:23:35.432936+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "407536"
+  ]
 }
