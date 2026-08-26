@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 408783,
+      "league": "Slovakia Youth League",
+      "home": "ZP Sport Podbrezova U19",
+      "away": "FC Petrzalka U19",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 24,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T09:24:46.593359+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T09:24:46.593365+00:00"
+    },
+    {
       "id": 408786,
       "league": "Czechia Youth League",
       "home": "Teplice U19",
@@ -464,6 +486,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "408786"
+    "408783"
   ]
 }
