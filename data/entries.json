@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 408786,
+      "league": "Czechia Youth League",
+      "home": "Teplice U19",
+      "away": "Slovacko U19",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 30,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.29,
+      "prob": 80.15,
+      "lps_at_entry": 75.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T09:00:42.772695+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T09:00:42.772700+00:00"
+    },
+    {
       "id": 407536,
       "league": "Leagues Cup",
       "home": "Leon",
@@ -441,5 +463,7 @@
       "last_alerted_at": "2026-08-24T15:23:35.432936+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "408786"
+  ]
 }
