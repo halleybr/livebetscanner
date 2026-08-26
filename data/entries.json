@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407591,
+      "league": "South Korea K League 1",
+      "home": "Gangwon FC",
+      "away": "Gwangju FC",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 91,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 86.57,
+      "lps_at_entry": 71.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T12:21:56.570468+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T12:21:56.570474+00:00"
+    },
+    {
       "id": 408841,
       "league": "Japan FA Cup",
       "home": "Vegalta Sendai",
@@ -595,5 +617,7 @@
       "last_alerted_at": "2026-08-24T15:23:35.432936+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "407591"
+  ]
 }
