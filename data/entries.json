@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 407537,
+      "league": "Australia Cup",
+      "home": "Preston Lions",
+      "away": "South Melbourne",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 65,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.29,
+      "prob": 72.63,
+      "lps_at_entry": 82.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T10:55:32.457971+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T10:55:32.457975+00:00"
+    },
+    {
       "id": 408949,
       "league": "Japan FA Cup",
       "home": "Tokushima Vortis",
@@ -82,9 +104,9 @@
       "lps_at_entry": 72.5,
       "confidence": "Alta",
       "entered_at": "2026-08-26T09:24:46.593359+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-26T10:55:32.457993+00:00",
+      "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-08-26T09:24:46.593365+00:00"
     },
@@ -552,6 +574,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "408949"
+    "407537"
   ]
 }
