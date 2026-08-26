@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 409040,
+      "league": "Czechia Cup",
+      "home": "FK Prepere",
+      "away": "Slovan Liberec",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 33,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.9,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T16:03:44.513412+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T16:03:44.513415+00:00"
+    },
+    {
       "id": 408862,
       "league": "Finland Kolmonen",
       "home": "LAUTP",
@@ -618,6 +640,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "408862"
+    "409040"
   ]
 }
