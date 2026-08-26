@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 407580,
+      "league": "England Northern Premier League",
+      "home": "Avro FC",
+      "away": "Leek Town",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 4,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 76.28,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T20:39:02.305998+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T20:39:02.306000+00:00"
+    },
+    {
+      "id": 407581,
+      "league": "England EFL Cup",
+      "home": "Bradford",
+      "away": "Burnley",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.5,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T20:39:02.305989+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T20:39:02.305992+00:00"
+    },
+    {
       "id": 407576,
       "league": "FIFA Intercontinental Cup",
       "home": "Al Ahli Jeddah",
@@ -637,29 +681,10 @@
       "final_score": "1 x 0",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-24T23:02:54.859145+00:00"
-    },
-    {
-      "id": 405128,
-      "league": "Germany DFB Pokal",
-      "home": "Hallescher FC",
-      "away": "Schalke",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 90,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 85.38,
-      "lps_at_entry": 70.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-24T20:37:01.816825+00:00",
-      "status": "green",
-      "settled_at": "2026-08-24T21:33:47.211165+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-08-24T20:37:01.816828+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "407580",
+    "407581"
+  ]
 }
