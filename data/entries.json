@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 408835,
+      "league": "Serbia U19 League",
+      "home": "TSC Backa Topola U19",
+      "away": "FK Novi Pazar U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T09:50:59.974175+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T09:50:59.974178+00:00"
+    },
+    {
+      "id": 408824,
+      "league": "Serbia U19 League",
+      "home": "Partizan Belgrade U19",
+      "away": "IMT Novi Belgrade U19",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 78.26,
+      "lps_at_entry": 74.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T09:50:59.974164+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T09:50:59.974168+00:00"
+    },
+    {
       "id": 408783,
       "league": "Slovakia Youth League",
       "home": "ZP Sport Podbrezova U19",
@@ -42,7 +86,7 @@
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-08-26T09:00:42.772700+00:00"
+      "last_alerted_at": "2026-08-26T09:50:59.974184+00:00"
     },
     {
       "id": 407536,
@@ -486,6 +530,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "408783"
+    "408786",
+    "408824",
+    "408835"
   ]
 }
