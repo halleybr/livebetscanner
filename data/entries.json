@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 408862,
+      "league": "Finland Kolmonen",
+      "home": "LAUTP",
+      "away": "KoPa",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 22,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 76.54,
+      "lps_at_entry": 75.2,
+      "confidence": "Alta",
+      "entered_at": "2026-08-26T15:54:17.424112+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-26T15:54:17.424116+00:00"
+    },
+    {
       "id": 407591,
       "league": "South Korea K League 1",
       "home": "Gangwon FC",
@@ -593,29 +615,9 @@
       "final_score": "6 x 0",
       "note": null,
       "last_alerted_at": "2026-08-24T16:18:12.408070+00:00"
-    },
-    {
-      "id": 406330,
-      "league": "Slovenia U19 League",
-      "home": "NK Bravo U19",
-      "away": "NK Brezice U19",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 23,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 82.75,
-      "lps_at_entry": 72.4,
-      "confidence": "Alta",
-      "entered_at": "2026-08-24T15:23:35.432932+00:00",
-      "status": "green",
-      "settled_at": "2026-08-24T16:57:37.917505+00:00",
-      "final_score": "6 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-24T15:23:35.432936+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "408862"
+  ]
 }
