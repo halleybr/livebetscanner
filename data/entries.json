@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 411218,
+      "league": "Poland III Liga",
+      "home": "Miedz Legnica II",
+      "away": "KS Stilon Gorzow",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 86,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 77.77,
+      "lps_at_entry": 80.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-28T15:42:00.618290+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-28T15:42:00.618295+00:00"
+    },
+    {
       "id": 409152,
       "league": "Iceland 4 Deild",
       "home": "Vaengir Jupiters",
@@ -265,5 +287,7 @@
       "last_alerted_at": "2026-08-26T15:54:17.424116+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "411218"
+  ]
 }
