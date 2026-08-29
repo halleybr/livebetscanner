@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 412436,
+      "league": "Malta Premier League",
+      "home": "Hamrun Spartans",
+      "away": "Floriana",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 91,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-29T18:28:31.584250+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-29T18:28:31.584253+00:00"
+    },
+    {
       "id": 411477,
       "league": "Belgium First Division B",
       "home": "RFC Liege",
@@ -265,5 +287,7 @@
       "last_alerted_at": "2026-08-27T19:53:57.297657+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "412436"
+  ]
 }
