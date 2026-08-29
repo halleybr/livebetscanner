@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 411382,
+      "league": "Germany Bundesliga II",
+      "home": "Heidenheim",
+      "away": "Dynamo Dresden",
+      "home_score_at_entry": 5,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-08-29T12:57:03.155636+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-29T12:57:03.155639+00:00"
+    },
+    {
+      "id": 411381,
+      "league": "Germany Bundesliga II",
+      "home": "Cottbus",
+      "away": "Greuther Furth",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 4,
+      "minute_at_entry": 95,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 83.8,
+      "confidence": "Alta",
+      "entered_at": "2026-08-29T12:57:03.155625+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-29T12:57:03.155629+00:00"
+    },
+    {
       "id": 411286,
       "league": "Japan J3-League",
       "home": "Kamatamare Sanuki",
@@ -16,9 +60,9 @@
       "lps_at_entry": 73.8,
       "confidence": "Alta",
       "entered_at": "2026-08-29T10:28:57.852511+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T12:57:03.155709+00:00",
+      "final_score": "3 x 4",
       "note": null,
       "last_alerted_at": "2026-08-29T10:28:57.852513+00:00"
     },
@@ -38,9 +82,9 @@
       "lps_at_entry": 75.1,
       "confidence": "Alta",
       "entered_at": "2026-08-29T10:28:57.852504+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T12:57:03.155717+00:00",
+      "final_score": "2 x 6",
       "note": null,
       "last_alerted_at": "2026-08-29T10:28:57.852506+00:00"
     },
@@ -60,9 +104,9 @@
       "lps_at_entry": 77.6,
       "confidence": "Alta",
       "entered_at": "2026-08-29T10:28:57.852494+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T12:57:03.155722+00:00",
+      "final_score": "1 x 3",
       "note": null,
       "last_alerted_at": "2026-08-29T10:28:57.852497+00:00"
     },
@@ -134,8 +178,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "411280",
-    "411286",
-    "412691"
+    "411381",
+    "411382"
   ]
 }
