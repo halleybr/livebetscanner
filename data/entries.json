@@ -16,9 +16,9 @@
       "lps_at_entry": 72.4,
       "confidence": "Alta",
       "entered_at": "2026-08-29T19:34:31.685910+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T21:04:35.281249+00:00",
+      "final_score": "5 x 1",
       "note": null,
       "last_alerted_at": "2026-08-29T19:34:31.685915+00:00"
     },
@@ -285,31 +285,7 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-28T15:42:00.618295+00:00"
-    },
-    {
-      "id": 409152,
-      "league": "Iceland 4 Deild",
-      "home": "Vaengir Jupiters",
-      "away": "Ulfarnir",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 38,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.11,
-      "prob": 80.83,
-      "lps_at_entry": 77.7,
-      "confidence": "Alta",
-      "entered_at": "2026-08-27T19:53:57.297652+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-08-27T19:53:57.297657+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "413335"
-  ]
+  "last_opportunity_ids": []
 }
