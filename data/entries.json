@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 412443,
+      "league": "Paraguay Reserve League",
+      "home": "Sportivo Trinidense Reserves",
+      "away": "2 de Mayo Reserves",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 74.14,
+      "lps_at_entry": 75.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-29T23:14:07.327650+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-29T23:14:07.327654+00:00"
+    },
+    {
       "id": 412729,
       "league": "Chile Segunda",
       "home": "Provincial Osorno",
@@ -16,9 +38,9 @@
       "lps_at_entry": 74.3,
       "confidence": "Alta",
       "entered_at": "2026-08-29T21:55:06.461188+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T23:14:07.327863+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-29T21:55:06.461191+00:00"
     },
@@ -38,10 +60,10 @@
       "lps_at_entry": 74.6,
       "confidence": "Alta",
       "entered_at": "2026-08-29T21:55:06.461180+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-08-29T23:14:07.327871+00:00",
+      "final_score": "1 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-08-29T21:55:06.461183+00:00"
     },
     {
@@ -60,9 +82,9 @@
       "lps_at_entry": 86.4,
       "confidence": "Alta",
       "entered_at": "2026-08-29T21:55:06.461168+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-29T23:14:07.327878+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-08-29T21:55:06.461173+00:00"
     },
@@ -354,8 +376,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "411726",
-    "411727",
-    "412729"
+    "412443"
   ]
 }
