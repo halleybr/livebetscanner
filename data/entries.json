@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 412881,
+      "league": "Australia New South Wales Premier League",
+      "home": "Apia L Tigers",
+      "away": "St George City FA",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 78,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 78.65,
+      "lps_at_entry": 77.6,
+      "confidence": "Alta",
+      "entered_at": "2026-08-30T06:44:31.127238+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-30T06:44:31.127242+00:00"
+    },
+    {
       "id": 412984,
       "league": "Chile Primera B",
       "home": "Deportes Iquique",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.1,
       "confidence": "Alta",
       "entered_at": "2026-08-30T01:38:13.501325+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-30T06:44:31.127270+00:00",
+      "final_score": "0 x 1",
       "note": null,
       "last_alerted_at": "2026-08-30T01:38:13.501329+00:00"
     },
@@ -398,6 +420,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "412984"
+    "412881"
   ]
 }
