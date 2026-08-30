@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 413073,
+      "league": "Germany Bundesliga I",
+      "home": "Augsburg",
+      "away": "Schalke",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.3,
+      "confidence": "Alta",
+      "entered_at": "2026-08-30T17:13:42.158884+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-30T17:13:42.158886+00:00"
+    },
+    {
+      "id": 413069,
+      "league": "Poland Ekstraklasa",
+      "home": "Gornik Zabrze",
+      "away": "GKS Katowice",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 80,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 89.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-30T17:13:42.158872+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-30T17:13:42.158876+00:00"
+    },
+    {
       "id": 413039,
       "league": "Norway Division 1",
       "home": "Moss",
@@ -16,9 +60,9 @@
       "lps_at_entry": 71.2,
       "confidence": "Alta",
       "entered_at": "2026-08-30T16:44:19.413730+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-30T17:13:42.159012+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-08-30T16:44:19.413732+00:00"
     },
@@ -60,9 +104,9 @@
       "lps_at_entry": 72.0,
       "confidence": "Alta",
       "entered_at": "2026-08-30T16:44:19.413718+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-30T17:13:42.159020+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-08-30T16:44:19.413721+00:00"
     },
@@ -104,9 +148,9 @@
       "lps_at_entry": 74.9,
       "confidence": "Alta",
       "entered_at": "2026-08-30T16:44:19.413705+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-30T17:13:42.159025+00:00",
+      "final_score": "4 x 4",
       "note": null,
       "last_alerted_at": "2026-08-30T16:44:19.413707+00:00"
     },
@@ -126,9 +170,9 @@
       "lps_at_entry": 77.3,
       "confidence": "Alta",
       "entered_at": "2026-08-30T16:44:19.413696+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-08-30T17:13:42.159029+00:00",
+      "final_score": "3 x 5",
       "note": null,
       "last_alerted_at": "2026-08-30T16:44:19.413699+00:00"
     },
@@ -684,11 +728,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "411627",
-    "413039",
-    "413041",
-    "413043",
-    "413079",
-    "414616"
+    "413069",
+    "413073",
+    "413079"
   ]
 }
