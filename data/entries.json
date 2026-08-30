@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 417891,
+      "league": "Mexico Liga MX Femenil",
+      "home": "Puebla (W)",
+      "away": "Necaxa (W)",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 86,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 76.82,
+      "lps_at_entry": 79.0,
+      "confidence": "Alta",
+      "entered_at": "2026-08-30T19:50:16.501055+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-30T19:50:16.501059+00:00"
+    },
+    {
       "id": 413150,
       "league": "Poland Ekstraklasa",
       "home": "Widzew Lodz",
@@ -750,6 +772,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "413150"
+    "417891"
   ]
 }
