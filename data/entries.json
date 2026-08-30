@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 412984,
+      "league": "Chile Primera B",
+      "home": "Deportes Iquique",
+      "away": "San Luis Quillota",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 76,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 72.68,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-08-30T01:38:13.501325+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-08-30T01:38:13.501329+00:00"
+    },
+    {
       "id": 412443,
       "league": "Paraguay Reserve League",
       "home": "Sportivo Trinidense Reserves",
@@ -375,5 +397,7 @@
       "last_alerted_at": "2026-08-28T15:42:00.618295+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "412984"
+  ]
 }
