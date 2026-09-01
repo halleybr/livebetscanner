@@ -16,9 +16,9 @@
       "lps_at_entry": 75.7,
       "confidence": "Alta",
       "entered_at": "2026-09-01T19:21:51.600123+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-01T19:29:29.672160+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-01T19:21:51.600126+00:00"
     },
@@ -131,32 +131,7 @@
       "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-08-30T19:50:16.501059+00:00"
-    },
-    {
-      "id": 413150,
-      "league": "Poland Ekstraklasa",
-      "home": "Widzew Lodz",
-      "away": "Lech Poznan",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 54,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.3,
-      "confidence": "Alta",
-      "entered_at": "2026-08-30T19:28:11.578051+00:00",
-      "status": "green",
-      "settled_at": "2026-08-30T21:58:18.680705+00:00",
-      "final_score": "2 x 3",
-      "note": null,
-      "last_alerted_at": "2026-08-30T19:28:11.578055+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "418503",
-    "419087"
-  ]
+  "last_opportunity_ids": []
 }
