@@ -38,9 +38,9 @@
       "lps_at_entry": 81.1,
       "confidence": "Alta",
       "entered_at": "2026-09-01T19:21:51.600111+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-01T21:51:39.949132+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-01T19:21:51.600115+00:00"
     },
@@ -109,28 +109,6 @@
       "final_score": "5 x 3",
       "note": null,
       "last_alerted_at": "2026-09-01T11:57:18.136331+00:00"
-    },
-    {
-      "id": 417891,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Puebla (W)",
-      "away": "Necaxa (W)",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 86,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.18,
-      "prob": 76.82,
-      "lps_at_entry": 79.0,
-      "confidence": "Alta",
-      "entered_at": "2026-08-30T19:50:16.501055+00:00",
-      "status": "green",
-      "settled_at": "2026-08-30T21:58:18.680695+00:00",
-      "final_score": "4 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-30T19:50:16.501059+00:00"
     }
   ],
   "last_opportunity_ids": []
