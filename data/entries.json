@@ -417,28 +417,6 @@
       "final_score": "0 x 1",
       "note": null,
       "last_alerted_at": "2026-08-30T01:38:13.501329+00:00"
-    },
-    {
-      "id": 412443,
-      "league": "Paraguay Reserve League",
-      "home": "Sportivo Trinidense Reserves",
-      "away": "2 de Mayo Reserves",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 89,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.22,
-      "prob": 74.14,
-      "lps_at_entry": 75.6,
-      "confidence": "Alta",
-      "entered_at": "2026-08-29T23:14:07.327650+00:00",
-      "status": "green",
-      "settled_at": "2026-08-29T23:40:15.513036+00:00",
-      "final_score": "3 x 0",
-      "note": null,
-      "last_alerted_at": "2026-08-29T23:14:07.327654+00:00"
     }
   ],
   "last_opportunity_ids": []
