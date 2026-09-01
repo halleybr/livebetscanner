@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 419285,
+      "league": "Czechia Youth League",
+      "home": "Sigma Olomouc U19",
+      "away": "Sparta Prague U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 64,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 77.18,
+      "lps_at_entry": 71.7,
+      "confidence": "Alta",
+      "entered_at": "2026-09-01T11:57:18.136327+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-01T11:57:18.136331+00:00"
+    },
+    {
       "id": 417891,
       "league": "Mexico Liga MX Femenil",
       "home": "Puebla (W)",
@@ -375,5 +397,7 @@
       "last_alerted_at": "2026-08-30T12:15:48.742109+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "419285"
+  ]
 }
