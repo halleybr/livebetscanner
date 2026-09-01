@@ -395,28 +395,6 @@
       "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-08-30T06:44:31.127242+00:00"
-    },
-    {
-      "id": 412984,
-      "league": "Chile Primera B",
-      "home": "Deportes Iquique",
-      "away": "San Luis Quillota",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 76,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.25,
-      "prob": 72.68,
-      "lps_at_entry": 71.1,
-      "confidence": "Alta",
-      "entered_at": "2026-08-30T01:38:13.501325+00:00",
-      "status": "green",
-      "settled_at": "2026-08-30T06:44:31.127270+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-08-30T01:38:13.501329+00:00"
     }
   ],
   "last_opportunity_ids": []
