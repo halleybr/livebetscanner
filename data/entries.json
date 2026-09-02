@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 421026,
+      "league": "Italy Serie C Cup",
+      "home": "Team Altamura",
+      "away": "Sambenedettese",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 95,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.29,
+      "prob": 73.18,
+      "lps_at_entry": 76.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-02T20:57:21.300574+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-02T20:57:21.300578+00:00"
+    },
+    {
       "id": 421005,
       "league": "Netherlands Cup",
       "home": "Staphorst",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.8,
       "confidence": "Alta",
       "entered_at": "2026-09-02T20:40:32.998559+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-02T20:57:21.300647+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-02T20:40:32.998563+00:00"
     },
@@ -134,6 +156,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "421005"
+    "421026"
   ]
 }
