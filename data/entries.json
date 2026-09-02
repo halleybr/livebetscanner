@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 421005,
+      "league": "Netherlands Cup",
+      "home": "Staphorst",
+      "away": "VV UNA",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 120,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.25,
+      "prob": 74.92,
+      "lps_at_entry": 71.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-02T20:40:32.998559+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-02T20:40:32.998563+00:00"
+    },
+    {
       "id": 419087,
       "league": "Switzerland Challenge League",
       "home": "FC Rapperswil-Jona",
@@ -111,5 +133,7 @@
       "last_alerted_at": "2026-09-01T11:57:18.136331+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "421005"
+  ]
 }
