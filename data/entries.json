@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 421243,
+      "league": "Estonia Esiliiga",
+      "home": "Viimsi JK",
+      "away": "FC Tallinn",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 63,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-03T17:18:56.025928+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-03T17:18:56.025932+00:00"
+    },
+    {
       "id": 421722,
       "league": "Poland Cup",
       "home": "Avia Swidnik",
@@ -131,51 +153,9 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-01T19:21:51.600115+00:00"
-    },
-    {
-      "id": 419102,
-      "league": "Lithuania Cup",
-      "home": "FK Minija",
-      "away": "DFK Dainava",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 72,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.22,
-      "prob": 78.66,
-      "lps_at_entry": 83.4,
-      "confidence": "Alta",
-      "entered_at": "2026-09-01T16:31:03.539201+00:00",
-      "status": "green",
-      "settled_at": "2026-09-01T19:21:51.600162+00:00",
-      "final_score": "3 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-01T16:31:03.539205+00:00"
-    },
-    {
-      "id": 419139,
-      "league": "Slovakia Cup",
-      "home": "SK Tomasov",
-      "away": "Inter Bratislava",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 80,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.1,
-      "prob": 85.84,
-      "lps_at_entry": 75.5,
-      "confidence": "Alta",
-      "entered_at": "2026-09-01T16:06:27.165516+00:00",
-      "status": "green",
-      "settled_at": "2026-09-01T16:31:03.539232+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-01T16:06:27.165520+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "421243"
+  ]
 }
