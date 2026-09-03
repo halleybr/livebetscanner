@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 415870,
+      "league": "Leagues Cup",
+      "home": "Club America",
+      "away": "Monterrey",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 64,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.7,
+      "confidence": "Alta",
+      "entered_at": "2026-09-03T05:06:57.194071+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-03T05:06:57.194074+00:00"
+    },
+    {
       "id": 421026,
       "league": "Italy Serie C Cup",
       "home": "Team Altamura",
@@ -155,5 +177,7 @@
       "last_alerted_at": "2026-09-01T11:57:18.136331+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "415870"
+  ]
 }
