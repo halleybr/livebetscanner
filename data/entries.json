@@ -16,9 +16,9 @@
       "lps_at_entry": 72.7,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:55:17.591431+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-04T21:34:38.760131+00:00",
+      "final_score": "0 x 2",
       "note": null,
       "last_alerted_at": "2026-09-04T19:55:17.591433+00:00"
     },
@@ -38,10 +38,10 @@
       "lps_at_entry": 78.1,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:55:17.591419+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-09-04T21:34:38.760140+00:00",
+      "final_score": "0 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-04T19:55:17.591421+00:00"
     },
     {
@@ -104,9 +104,9 @@
       "lps_at_entry": 73.0,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:19:38.595908+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-04T21:34:38.760147+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-09-04T19:19:38.595910+00:00"
     },
@@ -373,54 +373,7 @@
       "final_score": "6 x 7",
       "note": null,
       "last_alerted_at": "2026-09-03T05:06:57.194074+00:00"
-    },
-    {
-      "id": 421026,
-      "league": "Italy Serie C Cup",
-      "home": "Team Altamura",
-      "away": "Sambenedettese",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 95,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.29,
-      "prob": 73.18,
-      "lps_at_entry": 76.4,
-      "confidence": "Alta",
-      "entered_at": "2026-09-02T20:57:21.300574+00:00",
-      "status": "green",
-      "settled_at": "2026-09-02T22:49:59.135692+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-02T20:57:21.300578+00:00"
-    },
-    {
-      "id": 421005,
-      "league": "Netherlands Cup",
-      "home": "Staphorst",
-      "away": "VV UNA",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 120,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.25,
-      "prob": 74.92,
-      "lps_at_entry": 71.8,
-      "confidence": "Alta",
-      "entered_at": "2026-09-02T20:40:32.998559+00:00",
-      "status": "green",
-      "settled_at": "2026-09-02T20:57:21.300647+00:00",
-      "final_score": "1 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-02T20:40:32.998563+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "421878",
-    "421962"
-  ]
+  "last_opportunity_ids": []
 }
