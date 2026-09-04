@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 421962,
+      "league": "Saudi Arabia Pro League",
+      "home": "Al Shabab Riyadh",
+      "away": "Al Hilal Riyadh",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 91,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.7,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T19:55:17.591431+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T19:55:17.591433+00:00"
+    },
+    {
+      "id": 421878,
+      "league": "Croatia HNL",
+      "home": "NK Varazdin",
+      "away": "Istra 1961",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 93,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 78.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T19:55:17.591419+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T19:55:17.591421+00:00"
+    },
+    {
       "id": 421924,
       "league": "South Africa Premier",
       "home": "Richards Bay FC",
@@ -16,10 +60,10 @@
       "lps_at_entry": 70.2,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:19:38.595924+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-09-04T19:55:17.591508+00:00",
+      "final_score": "1 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-04T19:19:38.595926+00:00"
     },
     {
@@ -38,9 +82,9 @@
       "lps_at_entry": 71.8,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:19:38.595916+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-04T19:55:17.591515+00:00",
+      "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-09-04T19:19:38.595919+00:00"
     },
@@ -82,9 +126,9 @@
       "lps_at_entry": 80.3,
       "confidence": "Alta",
       "entered_at": "2026-09-04T19:19:38.595895+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-04T19:55:17.591519+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-09-04T19:19:38.595899+00:00"
     },
@@ -376,9 +420,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "421918",
-    "421924",
-    "421953",
-    "422818"
+    "421878",
+    "421962"
   ]
 }
