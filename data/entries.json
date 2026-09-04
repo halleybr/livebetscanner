@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 421832,
+      "league": "Poland I Liga",
+      "home": "Pogon Grodzisk Mazowiecki",
+      "away": "Warta Poznan",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T17:50:49.825421+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T17:50:49.825424+00:00"
+    },
+    {
+      "id": 421838,
+      "league": "Poland II Liga",
+      "home": "Stal Stalowa Wola",
+      "away": "Zawisza Bydgoszcz",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.33,
+      "prob": 74.14,
+      "lps_at_entry": 78.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T17:50:49.825413+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T17:50:49.825415+00:00"
+    },
+    {
+      "id": 422039,
+      "league": "Czechia 4. Liga",
+      "home": "TJ Hluboka nad Vltavou",
+      "away": "Spartak Sobeslav",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.2,
+      "prob": 75.39,
+      "lps_at_entry": 85.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T17:50:49.825401+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T17:50:49.825405+00:00"
+    },
+    {
       "id": 421863,
       "league": "Germany Bundesliga II",
       "home": "Hannover 96",
@@ -38,9 +104,9 @@
       "lps_at_entry": 85.4,
       "confidence": "Alta",
       "entered_at": "2026-09-04T16:58:20.012784+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-04T17:50:49.825478+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-09-04T16:58:20.012788+00:00"
     },
@@ -222,7 +288,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "421863",
-    "422068"
+    "421832",
+    "421838",
+    "422039"
   ]
 }
