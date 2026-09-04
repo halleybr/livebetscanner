@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 421811,
+      "league": "Australia NPL Queensland Women",
+      "home": "Lions FC (W)",
+      "away": "Eastern Suburbs NPL (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 68,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 74.25,
+      "lps_at_entry": 73.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-04T11:01:15.343700+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-04T11:01:15.343704+00:00"
+    },
+    {
       "id": 421166,
       "league": "Switzerland Super League",
       "home": "Lugano",
@@ -155,5 +177,7 @@
       "last_alerted_at": "2026-09-02T20:40:32.998563+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "421811"
+  ]
 }
