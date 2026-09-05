@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 426169,
+      "league": "Republic of Ireland National League Women",
+      "home": "Athlone Town (W)",
+      "away": "Waterford FC (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 35,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-05T17:35:46.213390+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-05T17:35:46.213393+00:00"
+    },
+    {
+      "id": 426251,
+      "league": "Netherlands Derde Divisie",
+      "home": "Rijnvogels",
+      "away": "VV Dongen",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 76,
+      "market": "Próximo gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.5,
+      "confidence": "Média",
+      "entered_at": "2026-09-05T17:35:46.213378+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-05T17:35:46.213382+00:00"
+    },
+    {
       "id": 425694,
       "league": "Luxembourg Division Nationale",
       "home": "Victoria Rosport",
@@ -970,10 +1014,10 @@
     }
   ],
   "last_opportunity_ids": [
-    "423189",
     "423310",
     "423343",
     "425694",
-    "425910"
+    "426169",
+    "426251"
   ]
 }
