@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 423200,
+      "league": "Belgium First Division A",
+      "home": "Standard Liege",
+      "away": "Antwerp",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 38,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-05T19:24:52.029734+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-05T19:24:52.029738+00:00"
+    },
+    {
       "id": 426167,
       "league": "Israel Liga Alef North",
       "home": "Hapoel Umm al-Fahm",
@@ -1080,6 +1102,7 @@
     }
   ],
   "last_opportunity_ids": [
+    "423200",
     "426036",
     "426167",
     "426356"
