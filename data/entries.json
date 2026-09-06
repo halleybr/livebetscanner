@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 427212,
+      "league": "Hungary NB III",
+      "home": "Ujpest II",
+      "away": "Szegedi VSE",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 22,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 81.4,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-06T09:24:09.033295+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-06T09:24:09.033299+00:00"
+    },
+    {
       "id": 427170,
       "league": "Hong Kong 1st Division",
       "home": "Central & Western",
@@ -1168,7 +1190,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "427170",
-    "427173"
+    "427173",
+    "427212"
   ]
 }
