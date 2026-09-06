@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 427911,
+      "league": "Thailand Premier League",
+      "home": "Ayutthaya United",
+      "away": "Ratchaburi FC",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 40,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-06T12:55:54.746153+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-06T12:55:54.746157+00:00"
+    },
+    {
       "id": 427212,
       "league": "Hungary NB III",
       "home": "Ujpest II",
@@ -16,9 +38,9 @@
       "lps_at_entry": 73.6,
       "confidence": "Alta",
       "entered_at": "2026-09-06T09:24:09.033295+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-06T12:55:54.746246+00:00",
+      "final_score": "6 x 1",
       "note": null,
       "last_alerted_at": "2026-09-06T09:24:09.033299+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 72.5,
       "confidence": "Alta",
       "entered_at": "2026-09-06T09:21:52.050329+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-06T12:55:54.746255+00:00",
+      "final_score": "5 x 1",
       "note": null,
       "last_alerted_at": "2026-09-06T09:21:52.050332+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 87.7,
       "confidence": "Alta",
       "entered_at": "2026-09-06T09:21:52.050317+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-06T12:55:54.746260+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-06T09:21:52.050321+00:00"
     },
@@ -1165,32 +1187,9 @@
       "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-09-04T16:58:20.012788+00:00"
-    },
-    {
-      "id": 421811,
-      "league": "Australia NPL Queensland Women",
-      "home": "Lions FC (W)",
-      "away": "Eastern Suburbs NPL (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 68,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.22,
-      "prob": 74.25,
-      "lps_at_entry": 73.0,
-      "confidence": "Alta",
-      "entered_at": "2026-09-04T11:01:15.343700+00:00",
-      "status": "green",
-      "settled_at": "2026-09-04T13:29:38.319261+00:00",
-      "final_score": "0 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-04T11:01:15.343704+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "427173",
-    "427212"
+    "427911"
   ]
 }
