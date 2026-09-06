@@ -16,10 +16,10 @@
       "lps_at_entry": 79.3,
       "confidence": "Alta",
       "entered_at": "2026-09-06T22:11:20.155692+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-09-06T23:07:14.949862+00:00",
+      "final_score": "2 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-06T22:11:20.155696+00:00"
     },
     {
@@ -1255,7 +1255,5 @@
       "last_alerted_at": "2026-09-05T09:27:52.470480+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "426981"
-  ]
+  "last_opportunity_ids": []
 }
