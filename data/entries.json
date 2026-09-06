@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 427883,
+      "league": "Leagues Cup",
+      "home": "Leon",
+      "away": "Club America",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 80,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 80.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-06T23:52:46.470151+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-06T23:52:46.470155+00:00"
+    },
+    {
       "id": 426981,
       "league": "Colombia Primera B",
       "home": "Boca Juniors De Cali",
@@ -1255,5 +1277,7 @@
       "last_alerted_at": "2026-09-05T09:27:52.470480+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "427883"
+  ]
 }
