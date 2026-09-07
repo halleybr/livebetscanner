@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 428817,
+      "league": "Brazil Serie C",
+      "home": "Paysandu",
+      "away": "Brusque",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 53,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 78.96,
+      "lps_at_entry": 74.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-07T22:16:35.566611+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-07T22:16:35.566615+00:00"
+    },
+    {
       "id": 430803,
       "league": "Northern Ireland Premier League Women",
       "home": "Glentoran (W)",
@@ -16,9 +38,9 @@
       "lps_at_entry": 76.8,
       "confidence": "Alta",
       "entered_at": "2026-09-07T20:50:28.084165+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-07T22:16:35.566674+00:00",
+      "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-09-07T20:50:28.084169+00:00"
     },
@@ -505,53 +527,9 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-09-05T23:02:30.387958+00:00"
-    },
-    {
-      "id": 423230,
-      "league": "Brazil Serie A1 Women",
-      "home": "Sao Paulo (W)",
-      "away": "Gremio (W)",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 95,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.3,
-      "confidence": "Alta",
-      "entered_at": "2026-09-05T21:24:26.010465+00:00",
-      "status": "n_d",
-      "settled_at": "2026-09-05T23:02:30.388194+00:00",
-      "final_score": "2 x 0",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-09-05T21:24:26.010468+00:00"
-    },
-    {
-      "id": 423229,
-      "league": "Brazil Serie A1 Women",
-      "home": "Ferroviaria (W)",
-      "away": "Flamengo (W)",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 91,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.25,
-      "prob": 73.04,
-      "lps_at_entry": 73.2,
-      "confidence": "Alta",
-      "entered_at": "2026-09-05T21:24:26.010453+00:00",
-      "status": "green",
-      "settled_at": "2026-09-05T23:02:30.388204+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-05T21:24:26.010458+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "430803"
+    "428817"
   ]
 }
