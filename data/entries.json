@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 430803,
+      "league": "Northern Ireland Premier League Women",
+      "home": "Glentoran (W)",
+      "away": "Linfield (W)",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-07T20:50:28.084165+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-07T20:50:28.084169+00:00"
+    },
+    {
       "id": 428789,
       "league": "Germany Bundesliga Women",
       "home": "Union Berlin (W)",
@@ -529,5 +551,7 @@
       "last_alerted_at": "2026-09-05T21:24:26.010458+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "430803"
+  ]
 }
