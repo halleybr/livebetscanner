@@ -16,9 +16,9 @@
       "lps_at_entry": 70.6,
       "confidence": "Alta",
       "entered_at": "2026-09-08T20:06:47.201428+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-08T21:04:36.092121+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-08T20:06:47.201431+00:00"
     },
@@ -38,9 +38,9 @@
       "lps_at_entry": 72.6,
       "confidence": "Alta",
       "entered_at": "2026-09-08T20:06:47.201414+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-08T21:04:36.092129+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-09-08T20:06:47.201419+00:00"
     },
@@ -197,54 +197,7 @@
       "final_score": "2 x 2",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-06T22:11:20.155696+00:00"
-    },
-    {
-      "id": 426926,
-      "league": "Brazil Serie A",
-      "home": "Remo",
-      "away": "Flamengo",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 58,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.2,
-      "confidence": "Alta",
-      "entered_at": "2026-09-06T20:24:25.969698+00:00",
-      "status": "n_d",
-      "settled_at": "2026-09-06T21:38:51.100729+00:00",
-      "final_score": "0 x 1",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-09-06T20:24:25.969701+00:00"
-    },
-    {
-      "id": 426903,
-      "league": "Spain Primera Division RFEF Group 1",
-      "home": "Zamora CF",
-      "away": "UD Logrones",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 92,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.18,
-      "prob": 77.86,
-      "lps_at_entry": 73.3,
-      "confidence": "Alta",
-      "entered_at": "2026-09-06T20:24:25.969686+00:00",
-      "status": "green",
-      "settled_at": "2026-09-06T21:38:51.100738+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-06T20:24:25.969690+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "429693",
-    "429700"
-  ]
+  "last_opportunity_ids": []
 }
