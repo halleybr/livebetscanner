@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 429693,
+      "league": "England Championship",
+      "home": "Cardiff",
+      "away": "Stoke",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 65,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.29,
+      "prob": 74.52,
+      "lps_at_entry": 70.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-08T20:06:47.201428+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-08T20:06:47.201431+00:00"
+    },
+    {
+      "id": 429700,
+      "league": "England National League South",
+      "home": "Dorking Wanderers",
+      "away": "Chelmsford",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 59,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-08T20:06:47.201414+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-08T20:06:47.201419+00:00"
+    },
+    {
       "id": 429719,
       "league": "UEFA Champions League",
       "home": "Club Brugge",
@@ -16,9 +60,9 @@
       "lps_at_entry": 72.0,
       "confidence": "Alta",
       "entered_at": "2026-09-08T17:29:51.422512+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-08T20:06:47.201476+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-09-08T17:29:51.422517+00:00"
     },
@@ -197,29 +241,10 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-09-06T20:24:25.969690+00:00"
-    },
-    {
-      "id": 428584,
-      "league": "Mexico Liga MX U19",
-      "home": "Cruz Azul U19",
-      "away": "Santos Laguna U19",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 37,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.25,
-      "prob": 73.2,
-      "lps_at_entry": 71.5,
-      "confidence": "Alta",
-      "entered_at": "2026-09-06T18:12:57.909618+00:00",
-      "status": "green",
-      "settled_at": "2026-09-06T19:34:12.404774+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-06T18:12:57.909621+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "429693",
+    "429700"
+  ]
 }
