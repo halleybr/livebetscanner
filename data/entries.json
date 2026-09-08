@@ -175,28 +175,6 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-09-06T23:52:46.470155+00:00"
-    },
-    {
-      "id": 426981,
-      "league": "Colombia Primera B",
-      "home": "Boca Juniors De Cali",
-      "away": "Envigado FC",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 82,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 79.3,
-      "confidence": "Alta",
-      "entered_at": "2026-09-06T22:11:20.155692+00:00",
-      "status": "n_d",
-      "settled_at": "2026-09-06T23:07:14.949862+00:00",
-      "final_score": "2 x 2",
-      "note": "Mercado de escanteios sem dado final disponível (N/D)",
-      "last_alerted_at": "2026-09-06T22:11:20.155696+00:00"
     }
   ],
   "last_opportunity_ids": []
