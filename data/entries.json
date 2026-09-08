@@ -417,28 +417,6 @@
       "final_score": "3 x 1",
       "note": null,
       "last_alerted_at": "2026-09-06T15:54:09.143043+00:00"
-    },
-    {
-      "id": 427911,
-      "league": "Thailand Premier League",
-      "home": "Ayutthaya United",
-      "away": "Ratchaburi FC",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 40,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.6,
-      "confidence": "Alta",
-      "entered_at": "2026-09-06T12:55:54.746153+00:00",
-      "status": "green",
-      "settled_at": "2026-09-06T15:54:09.143205+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-06T12:55:54.746157+00:00"
     }
   ],
   "last_opportunity_ids": []
