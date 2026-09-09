@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 430913,
+      "league": "England EFL Cup",
+      "home": "Chelsea",
+      "away": "Leeds",
+      "home_score_at_entry": 6,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-09T21:07:03.944925+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-09T21:07:03.944927+00:00"
+    },
+    {
+      "id": 432085,
+      "league": "Iceland 1 Deild",
+      "home": "HK Kopavogur",
+      "away": "Fylkir Reykjavik",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 93,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.2,
+      "prob": 77.33,
+      "lps_at_entry": 86.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-09T21:07:03.944914+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-09T21:07:03.944917+00:00"
+    },
+    {
       "id": 432563,
       "league": "Brazil U20 Cup",
       "home": "Botafogo U20",
@@ -16,9 +60,9 @@
       "lps_at_entry": 74.8,
       "confidence": "Alta",
       "entered_at": "2026-09-09T19:50:22.248296+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-09T21:07:03.944996+00:00",
+      "final_score": "4 x 0",
       "note": null,
       "last_alerted_at": "2026-09-09T19:50:22.248300+00:00"
     },
@@ -175,31 +219,10 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-09-07T22:16:35.566615+00:00"
-    },
-    {
-      "id": 430803,
-      "league": "Northern Ireland Premier League Women",
-      "home": "Glentoran (W)",
-      "away": "Linfield (W)",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 89,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 76.8,
-      "confidence": "Alta",
-      "entered_at": "2026-09-07T20:50:28.084165+00:00",
-      "status": "green",
-      "settled_at": "2026-09-07T22:16:35.566674+00:00",
-      "final_score": "4 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-07T20:50:28.084169+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "432563"
+    "430913",
+    "432085"
   ]
 }
