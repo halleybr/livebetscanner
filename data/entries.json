@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 433547,
+      "league": "Italy Primavera Supercup",
+      "home": "Fiorentina U20",
+      "away": "Atalanta U20",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 61,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.2,
+      "prob": 75.34,
+      "lps_at_entry": 70.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-09T17:19:56.438228+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-09T17:19:56.438231+00:00"
+    },
+    {
+      "id": 430905,
+      "league": "Estonia Meistriliiga",
+      "home": "FC Levadia Tallinn",
+      "away": "FC Kuressaare",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 61,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.14,
+      "prob": 83.48,
+      "lps_at_entry": 72.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-09T17:19:56.438217+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-09T17:19:56.438221+00:00"
+    },
+    {
       "id": 432455,
       "league": "Czechia Youth League",
       "home": "Opava U19",
@@ -177,5 +221,8 @@
       "last_alerted_at": "2026-09-07T17:52:57.390605+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "430905",
+    "433547"
+  ]
 }
