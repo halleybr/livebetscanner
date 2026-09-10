@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 432568,
+      "league": "Iceland 4 Deild",
+      "home": "Vaengir Jupiters",
+      "away": "IH Hafnarfjordur",
+      "home_score_at_entry": 6,
+      "away_score_at_entry": 5,
+      "minute_at_entry": 86,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 83.01,
+      "lps_at_entry": 76.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-10T20:59:02.899869+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-10T20:59:02.899873+00:00"
+    },
+    {
       "id": 432569,
       "league": "Iceland 4 Deild",
       "home": "Alafoss",
@@ -307,53 +329,9 @@
       "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-09-09T09:29:41.871148+00:00"
-    },
-    {
-      "id": 429693,
-      "league": "England Championship",
-      "home": "Cardiff",
-      "away": "Stoke",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 65,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.29,
-      "prob": 74.52,
-      "lps_at_entry": 70.6,
-      "confidence": "Alta",
-      "entered_at": "2026-09-08T20:06:47.201428+00:00",
-      "status": "green",
-      "settled_at": "2026-09-08T21:04:36.092121+00:00",
-      "final_score": "1 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-08T20:06:47.201431+00:00"
-    },
-    {
-      "id": 429700,
-      "league": "England National League South",
-      "home": "Dorking Wanderers",
-      "away": "Chelmsford",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 59,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.6,
-      "confidence": "Alta",
-      "entered_at": "2026-09-08T20:06:47.201414+00:00",
-      "status": "green",
-      "settled_at": "2026-09-08T21:04:36.092129+00:00",
-      "final_score": "3 x 3",
-      "note": null,
-      "last_alerted_at": "2026-09-08T20:06:47.201419+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "432569"
+    "432568"
   ]
 }
