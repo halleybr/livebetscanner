@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 433567,
+      "league": "Norway U19 Elite League",
+      "home": "Fredrikstad FK U19",
+      "away": "Asane Fotball U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 62,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 77.49,
+      "lps_at_entry": 70.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-10T14:20:14.579830+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-10T14:20:14.579832+00:00"
+    },
+    {
+      "id": 432588,
+      "league": "UEFA Youth League",
+      "home": "Como U19",
+      "away": "RB Leipzig U19",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 63,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 81.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-10T14:20:14.579818+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-10T14:20:14.579822+00:00"
+    },
+    {
       "id": 430913,
       "league": "England EFL Cup",
       "home": "Chelsea",
@@ -199,5 +243,8 @@
       "last_alerted_at": "2026-09-08T17:29:51.422517+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "432588",
+    "433567"
+  ]
 }
