@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 432569,
+      "league": "Iceland 4 Deild",
+      "home": "Alafoss",
+      "away": "KF Hafnir",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 17,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.18,
+      "prob": 79.24,
+      "lps_at_entry": 71.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-10T20:03:13.137115+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-10T20:03:13.137119+00:00"
+    },
+    {
       "id": 432529,
       "league": "Estonia Esiliiga",
       "home": "Viimsi JK",
@@ -38,9 +60,9 @@
       "lps_at_entry": 78.0,
       "confidence": "Alta",
       "entered_at": "2026-09-10T17:44:13.526700+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-10T20:03:13.137169+00:00",
+      "final_score": "3 x 1",
       "note": null,
       "last_alerted_at": "2026-09-10T17:44:13.526702+00:00"
     },
@@ -332,6 +354,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "432505"
+    "432569"
   ]
 }
