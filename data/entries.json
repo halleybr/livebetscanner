@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 434352,
+      "league": "Northern Ireland Cup Women",
+      "home": "Lisburn (W)",
+      "away": "Glentoran (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T19:49:18.491845+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T19:49:18.491847+00:00"
+    },
+    {
+      "id": 433832,
+      "league": "Netherlands Eerste Divisie",
+      "home": "FC Emmen",
+      "away": "De Graafschap",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 87.33,
+      "lps_at_entry": 74.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T19:49:18.491836+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T19:49:18.491840+00:00"
+    },
+    {
       "id": 434200,
       "league": "England Premier League 2",
       "home": "Sunderland U21",
@@ -421,6 +465,8 @@
   ],
   "last_opportunity_ids": [
     "433825",
-    "434200"
+    "433832",
+    "434200",
+    "434352"
   ]
 }
