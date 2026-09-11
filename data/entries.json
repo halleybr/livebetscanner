@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 434200,
+      "league": "England Premier League 2",
+      "home": "Sunderland U21",
+      "away": "Ipswich U21",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 78,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.13,
+      "prob": 79.85,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T19:39:53.307887+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T19:39:53.307890+00:00"
+    },
+    {
+      "id": 433825,
+      "league": "Netherlands Eredivisie",
+      "home": "AZ",
+      "away": "Willem II",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 82,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 82.07,
+      "lps_at_entry": 74.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T19:39:53.307866+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T19:39:53.307877+00:00"
+    },
+    {
       "id": 434000,
       "league": "Finland Kolmonen",
       "home": "LOPA",
@@ -16,9 +60,9 @@
       "lps_at_entry": 78.5,
       "confidence": "Alta",
       "entered_at": "2026-09-11T17:20:05.641113+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-11T19:39:53.307963+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-11T17:20:05.641117+00:00"
     },
@@ -38,9 +82,9 @@
       "lps_at_entry": 71.7,
       "confidence": "Alta",
       "entered_at": "2026-09-11T17:09:22.232790+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-11T19:39:53.307971+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-11T17:09:22.232793+00:00"
     },
@@ -60,9 +104,9 @@
       "lps_at_entry": 83.2,
       "confidence": "Alta",
       "entered_at": "2026-09-11T17:09:22.232754+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-11T19:39:53.307976+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-09-11T17:09:22.232758+00:00"
     },
@@ -376,8 +420,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "433791",
-    "433990",
-    "434000"
+    "433825",
+    "434200"
   ]
 }
