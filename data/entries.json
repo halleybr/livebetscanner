@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 433791,
+      "league": "Germany Bundesliga II",
+      "home": "Nurnberg",
+      "away": "Hannover 96",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 39,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 87.36,
+      "lps_at_entry": 71.7,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T17:09:22.232790+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T17:09:22.232793+00:00"
+    },
+    {
+      "id": 433990,
+      "league": "Estonia Esiliiga B",
+      "home": "JK Tallinna Kalev II",
+      "away": "Tabasalu FC Charma",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 51,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 77.07,
+      "lps_at_entry": 83.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T17:09:22.232754+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T17:09:22.232758+00:00"
+    },
+    {
       "id": 433988,
       "league": "Hong Kong Premier League",
       "home": "Lee Man FC",
@@ -16,9 +60,9 @@
       "lps_at_entry": 79.0,
       "confidence": "Alta",
       "entered_at": "2026-09-11T13:51:27.077688+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-11T17:09:22.232838+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-11T13:51:27.077692+00:00"
     },
@@ -354,6 +398,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "433988"
+    "433791",
+    "433990"
   ]
 }
