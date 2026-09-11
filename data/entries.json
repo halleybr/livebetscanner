@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 433988,
+      "league": "Hong Kong Premier League",
+      "home": "Lee Man FC",
+      "away": "Eastern District",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 94,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 80.55,
+      "lps_at_entry": 79.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-11T13:51:27.077688+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-11T13:51:27.077692+00:00"
+    },
+    {
       "id": 434022,
       "league": "Australia Victoria Premier League 2",
       "home": "Essendon Royals",
@@ -331,5 +353,7 @@
       "last_alerted_at": "2026-09-09T17:19:56.438221+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "433988"
+  ]
 }
