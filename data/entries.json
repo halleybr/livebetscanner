@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 434935,
+      "league": "Brazil Serie C",
+      "home": "Botafogo PB",
+      "away": "Floresta EC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 60,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.22,
+      "prob": 84.12,
+      "lps_at_entry": 72.5,
+      "confidence": "Alta",
+      "entered_at": "2026-09-12T21:29:43.384940+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-12T21:29:43.384944+00:00"
+    },
+    {
       "id": 434828,
       "league": "Scotland League Cup",
       "home": "Kilmarnock",
@@ -573,5 +595,7 @@
       "last_alerted_at": "2026-09-11T09:47:18.712198+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "434935"
+  ]
 }
