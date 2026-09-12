@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 436872,
+      "league": "Netherlands Tweede Divisie",
+      "home": "De Treffers",
+      "away": "Koninklijke HFC",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 56,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-12T17:16:11.221244+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-12T17:16:11.221247+00:00"
+    },
+    {
       "id": 434742,
       "league": "Czechia 3. Liga",
       "home": "Jiskra Domazlice",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.4,
       "confidence": "Alta",
       "entered_at": "2026-09-12T16:57:20.888350+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-12T17:16:11.221447+00:00",
+      "final_score": "5 x 2",
       "note": null,
       "last_alerted_at": "2026-09-12T16:57:20.888352+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 72.8,
       "confidence": "Alta",
       "entered_at": "2026-09-12T16:57:20.888342+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-12T17:16:11.221454+00:00",
+      "final_score": "4 x 2",
       "note": null,
       "last_alerted_at": "2026-09-12T16:57:20.888344+00:00"
     },
@@ -596,8 +618,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "434738",
-    "434742",
-    "436871"
+    "436871",
+    "436872"
   ]
 }
