@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 434445,
+      "league": "Australia Darwin Premier League",
+      "home": "Darwin Olympic",
+      "away": "Mindil Aces",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 29,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 79.26,
+      "lps_at_entry": 70.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-12T11:04:34.739402+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-12T11:04:34.739404+00:00"
+    },
+    {
+      "id": 435071,
+      "league": "Australia Western Australia Premier League",
+      "home": "Bayswater City",
+      "away": "Perth SC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 86.67,
+      "lps_at_entry": 73.5,
+      "confidence": "Alta",
+      "entered_at": "2026-09-12T11:04:34.739393+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-12T11:04:34.739396+00:00"
+    },
+    {
+      "id": 434464,
+      "league": "Japan J2-League",
+      "home": "Kataller Toyama",
+      "away": "Tochigi City",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 72,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-12T11:04:34.739381+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-12T11:04:34.739385+00:00"
+    },
+    {
       "id": 434352,
       "league": "Northern Ireland Cup Women",
       "home": "Lisburn (W)",
@@ -397,5 +463,9 @@
       "last_alerted_at": "2026-09-10T14:20:14.579822+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "434445",
+    "434464",
+    "435071"
+  ]
 }
