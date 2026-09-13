@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 438552,
+      "league": "Poland IV Liga",
+      "home": "Swit Szczecin II",
+      "away": "Pogon Szczecin II",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 23,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 75.63,
+      "lps_at_entry": 71.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-13T10:27:31.403125+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-13T10:27:31.403129+00:00"
+    },
+    {
       "id": 434940,
       "league": "Brazil Serie C",
       "home": "Maringa FC",
@@ -593,29 +615,9 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-11T13:51:27.077692+00:00"
-    },
-    {
-      "id": 434022,
-      "league": "Australia Victoria Premier League 2",
-      "home": "Essendon Royals",
-      "away": "Keilor Park",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 16,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.25,
-      "prob": 77.61,
-      "lps_at_entry": 74.5,
-      "confidence": "Alta",
-      "entered_at": "2026-09-11T09:47:18.712194+00:00",
-      "status": "green",
-      "settled_at": "2026-09-11T13:34:00.769236+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-11T09:47:18.712198+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "438552"
+  ]
 }
