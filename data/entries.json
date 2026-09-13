@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 437502,
+      "league": "Czechia First League",
+      "home": "FC Trinity Zlin",
+      "away": "Hradec Kralove",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 80,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-13T14:37:48.121009+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-13T14:37:48.121012+00:00"
+    },
+    {
+      "id": 437457,
+      "league": "Hungary Cup",
+      "home": "Dunaharaszti MTK",
+      "away": "Zalaegerszegi TE",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 5,
+      "minute_at_entry": 81,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.11,
+      "prob": 85.46,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-13T14:37:48.120997+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-13T14:37:48.121001+00:00"
+    },
+    {
       "id": 437492,
       "league": "Belgium First Division A",
       "home": "Genk",
@@ -728,11 +772,11 @@
     }
   ],
   "last_opportunity_ids": [
+    "437457",
     "437480",
-    "437492",
+    "437502",
     "437518",
     "437720",
-    "439048",
     "439663"
   ]
 }
