@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 437621,
+      "league": "Argentina Torneo A",
+      "home": "CA 9 de Julio Rafaela",
+      "away": "CA Bartolome Mitre",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 82,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.3,
+      "prob": 76.56,
+      "lps_at_entry": 79.5,
+      "confidence": "Alta",
+      "entered_at": "2026-09-13T21:43:04.017930+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-13T21:43:04.017935+00:00"
+    },
+    {
       "id": 437643,
       "league": "Brazil Serie C",
       "home": "Ferroviaria SP",
@@ -16,10 +38,10 @@
       "lps_at_entry": 72.2,
       "confidence": "Alta",
       "entered_at": "2026-09-13T19:44:16.344524+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-09-13T21:43:04.018135+00:00",
+      "final_score": "1 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-13T19:44:16.344526+00:00"
     },
     {
@@ -38,9 +60,9 @@
       "lps_at_entry": 76.5,
       "confidence": "Alta",
       "entered_at": "2026-09-13T19:44:16.344516+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-13T21:43:04.018144+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-09-13T19:44:16.344519+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 78.3,
       "confidence": "Alta",
       "entered_at": "2026-09-13T19:44:16.344504+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-13T21:43:04.018149+00:00",
+      "final_score": "2 x 6",
       "note": null,
       "last_alerted_at": "2026-09-13T19:44:16.344508+00:00"
     },
@@ -681,55 +703,9 @@
       "final_score": "0 x 0",
       "note": null,
       "last_alerted_at": "2026-09-12T11:04:34.739385+00:00"
-    },
-    {
-      "id": 434352,
-      "league": "Northern Ireland Cup Women",
-      "home": "Lisburn (W)",
-      "away": "Glentoran (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 45,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 70.4,
-      "confidence": "Alta",
-      "entered_at": "2026-09-11T19:49:18.491845+00:00",
-      "status": "green",
-      "settled_at": "2026-09-11T21:55:02.592257+00:00",
-      "final_score": "0 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-11T19:49:18.491847+00:00"
-    },
-    {
-      "id": 433832,
-      "league": "Netherlands Eerste Divisie",
-      "home": "FC Emmen",
-      "away": "De Graafschap",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 89,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.1,
-      "prob": 87.33,
-      "lps_at_entry": 74.2,
-      "confidence": "Alta",
-      "entered_at": "2026-09-11T19:49:18.491836+00:00",
-      "status": "green",
-      "settled_at": "2026-09-11T21:55:02.592268+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-11T19:49:18.491840+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "437643",
-    "437743",
-    "439334"
+    "437621"
   ]
 }
