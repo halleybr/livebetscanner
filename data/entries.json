@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 441459,
+      "league": "England EFL Trophy",
+      "home": "Leyton Orient",
+      "away": "Arsenal U21",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 42,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 85.53,
+      "lps_at_entry": 72.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-15T18:42:59.094918+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-15T18:42:59.094921+00:00"
+    },
+    {
+      "id": 442680,
+      "league": "Germany 3. Liga",
+      "home": "Jahn Regensburg",
+      "away": "Fortuna Dusseldorf",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 83,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.3,
+      "prob": 76.76,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-15T18:42:59.094890+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-15T18:42:59.094893+00:00"
+    },
+    {
+      "id": 441458,
+      "league": "Netherlands Eredivisie",
+      "home": "Ajax",
+      "away": "Willem II",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 42,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.1,
+      "prob": 86.23,
+      "lps_at_entry": 85.6,
+      "confidence": "Alta",
+      "entered_at": "2026-09-15T18:42:59.094877+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-15T18:42:59.094881+00:00"
+    },
+    {
       "id": 441456,
       "league": "Switzerland Super League",
       "home": "Grasshoppers",
@@ -332,6 +398,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "441456"
+    "441458",
+    "441459",
+    "442680"
   ]
 }
