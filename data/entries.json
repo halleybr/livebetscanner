@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 443415,
+      "league": "Brazil U20 Cup",
+      "home": "Atletico Paranaense U20",
+      "away": "Luverdense U20",
+      "home_score_at_entry": 5,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-16T19:46:00.199742+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-16T19:46:00.199745+00:00"
+    },
+    {
+      "id": 443407,
+      "league": "Brazil Campeonato Gaucho 2",
+      "home": "Gramadense",
+      "away": "Brasil de Farroupilha",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 84,
+      "market": null,
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "corners",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-16T19:46:00.199730+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-16T19:46:00.199735+00:00"
+    },
+    {
       "id": 442971,
       "league": "UEFA Europa League",
       "home": "Bayer Leverkusen",
@@ -244,6 +288,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "442971"
+    "442971",
+    "443407",
+    "443415"
   ]
 }
