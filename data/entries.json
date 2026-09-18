@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 445628,
+      "league": "Spain Primera Women",
+      "home": "CD Alaves (W)",
+      "away": "Barcelona (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 25,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-18T18:26:14.955529+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-18T18:26:14.955535+00:00"
+    },
+    {
+      "id": 444363,
+      "league": "Germany 3. Liga",
+      "home": "Verl",
+      "away": "Wurzburger Kickers",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 69,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-18T18:26:14.955476+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-18T18:26:14.955481+00:00"
+    },
+    {
       "id": 444648,
       "league": "Germany Bundesliga Women",
       "home": "Mainz (W)",
@@ -16,9 +60,9 @@
       "lps_at_entry": 74.4,
       "confidence": "Alta",
       "entered_at": "2026-09-18T18:17:00.107941+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-18T18:26:14.955623+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-09-18T18:17:00.107944+00:00"
     },
@@ -60,9 +104,9 @@
       "lps_at_entry": 81.0,
       "confidence": "Alta",
       "entered_at": "2026-09-18T18:17:00.107920+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-18T18:26:14.955634+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-18T18:17:00.107924+00:00"
     },
@@ -310,8 +354,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "444647",
-    "444648",
-    "445700"
+    "444363",
+    "445628"
   ]
 }
