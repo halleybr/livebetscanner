@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 446179,
+      "league": "Costa Rica Segunda",
+      "home": "AD Cofutpa",
+      "away": "AD Sarchi",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 82,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.25,
+      "prob": 72.49,
+      "lps_at_entry": 76.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-19T22:53:33.571662+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-19T22:53:33.571667+00:00"
+    },
+    {
       "id": 446085,
       "league": "Belgium First Amateur Division",
       "home": "Dessel Sport",
@@ -661,5 +683,7 @@
       "last_alerted_at": "2026-09-18T11:20:32.715926+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "446179"
+  ]
 }
