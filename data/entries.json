@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 446072,
+      "league": "England Championship",
+      "home": "Millwall",
+      "away": "West Ham",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 88,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.18,
+      "prob": 80.45,
+      "lps_at_entry": 71.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-19T13:16:37.935815+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-19T13:16:37.935818+00:00"
+    },
+    {
+      "id": 446071,
+      "league": "England League 1",
+      "home": "Barnsley",
+      "away": "Leicester",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 87,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-19T13:16:37.935803+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-19T13:16:37.935807+00:00"
+    },
+    {
       "id": 445597,
       "league": "Northern Ireland Premier League Women",
       "home": "Cliftonville (W)",
@@ -309,5 +353,8 @@
       "last_alerted_at": "2026-09-17T18:37:07.458368+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "446071",
+    "446072"
+  ]
 }
