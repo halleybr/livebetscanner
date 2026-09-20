@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 447705,
+      "league": "Brazil Serie C",
+      "home": "Ferroviaria SP",
+      "away": "Brusque",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-20T23:28:11.659350+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-20T23:28:11.659353+00:00"
+    },
+    {
+      "id": 448852,
+      "league": "Mexico Liga MX Femenil",
+      "home": "Club America (W)",
+      "away": "Atlas (W)",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 81,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 82.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-20T23:28:11.659339+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-20T23:28:11.659343+00:00"
+    },
+    {
       "id": 449645,
       "league": "USA MLS Next Pro League",
       "home": "Tacoma Defiance",
@@ -16,9 +60,9 @@
       "lps_at_entry": 70.8,
       "confidence": "Alta",
       "entered_at": "2026-09-20T21:51:45.143926+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-20T23:28:11.659552+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-20T21:51:45.143928+00:00"
     },
@@ -38,9 +82,9 @@
       "lps_at_entry": 74.1,
       "confidence": "Alta",
       "entered_at": "2026-09-20T21:51:45.143914+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-20T23:28:11.659560+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-20T21:51:45.143918+00:00"
     },
@@ -1124,7 +1168,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "448482",
-    "449645"
+    "447705",
+    "448852"
   ]
 }
