@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 448955,
+      "league": "Venezuela Segunda Division",
+      "home": "Atletico Barinas",
+      "away": "Academia Puerto Cabello II",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.25,
+      "prob": 73.24,
+      "lps_at_entry": 70.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-20T21:35:45.505608+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-20T21:35:45.505612+00:00"
+    },
+    {
       "id": 447621,
       "league": "Brazil Serie C",
       "home": "Santa Cruz FC",
@@ -16,10 +38,10 @@
       "lps_at_entry": 71.1,
       "confidence": "Alta",
       "entered_at": "2026-09-20T19:43:32.640642+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-09-20T21:35:45.505807+00:00",
+      "final_score": "1 x 0",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-20T19:43:32.640643+00:00"
     },
     {
@@ -38,9 +60,9 @@
       "lps_at_entry": 71.5,
       "confidence": "Alta",
       "entered_at": "2026-09-20T19:43:32.640636+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-20T21:35:45.505817+00:00",
+      "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-09-20T19:43:32.640637+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 83.2,
       "confidence": "Alta",
       "entered_at": "2026-09-20T19:43:32.640631+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-20T21:35:45.505822+00:00",
+      "final_score": "4 x 1",
       "note": null,
       "last_alerted_at": "2026-09-20T19:43:32.640633+00:00"
     },
@@ -82,9 +104,9 @@
       "lps_at_entry": 84.9,
       "confidence": "Alta",
       "entered_at": "2026-09-20T19:43:32.640623+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-20T21:35:45.505826+00:00",
+      "final_score": "0 x 1",
       "note": null,
       "last_alerted_at": "2026-09-20T19:43:32.640626+00:00"
     },
@@ -1055,34 +1077,9 @@
       "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-19T13:16:37.935807+00:00"
-    },
-    {
-      "id": 445597,
-      "league": "Northern Ireland Premier League Women",
-      "home": "Cliftonville (W)",
-      "away": "Lisburn Rangers (W)",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 93,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.3,
-      "confidence": "Alta",
-      "entered_at": "2026-09-18T20:56:46.997938+00:00",
-      "status": "green",
-      "settled_at": "2026-09-18T21:04:54.086313+00:00",
-      "final_score": "3 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-18T20:56:46.997942+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "447621",
-    "448844",
-    "449481",
-    "449637"
+    "448955"
   ]
 }
