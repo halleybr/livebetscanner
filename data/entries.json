@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 449860,
+      "league": "Mexico Liga MX",
+      "home": "Toluca",
+      "away": "Santos Laguna",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 69,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 85.93,
+      "lps_at_entry": 70.9,
+      "confidence": "Alta",
+      "entered_at": "2026-09-21T01:37:05.663605+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-21T01:37:05.663609+00:00"
+    },
+    {
       "id": 447705,
       "league": "Brazil Serie C",
       "home": "Ferroviaria SP",
@@ -1167,5 +1189,7 @@
       "last_alerted_at": "2026-09-19T13:16:37.935807+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "449860"
+  ]
 }
