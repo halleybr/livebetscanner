@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 452203,
+      "league": "CONCACAF Nations League",
+      "home": "Bahamas",
+      "away": "Saint Martin",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 8,
+      "minute_at_entry": 80,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 87.78,
+      "lps_at_entry": 79.0,
+      "confidence": "Alta",
+      "entered_at": "2026-09-23T21:40:31.474200+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-23T21:40:31.474204+00:00"
+    },
+    {
       "id": 452397,
       "league": "England National League Cup",
       "home": "Boreham Wood",
@@ -16,9 +38,9 @@
       "lps_at_entry": 72.3,
       "confidence": "Alta",
       "entered_at": "2026-09-23T18:28:24.724881+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-23T21:40:31.474260+00:00",
+      "final_score": "1 x 1",
       "note": null,
       "last_alerted_at": "2026-09-23T18:28:24.724883+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 72.8,
       "confidence": "Alta",
       "entered_at": "2026-09-23T18:28:24.724873+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-23T21:40:31.474268+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-09-23T18:28:24.724875+00:00"
     },
@@ -134,7 +156,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "452273",
-    "452397"
+    "452203"
   ]
 }
