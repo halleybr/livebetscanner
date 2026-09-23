@@ -1,6 +1,72 @@
 {
   "entries": [
     {
+      "id": 452397,
+      "league": "England National League Cup",
+      "home": "Boreham Wood",
+      "away": "Everton U21",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 28,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 74.78,
+      "lps_at_entry": 72.3,
+      "confidence": "Alta",
+      "entered_at": "2026-09-23T18:28:24.724881+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-23T18:28:24.724883+00:00"
+    },
+    {
+      "id": 452273,
+      "league": "Netherlands Cup",
+      "home": "JOS Watergraafsmeer",
+      "away": "TEC",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 24,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.14,
+      "prob": 80.4,
+      "lps_at_entry": 72.8,
+      "confidence": "Alta",
+      "entered_at": "2026-09-23T18:28:24.724873+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-23T18:28:24.724875+00:00"
+    },
+    {
+      "id": 452284,
+      "league": "England League Cup Women",
+      "home": "Crystal Palace (W)",
+      "away": "Watford (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 27,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.2,
+      "prob": 76.08,
+      "lps_at_entry": 77.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-23T18:28:24.724861+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-23T18:28:24.724865+00:00"
+    },
+    {
       "id": 452249,
       "league": "Lithuania A Lyga Women",
       "home": "Gintra Universitetas (W)",
@@ -16,9 +82,9 @@
       "lps_at_entry": 72.4,
       "confidence": "Alta",
       "entered_at": "2026-09-23T16:55:57.359151+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-23T18:28:24.724921+00:00",
+      "final_score": "3 x 1",
       "note": null,
       "last_alerted_at": "2026-09-23T16:55:57.359155+00:00"
     },
@@ -112,6 +178,8 @@
     }
   ],
   "last_opportunity_ids": [
-    "452249"
+    "452273",
+    "452284",
+    "452397"
   ]
 }
