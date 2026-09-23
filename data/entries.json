@@ -65,28 +65,6 @@
       "final_score": "3 x 2",
       "note": null,
       "last_alerted_at": "2026-09-21T18:39:54.295239+00:00"
-    },
-    {
-      "id": 449860,
-      "league": "Mexico Liga MX",
-      "home": "Toluca",
-      "away": "Santos Laguna",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 69,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 85.93,
-      "lps_at_entry": 70.9,
-      "confidence": "Alta",
-      "entered_at": "2026-09-21T01:37:05.663605+00:00",
-      "status": "green",
-      "settled_at": "2026-09-21T06:30:27.167868+00:00",
-      "final_score": "2 x 3",
-      "note": null,
-      "last_alerted_at": "2026-09-21T01:37:05.663609+00:00"
     }
   ],
   "last_opportunity_ids": []
