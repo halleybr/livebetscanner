@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 451897,
+      "league": "India Bangalore Super Division",
+      "home": "Parikrma FC",
+      "away": "FC Real Bengaluru",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 51,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.22,
+      "prob": 74.31,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-09-23T06:43:55.315150+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-23T06:43:55.315154+00:00"
+    },
+    {
       "id": 451739,
       "league": "Austria Regionalliga South",
       "home": "Austria Klagenfurt",
@@ -67,5 +89,7 @@
       "last_alerted_at": "2026-09-21T18:39:54.295239+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "451897"
+  ]
 }
