@@ -60,9 +60,9 @@
       "lps_at_entry": 77.2,
       "confidence": "Alta",
       "entered_at": "2026-09-23T18:28:24.724861+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-23T19:55:14.403014+00:00",
+      "final_score": "1 x 0",
       "note": null,
       "last_alerted_at": "2026-09-23T18:28:24.724865+00:00"
     },
@@ -131,55 +131,10 @@
       "final_score": "2 x 1",
       "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-09-22T19:06:24.817486+00:00"
-    },
-    {
-      "id": 450818,
-      "league": "England Premier League 2",
-      "home": "Bournemouth U21",
-      "away": "Stoke U21",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 52,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.13,
-      "prob": 79.49,
-      "lps_at_entry": 73.1,
-      "confidence": "Alta",
-      "entered_at": "2026-09-21T19:13:02.890555+00:00",
-      "status": "green",
-      "settled_at": "2026-09-21T22:11:28.532316+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-21T19:13:02.890560+00:00"
-    },
-    {
-      "id": 450817,
-      "league": "Sweden 1.div Södra",
-      "home": "Jonkopings Sodra",
-      "away": "Skövde AIK",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 81,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.7,
-      "confidence": "Alta",
-      "entered_at": "2026-09-21T18:39:54.295236+00:00",
-      "status": "green",
-      "settled_at": "2026-09-21T19:13:02.890596+00:00",
-      "final_score": "3 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-21T18:39:54.295239+00:00"
     }
   ],
   "last_opportunity_ids": [
     "452273",
-    "452284",
     "452397"
   ]
 }
