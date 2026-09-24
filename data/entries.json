@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 452567,
+      "league": "Slovakia 3. Liga",
+      "home": "FK Podkonice",
+      "away": "MFK Ruzomberok II",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 4,
+      "minute_at_entry": 89,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 83.7,
+      "confidence": "Alta",
+      "entered_at": "2026-09-24T15:16:32.520057+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-24T15:16:32.520061+00:00"
+    },
+    {
       "id": 452203,
       "league": "CONCACAF Nations League",
       "home": "Bahamas",
@@ -155,5 +177,7 @@
       "last_alerted_at": "2026-09-22T19:06:24.817486+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "452567"
+  ]
 }
