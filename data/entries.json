@@ -109,28 +109,6 @@
       "final_score": "4 x 4",
       "note": null,
       "last_alerted_at": "2026-09-24T15:16:32.520061+00:00"
-    },
-    {
-      "id": 452203,
-      "league": "CONCACAF Nations League",
-      "home": "Bahamas",
-      "away": "Saint Martin",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 8,
-      "minute_at_entry": 80,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 87.78,
-      "lps_at_entry": 79.0,
-      "confidence": "Alta",
-      "entered_at": "2026-09-23T21:40:31.474200+00:00",
-      "status": "green",
-      "settled_at": "2026-09-23T22:32:05.358754+00:00",
-      "final_score": "0 x 8",
-      "note": null,
-      "last_alerted_at": "2026-09-23T21:40:31.474204+00:00"
     }
   ],
   "last_opportunity_ids": []
