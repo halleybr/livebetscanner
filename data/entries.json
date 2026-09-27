@@ -395,28 +395,6 @@
       "final_score": "3 x 4",
       "note": null,
       "last_alerted_at": "2026-09-25T19:17:20.007136+00:00"
-    },
-    {
-      "id": 453350,
-      "league": "CONCACAF Nations League",
-      "home": "Haiti",
-      "away": "Trinidad & Tobago",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 95,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 84.83,
-      "lps_at_entry": 73.5,
-      "confidence": "Alta",
-      "entered_at": "2026-09-25T02:16:23.345341+00:00",
-      "status": "green",
-      "settled_at": "2026-09-25T05:19:42.401001+00:00",
-      "final_score": "3 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-25T02:16:23.345344+00:00"
     }
   ],
   "last_opportunity_ids": []
