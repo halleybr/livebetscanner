@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 457749,
+      "league": "Brazil Campeonato Paulista U20",
+      "home": "Bragantino U20",
+      "away": "CA Bandeirante U20",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 55,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.4,
+      "confidence": "Alta",
+      "entered_at": "2026-09-27T19:14:29.768697+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-27T19:14:29.768702+00:00"
+    },
+    {
       "id": 456258,
       "league": "Mexico Liga MX Femenil",
       "home": "Puebla (W)",
@@ -442,6 +464,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "456258"
+    "456258",
+    "457749"
   ]
 }
