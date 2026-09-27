@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 456258,
+      "league": "Mexico Liga MX Femenil",
+      "home": "Puebla (W)",
+      "away": "Monterrey (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 45,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.2,
+      "confidence": "Alta",
+      "entered_at": "2026-09-27T19:02:46.773787+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-27T19:02:46.773791+00:00"
+    },
+    {
       "id": 456407,
       "league": "Finland U21 League",
       "home": "Atlantis U21",
@@ -419,5 +441,7 @@
       "last_alerted_at": "2026-09-25T19:17:20.007136+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "456258"
+  ]
 }
