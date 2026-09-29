@@ -16,9 +16,9 @@
       "lps_at_entry": 73.1,
       "confidence": "Alta",
       "entered_at": "2026-09-29T09:57:19.251922+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-29T15:41:41.353348+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-29T09:57:19.251926+00:00"
     },
@@ -87,31 +87,7 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-09-27T19:02:46.773791+00:00"
-    },
-    {
-      "id": 456407,
-      "league": "Finland U21 League",
-      "home": "Atlantis U21",
-      "away": "ESPA U21",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 4,
-      "minute_at_entry": 90,
-      "market": "Próximo gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.2,
-      "confidence": "Média",
-      "entered_at": "2026-09-27T10:43:49.452565+00:00",
-      "status": "red",
-      "settled_at": "2026-09-27T11:02:29.214895+00:00",
-      "final_score": "3 x 4",
-      "note": null,
-      "last_alerted_at": "2026-09-27T10:43:49.452568+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "459421"
-  ]
+  "last_opportunity_ids": []
 }
