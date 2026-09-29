@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 458728,
+      "league": "England National League",
+      "home": "Forest Green",
+      "away": "Wealdstone",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 67,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 76.5,
+      "confidence": "Alta",
+      "entered_at": "2026-09-29T20:13:19.113531+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-29T20:13:19.113535+00:00"
+    },
+    {
       "id": 459368,
       "league": "European U21 Championship Qual",
       "home": "Iceland U21",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.0,
       "confidence": "Alta",
       "entered_at": "2026-09-29T16:19:55.319835+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-09-29T20:13:19.113574+00:00",
+      "final_score": "5 x 1",
       "note": null,
       "last_alerted_at": "2026-09-29T16:19:55.319839+00:00"
     },
@@ -65,53 +87,9 @@
       "final_score": null,
       "note": null,
       "last_alerted_at": "2026-09-27T22:01:34.522572+00:00"
-    },
-    {
-      "id": 457749,
-      "league": "Brazil Campeonato Paulista U20",
-      "home": "Bragantino U20",
-      "away": "CA Bandeirante U20",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 55,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 75.4,
-      "confidence": "Alta",
-      "entered_at": "2026-09-27T19:14:29.768697+00:00",
-      "status": "green",
-      "settled_at": "2026-09-27T22:01:34.522733+00:00",
-      "final_score": "5 x 1",
-      "note": null,
-      "last_alerted_at": "2026-09-27T19:14:29.768702+00:00"
-    },
-    {
-      "id": 456258,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Puebla (W)",
-      "away": "Monterrey (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 45,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.2,
-      "confidence": "Alta",
-      "entered_at": "2026-09-27T19:02:46.773787+00:00",
-      "status": "green",
-      "settled_at": "2026-09-27T22:01:34.522742+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-09-27T19:02:46.773791+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "459368"
+    "458728"
   ]
 }
