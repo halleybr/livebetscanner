@@ -65,28 +65,6 @@
       "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-09-29T09:57:19.251926+00:00"
-    },
-    {
-      "id": 456325,
-      "league": "Brazil Serie C",
-      "home": "Brusque",
-      "away": "Ferroviaria SP",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 31,
-      "market": null,
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "corners",
-      "odd": 1.17,
-      "prob": 85.49,
-      "lps_at_entry": 73.8,
-      "confidence": "Alta",
-      "entered_at": "2026-09-27T22:01:34.522567+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-09-27T22:01:34.522572+00:00"
     }
   ],
   "last_opportunity_ids": []
