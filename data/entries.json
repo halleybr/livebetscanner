@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 459531,
+      "league": "UEFA Women's Europa Cup Qualifying",
+      "home": "Eintracht Frankfurt (W)",
+      "away": "FH Hafnarfjordur (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 16,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.5,
+      "confidence": "Alta",
+      "entered_at": "2026-09-30T16:47:54.206391+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-09-30T16:47:54.206394+00:00"
+    },
+    {
       "id": 458728,
       "league": "England National League",
       "home": "Forest Green",
@@ -67,5 +89,7 @@
       "last_alerted_at": "2026-09-29T09:57:19.251926+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "459531"
+  ]
 }
