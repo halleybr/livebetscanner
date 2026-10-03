@@ -307,28 +307,6 @@
       "final_score": "1 x 4",
       "note": null,
       "last_alerted_at": "2026-10-02T00:42:27.654969+00:00"
-    },
-    {
-      "id": 460743,
-      "league": "European U21 Championship Qual",
-      "home": "San Marino U21",
-      "away": "Spain U21",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 5,
-      "minute_at_entry": 45,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 74.4,
-      "confidence": "Alta",
-      "entered_at": "2026-10-01T19:00:41.296838+00:00",
-      "status": "green",
-      "settled_at": "2026-10-01T21:07:00.899580+00:00",
-      "final_score": "0 x 13",
-      "note": null,
-      "last_alerted_at": "2026-10-01T19:00:41.296841+00:00"
     }
   ],
   "last_opportunity_ids": []
