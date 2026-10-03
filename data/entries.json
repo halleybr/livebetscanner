@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 462949,
+      "league": "Spain Youth League",
+      "home": "Leganes U19",
+      "away": "Union Adarve U19",
+      "home_score_at_entry": 4,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 87,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.13,
+      "prob": 79.77,
+      "lps_at_entry": 76.9,
+      "confidence": "Alta",
+      "entered_at": "2026-10-03T16:44:21.912646+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-03T16:44:21.912648+00:00"
+    },
+    {
       "id": 461871,
       "league": "Netherlands Tweede Divisie",
       "home": "Katwijk",
@@ -16,9 +38,9 @@
       "lps_at_entry": 73.0,
       "confidence": "Alta",
       "entered_at": "2026-10-03T14:54:11.944391+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-03T16:44:21.912754+00:00",
+      "final_score": "1 x 5",
       "note": null,
       "last_alerted_at": "2026-10-03T14:54:11.944393+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 73.4,
       "confidence": "Alta",
       "entered_at": "2026-10-03T14:54:11.944382+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-03T16:44:21.912760+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-10-03T14:54:11.944385+00:00"
     },
@@ -60,10 +82,10 @@
       "lps_at_entry": 77.8,
       "confidence": "Alta",
       "entered_at": "2026-10-03T14:54:11.944369+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-10-03T16:44:21.912763+00:00",
+      "final_score": "1 x 1",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-10-03T14:54:11.944374+00:00"
     },
     {
@@ -307,33 +329,9 @@
       "final_score": "0 x 13",
       "note": null,
       "last_alerted_at": "2026-10-01T19:00:41.296841+00:00"
-    },
-    {
-      "id": 460131,
-      "league": "European U21 Championship Qual",
-      "home": "Greece U21",
-      "away": "Latvia U21",
-      "home_score_at_entry": 4,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 63,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.2,
-      "confidence": "Alta",
-      "entered_at": "2026-10-01T16:23:48.075214+00:00",
-      "status": "green",
-      "settled_at": "2026-10-01T19:00:41.296869+00:00",
-      "final_score": "4 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-01T16:23:48.075216+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "461871",
-    "461896",
-    "463249"
+    "462949"
   ]
 }
