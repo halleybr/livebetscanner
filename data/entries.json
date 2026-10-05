@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 464354,
+      "league": "Mexico Liga MX Femenil",
+      "home": "Pachuca (W)",
+      "away": "Toluca (W)",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 34,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 86.42,
+      "lps_at_entry": 76.1,
+      "confidence": "Alta",
+      "entered_at": "2026-10-05T01:41:25.112437+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-05T01:41:25.112442+00:00"
+    },
+    {
       "id": 463989,
       "league": "Northern Ireland Premier League Women",
       "home": "Crusaders Strikers (W)",
@@ -441,5 +463,7 @@
       "last_alerted_at": "2026-10-03T10:39:47.020164+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "464354"
+  ]
 }
