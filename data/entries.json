@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 466711,
+      "league": "Slovakia Youth League",
+      "home": "FC Petrzalka U19",
+      "away": "FC Kosice U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 85,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 74.51,
+      "lps_at_entry": 79.8,
+      "confidence": "Alta",
+      "entered_at": "2026-10-06T14:45:02.090126+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-06T14:45:02.090130+00:00"
+    },
+    {
       "id": 466347,
       "league": "CONCACAF Nations League",
       "home": "Bermuda",
@@ -109,51 +131,9 @@
       "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-10-04T18:42:36.417511+00:00"
-    },
-    {
-      "id": 463557,
-      "league": "Norway Division 3 Group 1",
-      "home": "Baerum",
-      "away": "IF Ready",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 35,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.22,
-      "prob": 86.1,
-      "lps_at_entry": 70.8,
-      "confidence": "Alta",
-      "entered_at": "2026-10-04T12:36:45.343874+00:00",
-      "status": "green",
-      "settled_at": "2026-10-04T15:28:35.393717+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-04T12:36:45.343878+00:00"
-    },
-    {
-      "id": 464209,
-      "league": "Serbia U19 League",
-      "home": "TSC Backa Topola U19",
-      "away": "FK Vozdovac U19",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 25,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.2,
-      "prob": 77.05,
-      "lps_at_entry": 75.5,
-      "confidence": "Alta",
-      "entered_at": "2026-10-04T10:29:43.844533+00:00",
-      "status": "green",
-      "settled_at": "2026-10-04T12:36:45.343939+00:00",
-      "final_score": "2 x 1",
-      "note": null,
-      "last_alerted_at": "2026-10-04T10:29:43.844536+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "466711"
+  ]
 }
