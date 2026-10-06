@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 466347,
+      "league": "CONCACAF Nations League",
+      "home": "Bermuda",
+      "away": "Barbados",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 74,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.11,
+      "prob": 87.05,
+      "lps_at_entry": 70.8,
+      "confidence": "Alta",
+      "entered_at": "2026-10-06T01:30:50.381528+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-06T01:30:50.381533+00:00"
+    },
+    {
       "id": 464354,
       "league": "Mexico Liga MX Femenil",
       "home": "Pachuca (W)",
@@ -153,51 +175,9 @@
       "final_score": "8 x 4",
       "note": null,
       "last_alerted_at": "2026-10-04T06:23:54.410267+00:00"
-    },
-    {
-      "id": 462154,
-      "league": "Brazil Serie C",
-      "home": "Paysandu",
-      "away": "Ferroviaria SP",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 68,
-      "market": null,
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "corners",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 73.7,
-      "confidence": "Alta",
-      "entered_at": "2026-10-03T23:57:41.078077+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-10-03T23:57:41.078080+00:00"
-    },
-    {
-      "id": 462150,
-      "league": "USA USL Championship",
-      "home": "Loudoun United FC",
-      "away": "Indy Eleven",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 94,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 87.4,
-      "confidence": "Alta",
-      "entered_at": "2026-10-03T23:57:41.078063+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-10-03T23:57:41.078067+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "466347"
+  ]
 }
