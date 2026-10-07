@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 467198,
+      "league": "Copa do Brasil U20",
+      "home": "Nautico Capibaribe U20",
+      "away": "Sergipe U20",
+      "home_score_at_entry": 5,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 55,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.11,
+      "prob": 80.5,
+      "lps_at_entry": 85.1,
+      "confidence": "Alta",
+      "entered_at": "2026-10-07T19:19:17.625901+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-07T19:19:17.625905+00:00"
+    },
+    {
       "id": 467070,
       "league": "Serbia U19 League",
       "home": "Jedinstvo UB U19",
@@ -16,9 +38,9 @@
       "lps_at_entry": 70.6,
       "confidence": "Alta",
       "entered_at": "2026-10-07T16:19:02.260041+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-07T19:19:17.625960+00:00",
+      "final_score": "0 x 4",
       "note": null,
       "last_alerted_at": "2026-10-07T16:19:02.260045+00:00"
     },
@@ -200,6 +222,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "467070"
+    "467198"
   ]
 }
