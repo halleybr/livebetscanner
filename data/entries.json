@@ -175,28 +175,6 @@
       "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-10-06T01:30:50.381533+00:00"
-    },
-    {
-      "id": 464354,
-      "league": "Mexico Liga MX Femenil",
-      "home": "Pachuca (W)",
-      "away": "Toluca (W)",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 34,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.1,
-      "prob": 86.42,
-      "lps_at_entry": 76.1,
-      "confidence": "Alta",
-      "entered_at": "2026-10-05T01:41:25.112437+00:00",
-      "status": "green",
-      "settled_at": "2026-10-05T05:53:10.579235+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-05T01:41:25.112442+00:00"
     }
   ],
   "last_opportunity_ids": []
