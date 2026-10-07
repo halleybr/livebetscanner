@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 467070,
+      "league": "Serbia U19 League",
+      "home": "Jedinstvo UB U19",
+      "away": "Crvena Zvezda U19",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 14,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.1,
+      "prob": 84.62,
+      "lps_at_entry": 70.6,
+      "confidence": "Alta",
+      "entered_at": "2026-10-07T16:19:02.260041+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-07T16:19:02.260045+00:00"
+    },
+    {
       "id": 466319,
       "league": "England EFL Trophy",
       "home": "Wycombe",
@@ -177,5 +199,7 @@
       "last_alerted_at": "2026-10-06T01:30:50.381533+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "467070"
+  ]
 }
