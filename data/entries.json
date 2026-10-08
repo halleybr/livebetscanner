@@ -197,28 +197,6 @@
       "final_score": "3 x 1",
       "note": null,
       "last_alerted_at": "2026-10-06T14:45:02.090130+00:00"
-    },
-    {
-      "id": 466347,
-      "league": "CONCACAF Nations League",
-      "home": "Bermuda",
-      "away": "Barbados",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 74,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.11,
-      "prob": 87.05,
-      "lps_at_entry": 70.8,
-      "confidence": "Alta",
-      "entered_at": "2026-10-06T01:30:50.381528+00:00",
-      "status": "green",
-      "settled_at": "2026-10-06T02:31:56.545402+00:00",
-      "final_score": "1 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-06T01:30:50.381533+00:00"
     }
   ],
   "last_opportunity_ids": []
