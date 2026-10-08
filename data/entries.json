@@ -16,9 +16,9 @@
       "lps_at_entry": 72.1,
       "confidence": "Alta",
       "entered_at": "2026-10-08T14:35:56.925276+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-08T16:54:04.456625+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-10-08T14:35:56.925280+00:00"
     },
@@ -197,31 +197,7 @@
       "final_score": "0 x 0",
       "note": null,
       "last_alerted_at": "2026-10-06T19:51:01.254903+00:00"
-    },
-    {
-      "id": 466711,
-      "league": "Slovakia Youth League",
-      "home": "FC Petrzalka U19",
-      "away": "FC Kosice U19",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 85,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 74.51,
-      "lps_at_entry": 79.8,
-      "confidence": "Alta",
-      "entered_at": "2026-10-06T14:45:02.090126+00:00",
-      "status": "green",
-      "settled_at": "2026-10-06T16:01:32.842594+00:00",
-      "final_score": "3 x 1",
-      "note": null,
-      "last_alerted_at": "2026-10-06T14:45:02.090130+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "467680"
-  ]
+  "last_opportunity_ids": []
 }
