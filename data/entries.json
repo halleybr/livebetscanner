@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 467994,
+      "league": "Jordan League",
+      "home": "Al Hussein SC",
+      "away": "Al-Arabi Irbid",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 37,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 72.4,
+      "confidence": "Alta",
+      "entered_at": "2026-10-09T14:38:15.362538+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-09T14:38:15.362542+00:00"
+    },
+    {
+      "id": 467797,
+      "league": "Israel Leumit Liga",
+      "home": "Maccabi Kiryat Gat",
+      "away": "SC Kiryat Yam",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 81,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.22,
+      "prob": 74.75,
+      "lps_at_entry": 73.7,
+      "confidence": "Alta",
+      "entered_at": "2026-10-09T14:38:15.362524+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-09T14:38:15.362528+00:00"
+    },
+    {
       "id": 467735,
       "league": "Norway Interkretsserie U19",
       "home": "Haslum U19",
@@ -89,5 +133,8 @@
       "last_alerted_at": "2026-10-07T16:19:02.260045+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "467797",
+    "467994"
+  ]
 }
