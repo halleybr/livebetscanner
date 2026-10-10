@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 470703,
+      "league": "Hungary NB I",
+      "home": "Paksi",
+      "away": "MTK Budapest",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 56,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 79.1,
+      "confidence": "Alta",
+      "entered_at": "2026-10-10T18:43:53.738261+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-10T18:43:53.738263+00:00"
+    },
+    {
       "id": 470329,
       "league": "Germany Bundesliga I",
       "home": "Paderborn",
@@ -16,9 +38,9 @@
       "lps_at_entry": 71.3,
       "confidence": "Alta",
       "entered_at": "2026-10-10T15:06:42.618500+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738397+00:00",
+      "final_score": "0 x 2",
       "note": null,
       "last_alerted_at": "2026-10-10T15:06:42.618502+00:00"
     },
@@ -38,9 +60,9 @@
       "lps_at_entry": 71.9,
       "confidence": "Alta",
       "entered_at": "2026-10-10T15:06:42.618492+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738403+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-10-10T15:06:42.618494+00:00"
     },
@@ -60,9 +82,9 @@
       "lps_at_entry": 80.6,
       "confidence": "Alta",
       "entered_at": "2026-10-10T15:06:42.618479+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738412+00:00",
+      "final_score": "1 x 3",
       "note": null,
       "last_alerted_at": "2026-10-10T15:06:42.618483+00:00"
     },
@@ -82,9 +104,9 @@
       "lps_at_entry": 70.2,
       "confidence": "Alta",
       "entered_at": "2026-10-10T14:25:33.897500+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738414+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-10-10T14:25:33.897501+00:00"
     },
@@ -148,9 +170,9 @@
       "lps_at_entry": 71.0,
       "confidence": "Alta",
       "entered_at": "2026-10-10T14:25:33.897489+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738416+00:00",
+      "final_score": "3 x 0",
       "note": null,
       "last_alerted_at": "2026-10-10T14:25:33.897490+00:00"
     },
@@ -214,9 +236,9 @@
       "lps_at_entry": 74.3,
       "confidence": "Alta",
       "entered_at": "2026-10-10T14:25:33.897475+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738418+00:00",
+      "final_score": "1 x 2",
       "note": null,
       "last_alerted_at": "2026-10-10T14:25:33.897476+00:00"
     },
@@ -258,9 +280,9 @@
       "lps_at_entry": 77.4,
       "confidence": "Alta",
       "entered_at": "2026-10-10T14:25:33.897461+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T18:43:53.738420+00:00",
+      "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-10-10T14:25:33.897464+00:00"
     },
@@ -508,8 +530,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "470323",
-    "470329",
-    "470766"
+    "470703"
   ]
 }
