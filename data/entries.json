@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 470681,
+      "league": "Canada Premier League",
+      "home": "Supra du Quebec",
+      "away": "Vancouver FC",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 92,
+      "market": null,
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "corners",
+      "odd": 1.25,
+      "prob": 79.58,
+      "lps_at_entry": 78.3,
+      "confidence": "Alta",
+      "entered_at": "2026-10-10T22:00:06.429839+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-10T22:00:06.429843+00:00"
+    },
+    {
       "id": 470703,
       "league": "Hungary NB I",
       "home": "Paksi",
@@ -16,9 +38,9 @@
       "lps_at_entry": 79.1,
       "confidence": "Alta",
       "entered_at": "2026-10-10T18:43:53.738261+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-10T22:00:06.430065+00:00",
+      "final_score": "3 x 0",
       "note": null,
       "last_alerted_at": "2026-10-10T18:43:53.738263+00:00"
     },
@@ -505,31 +527,9 @@
       "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-10-09T14:38:15.362528+00:00"
-    },
-    {
-      "id": 467735,
-      "league": "Norway Interkretsserie U19",
-      "home": "Haslum U19",
-      "away": "Skedsmo U19",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 2,
-      "minute_at_entry": 88,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.13,
-      "prob": 79.41,
-      "lps_at_entry": 72.2,
-      "confidence": "Alta",
-      "entered_at": "2026-10-08T20:04:35.201770+00:00",
-      "status": "green",
-      "settled_at": "2026-10-08T21:38:03.420141+00:00",
-      "final_score": "3 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-08T20:04:35.201774+00:00"
     }
   ],
   "last_opportunity_ids": [
-    "470703"
+    "470681"
   ]
 }
