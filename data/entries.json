@@ -16,9 +16,9 @@
       "lps_at_entry": 70.9,
       "confidence": "Alta",
       "entered_at": "2026-10-11T18:47:09.414698+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-11T21:48:50.360411+00:00",
+      "final_score": "2 x 3",
       "note": null,
       "last_alerted_at": "2026-10-11T18:47:09.414700+00:00"
     },
@@ -38,10 +38,10 @@
       "lps_at_entry": 71.2,
       "confidence": "Alta",
       "entered_at": "2026-10-11T18:47:09.414686+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-10-11T21:48:50.360421+00:00",
+      "final_score": "0 x 1",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-10-11T18:47:09.414690+00:00"
     },
     {
@@ -417,54 +417,7 @@
       "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-10-10T14:25:33.897464+00:00"
-    },
-    {
-      "id": 468861,
-      "league": "England U21 Premier League Cup",
-      "home": "Peterborough U21",
-      "away": "Nottm Forest U21",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 5,
-      "minute_at_entry": 84,
-      "market": "Over 0.5 gol",
-      "corner_market": null,
-      "entry_type": "goals",
-      "odd": 1.17,
-      "prob": 75.45,
-      "lps_at_entry": 70.8,
-      "confidence": "Alta",
-      "entered_at": "2026-10-09T19:43:35.999698+00:00",
-      "status": "green",
-      "settled_at": "2026-10-09T22:55:04.191624+00:00",
-      "final_score": "1 x 5",
-      "note": null,
-      "last_alerted_at": "2026-10-09T19:43:35.999701+00:00"
-    },
-    {
-      "id": 467848,
-      "league": "Italy Serie C Group A",
-      "home": "Union Brescia",
-      "away": "Pro Vercelli",
-      "home_score_at_entry": 1,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 55,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 78.46,
-      "lps_at_entry": 74.7,
-      "confidence": "Alta",
-      "entered_at": "2026-10-09T19:43:35.999684+00:00",
-      "status": "green",
-      "settled_at": "2026-10-09T22:55:04.191634+00:00",
-      "final_score": "2 x 0",
-      "note": null,
-      "last_alerted_at": "2026-10-09T19:43:35.999689+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "472423",
-    "472428"
-  ]
+  "last_opportunity_ids": []
 }
