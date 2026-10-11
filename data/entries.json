@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 472091,
+      "league": "Norway Division 2 Group 2",
+      "home": "Lørenskog",
+      "away": "Trygg/Lade",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 87,
+      "market": "Over 0.5 gol",
+      "corner_market": null,
+      "entry_type": "goals",
+      "odd": 1.11,
+      "prob": 85.56,
+      "lps_at_entry": 74.5,
+      "confidence": "Alta",
+      "entered_at": "2026-10-11T13:14:27.402328+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-11T13:14:27.402331+00:00"
+    },
+    {
       "id": 472000,
       "league": "Hong Kong 1st Division",
       "home": "Hoi King",
@@ -16,9 +38,9 @@
       "lps_at_entry": 83.9,
       "confidence": "Alta",
       "entered_at": "2026-10-11T07:12:29.823269+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-11T13:14:27.402446+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-10-11T07:12:29.823273+00:00"
     },
@@ -552,6 +574,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "472000"
+    "472091"
   ]
 }
