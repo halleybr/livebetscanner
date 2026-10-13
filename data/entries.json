@@ -131,28 +131,6 @@
       "final_score": "3 x 3",
       "note": null,
       "last_alerted_at": "2026-10-11T13:14:27.402331+00:00"
-    },
-    {
-      "id": 472000,
-      "league": "Hong Kong 1st Division",
-      "home": "Hoi King",
-      "away": "Citizen AA",
-      "home_score_at_entry": 2,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 86,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.17,
-      "prob": 75.9,
-      "lps_at_entry": 83.9,
-      "confidence": "Alta",
-      "entered_at": "2026-10-11T07:12:29.823269+00:00",
-      "status": "green",
-      "settled_at": "2026-10-11T13:14:27.402446+00:00",
-      "final_score": "2 x 2",
-      "note": null,
-      "last_alerted_at": "2026-10-11T07:12:29.823273+00:00"
     }
   ],
   "last_opportunity_ids": []
