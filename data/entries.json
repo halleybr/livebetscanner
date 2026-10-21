@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 492246,
+      "league": "Switzerland U19 Elite",
+      "home": "FC Zurich U19",
+      "away": "St Gallen U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 83,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 77.65,
+      "lps_at_entry": 71.1,
+      "confidence": "Alta",
+      "entered_at": "2026-10-21T17:13:59.274378+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-21T17:13:59.274381+00:00"
+    },
+    {
       "id": 489759,
       "league": "Brazil Serie B",
       "home": "Londrina",
@@ -67,5 +89,7 @@
       "last_alerted_at": "2026-10-19T19:28:51.645451+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "492246"
+  ]
 }
