@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 491505,
+      "league": "UEFA Conference League",
+      "home": "FK Kauno Zalgiris",
+      "away": "SK Brann",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 30,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-10-22T17:15:43.806660+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-22T17:15:43.806664+00:00"
+    },
+    {
       "id": 492246,
       "league": "Switzerland U19 Elite",
       "home": "FC Zurich U19",
@@ -67,5 +89,7 @@
       "last_alerted_at": "2026-10-20T20:02:24.289842+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "491505"
+  ]
 }
