@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 494382,
+      "league": "England National League",
+      "home": "Southend",
+      "away": "Halifax",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 37,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.6,
+      "confidence": "Alta",
+      "entered_at": "2026-10-24T14:38:08.537193+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-24T14:38:08.537196+00:00"
+    },
+    {
       "id": 494238,
       "league": "Norway Division 1",
       "home": "Raufoss",
@@ -16,9 +38,9 @@
       "lps_at_entry": 70.0,
       "confidence": "Alta",
       "entered_at": "2026-10-24T13:44:38.410383+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-24T14:38:08.537265+00:00",
+      "final_score": "1 x 3",
       "note": null,
       "last_alerted_at": "2026-10-24T13:44:38.410388+00:00"
     },
@@ -46,6 +68,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "494238"
+    "494382"
   ]
 }
