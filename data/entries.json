@@ -1,4 +1,52 @@
 {
-  "entries": [],
-  "last_opportunity_ids": []
+  "entries": [
+    {
+      "id": 508195,
+      "league": "Netherlands Cup",
+      "home": "VVV",
+      "away": "Vitesse",
+      "home_score_at_entry": 0,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 38,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.5,
+      "confidence": "Alta",
+      "entered_at": "2026-10-28T19:42:01.995940+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-28T19:42:01.995943+00:00"
+    },
+    {
+      "id": 508225,
+      "league": "Netherlands Cup",
+      "home": "Sparta Rotterdam",
+      "away": "Fortuna Sittard",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.29,
+      "prob": 75.24,
+      "lps_at_entry": 73.6,
+      "confidence": "Alta",
+      "entered_at": "2026-10-28T19:42:01.995927+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-28T19:42:01.995931+00:00"
+    }
+  ],
+  "last_opportunity_ids": [
+    "508195",
+    "508225"
+  ]
 }
