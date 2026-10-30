@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 510427,
+      "league": "Czechia Youth League",
+      "home": "Opava U19",
+      "away": "Sigma Olomouc U19",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 69,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": 1.17,
+      "prob": 76.8,
+      "lps_at_entry": 78.6,
+      "confidence": "Alta",
+      "entered_at": "2026-10-30T11:36:05.051355+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-30T11:36:05.051360+00:00"
+    },
+    {
       "id": 508195,
       "league": "Netherlands Cup",
       "home": "VVV",
@@ -45,5 +67,7 @@
       "last_alerted_at": "2026-10-28T19:42:01.995931+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "510427"
+  ]
 }
