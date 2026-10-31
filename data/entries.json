@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 516284,
+      "league": "Serbia U19 League",
+      "home": "TSC Backa Topola U19",
+      "away": "Cukaricki U19",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 59,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.1,
+      "confidence": "Alta",
+      "entered_at": "2026-10-31T12:52:33.455881+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-31T12:52:33.455885+00:00"
+    },
+    {
       "id": 510427,
       "league": "Czechia Youth League",
       "home": "Opava U19",
@@ -23,5 +45,7 @@
       "last_alerted_at": "2026-10-30T11:36:05.051360+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "516284"
+  ]
 }
