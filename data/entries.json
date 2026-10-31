@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 512067,
+      "league": "Estonia Meistriliiga",
+      "home": "JK Tammeka Tartu",
+      "away": "Harju JK Laagri",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 0,
+      "minute_at_entry": 59,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.3,
+      "confidence": "Alta",
+      "entered_at": "2026-10-31T13:48:06.238126+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-10-31T13:48:06.238131+00:00"
+    },
+    {
       "id": 516284,
       "league": "Serbia U19 League",
       "home": "TSC Backa Topola U19",
@@ -16,9 +38,9 @@
       "lps_at_entry": 75.1,
       "confidence": "Alta",
       "entered_at": "2026-10-31T12:52:33.455881+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-10-31T13:48:06.238206+00:00",
+      "final_score": "2 x 2",
       "note": null,
       "last_alerted_at": "2026-10-31T12:52:33.455885+00:00"
     },
@@ -46,6 +68,6 @@
     }
   ],
   "last_opportunity_ids": [
-    "516284"
+    "512067"
   ]
 }
