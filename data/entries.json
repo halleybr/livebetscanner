@@ -1,4 +1,75 @@
 {
-  "entries": [],
-  "last_opportunity_ids": []
+  "entries": [
+    {
+      "id": 525438,
+      "league": "Austria 2. Liga",
+      "home": "Admira Wacker",
+      "away": "St Polten",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 67,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.1,
+      "confidence": "Alta",
+      "entered_at": "2026-11-06T20:57:02.449635+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-06T20:57:02.449637+00:00"
+    },
+    {
+      "id": 525437,
+      "league": "Poland I Liga",
+      "home": "Odra Opole",
+      "away": "Unia Skierniewice",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 70,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 73.2,
+      "confidence": "Alta",
+      "entered_at": "2026-11-06T20:57:02.449628+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-06T20:57:02.449631+00:00"
+    },
+    {
+      "id": 525422,
+      "league": "Netherlands Eerste Divisie",
+      "home": "Helmond Sport",
+      "away": "FC Volendam",
+      "home_score_at_entry": 2,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 92,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 74.1,
+      "confidence": "Alta",
+      "entered_at": "2026-11-06T20:57:02.449619+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-06T20:57:02.449623+00:00"
+    }
+  ],
+  "last_opportunity_ids": [
+    "525422",
+    "525437",
+    "525438"
+  ]
 }
