@@ -1,6 +1,50 @@
 {
   "entries": [
     {
+      "id": 527284,
+      "league": "Czechia 2. Liga",
+      "home": "Arsenal Ceska Lipa",
+      "away": "FC Silon Taborsko",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 62,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 70.1,
+      "confidence": "Alta",
+      "entered_at": "2026-11-07T14:22:41.407573+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-07T14:22:41.407575+00:00"
+    },
+    {
+      "id": 527286,
+      "league": "Spain La Liga",
+      "home": "Malaga",
+      "away": "Racing Santander",
+      "home_score_at_entry": 1,
+      "away_score_at_entry": 2,
+      "minute_at_entry": 61,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over +7.5 escanteios",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 85.5,
+      "confidence": "Alta",
+      "entered_at": "2026-11-07T14:22:41.407566+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-07T14:22:41.407568+00:00"
+    },
+    {
       "id": 527144,
       "league": "Germany Bundesliga II",
       "home": "VfL Osnabruck",
@@ -16,10 +60,10 @@
       "lps_at_entry": 70.1,
       "confidence": "Alta",
       "entered_at": "2026-11-07T13:28:09.505040+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-11-07T14:22:41.407644+00:00",
+      "final_score": "0 x 1",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-11-07T13:28:09.505042+00:00"
     },
     {
@@ -38,10 +82,10 @@
       "lps_at_entry": 71.5,
       "confidence": "Média",
       "entered_at": "2026-11-07T13:28:09.505033+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
+      "status": "n_d",
+      "settled_at": "2026-11-07T14:22:41.407650+00:00",
+      "final_score": "1 x 2",
+      "note": "Mercado de escanteios sem dado final disponível (N/D)",
       "last_alerted_at": "2026-11-07T13:28:09.505036+00:00"
     },
     {
@@ -60,9 +104,9 @@
       "lps_at_entry": 78.6,
       "confidence": "Alta",
       "entered_at": "2026-11-07T13:28:09.505023+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-11-07T14:22:41.407653+00:00",
+      "final_score": "2 x 0",
       "note": null,
       "last_alerted_at": "2026-11-07T13:28:09.505027+00:00"
     },
@@ -156,8 +200,7 @@
     }
   ],
   "last_opportunity_ids": [
-    "527144",
-    "527145",
-    "527146"
+    "527284",
+    "527286"
   ]
 }
