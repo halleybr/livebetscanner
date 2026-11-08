@@ -16,9 +16,9 @@
       "lps_at_entry": 73.4,
       "confidence": "Alta",
       "entered_at": "2026-11-08T01:31:32.413714+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-11-08T06:52:43.339124+00:00",
+      "final_score": "0 x 2",
       "note": null,
       "last_alerted_at": "2026-11-08T01:31:32.413719+00:00"
     },
@@ -265,7 +265,5 @@
       "last_alerted_at": "2026-11-06T20:57:02.449623+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "531718"
-  ]
+  "last_opportunity_ids": []
 }
