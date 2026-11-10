@@ -1,49 +1,29 @@
 {
   "entries": [
     {
-      "id": 531718,
-      "league": "USA MLS",
-      "home": "Austin FC",
-      "away": "Portland Timbers",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 61,
+      "id": 536998,
+      "league": "Aruba Division Di Honor",
+      "home": "SV River Plate",
+      "away": "SV Deportivo Nacional",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 3,
+      "minute_at_entry": 75,
       "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
+      "corner_market": "Over de escanteios (total)",
       "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 73.4,
+      "odd": 1.1,
+      "prob": 83.92,
+      "lps_at_entry": 70.4,
       "confidence": "Alta",
-      "entered_at": "2026-11-08T01:31:32.413714+00:00",
-      "status": "green",
-      "settled_at": "2026-11-08T06:52:43.339124+00:00",
-      "final_score": "0 x 2",
-      "note": null,
-      "last_alerted_at": "2026-11-08T01:31:32.413719+00:00"
-    },
-    {
-      "id": 527619,
-      "league": "USA MLS",
-      "home": "Orlando City SC",
-      "away": "New England Revolution",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 0,
-      "minute_at_entry": 37,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 71.5,
-      "confidence": "Alta",
-      "entered_at": "2026-11-07T21:47:35.622074+00:00",
+      "entered_at": "2026-11-10T02:05:24.269921+00:00",
       "status": "ativa",
       "settled_at": null,
       "final_score": null,
       "note": null,
-      "last_alerted_at": "2026-11-07T21:47:35.622078+00:00"
+      "last_alerted_at": "2026-11-10T02:05:24.269926+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "536998"
+  ]
 }
