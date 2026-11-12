@@ -1,27 +1,4 @@
 {
-  "entries": [
-    {
-      "id": 536998,
-      "league": "Aruba Division Di Honor",
-      "home": "SV River Plate",
-      "away": "SV Deportivo Nacional",
-      "home_score_at_entry": 3,
-      "away_score_at_entry": 3,
-      "minute_at_entry": 75,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over de escanteios (total)",
-      "entry_type": "both",
-      "odd": 1.1,
-      "prob": 83.92,
-      "lps_at_entry": 70.4,
-      "confidence": "Alta",
-      "entered_at": "2026-11-10T02:05:24.269921+00:00",
-      "status": "green",
-      "settled_at": "2026-11-10T09:39:43.924787+00:00",
-      "final_score": "4 x 3",
-      "note": null,
-      "last_alerted_at": "2026-11-10T02:05:24.269926+00:00"
-    }
-  ],
+  "entries": [],
   "last_opportunity_ids": []
 }
