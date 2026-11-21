@@ -16,9 +16,9 @@
       "lps_at_entry": 71.6,
       "confidence": "Alta",
       "entered_at": "2026-11-21T12:29:24.654283+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-11-21T15:28:46.564771+00:00",
+      "final_score": "1 x 3",
       "note": null,
       "last_alerted_at": "2026-11-21T12:29:24.654285+00:00"
     },
@@ -38,15 +38,12 @@
       "lps_at_entry": 72.7,
       "confidence": "Alta",
       "entered_at": "2026-11-21T12:29:24.654273+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
+      "status": "green",
+      "settled_at": "2026-11-21T15:28:46.564782+00:00",
+      "final_score": "2 x 1",
       "note": null,
       "last_alerted_at": "2026-11-21T12:29:24.654277+00:00"
     }
   ],
-  "last_opportunity_ids": [
-    "547524",
-    "547525"
-  ]
+  "last_opportunity_ids": []
 }
