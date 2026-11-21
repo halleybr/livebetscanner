@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": 551542,
+      "league": "Mexico Liga TDP",
+      "home": "Sangre de Campeón",
+      "away": "Ciervos FC II",
+      "home_score_at_entry": 3,
+      "away_score_at_entry": 1,
+      "minute_at_entry": 90,
+      "market": "Over 0.5 gol",
+      "corner_market": "Over de escanteios (total)",
+      "entry_type": "both",
+      "odd": null,
+      "prob": null,
+      "lps_at_entry": 75.0,
+      "confidence": "Alta",
+      "entered_at": "2026-11-21T20:59:51.001545+00:00",
+      "status": "ativa",
+      "settled_at": null,
+      "final_score": null,
+      "note": null,
+      "last_alerted_at": "2026-11-21T20:59:51.001549+00:00"
+    },
+    {
       "id": 547524,
       "league": "Poland II Liga",
       "home": "Sokol Kleczew",
@@ -45,5 +67,7 @@
       "last_alerted_at": "2026-11-21T12:29:24.654277+00:00"
     }
   ],
-  "last_opportunity_ids": []
+  "last_opportunity_ids": [
+    "551542"
+  ]
 }
