@@ -1,27 +1,4 @@
 {
-  "entries": [
-    {
-      "id": 556803,
-      "league": "UEFA Champions League",
-      "home": "Slavia Prague",
-      "away": "Villarreal",
-      "home_score_at_entry": 0,
-      "away_score_at_entry": 1,
-      "minute_at_entry": 80,
-      "market": "Over 0.5 gol",
-      "corner_market": "Over +7.5 escanteios",
-      "entry_type": "both",
-      "odd": null,
-      "prob": null,
-      "lps_at_entry": 72.4,
-      "confidence": "Alta",
-      "entered_at": "2026-11-25T19:24:17.371888+00:00",
-      "status": "ativa",
-      "settled_at": null,
-      "final_score": null,
-      "note": null,
-      "last_alerted_at": "2026-11-25T19:24:17.371892+00:00"
-    }
-  ],
+  "entries": [],
   "last_opportunity_ids": []
 }
